@@ -1,0 +1,129 @@
+job_id,category,search_keyword,title,description,mandatory_skills,preferred_qualifications,experience_level,job_type,project_type,duration,workload,budget_type,budget_min,budget_max,posted_date,proposals,job_url,collected_at
+1,Data Science & Analytics,,Looking for a Data Scientist For Upcoming Projects,"We're looking for an experienced Data Scientist to join a fast-paced, results-oriented team working on real client projects. This is a long-term freelance opportunity (6+ months) with a steady stream of fixed-fee work for someone available 10–20 hours per week.
+
+Requirements
+-------------------
+- Experience solving real-world client problems.
+- Strong machine learning and traditional NLP (non-LLM) experience.
+- Strong Python skills (NumPy, Pandas, Matplotlib).
+- Writes clean code and validates their own work for accuracy.
+- Extreme attention to detail.
+- Self-starter who gets work done.
+- Strong preference for US-based candidates, but we welcome candidates from Singapore, Malaysia, UK, Vietnam, Canada who can make themselves available to US time zone.
+
+Freelancer Hiring Process
+---------------------------------
+-Test project for competence assessment
+-CEO interview of shortlisted candidates.
+
+To Apply Include:
+---------------------
+Relevant client experience.
+2–3 project examples.
+Confirmation you're willing to complete the test project and CEO interview.
+
+Only apply if you meet all requirements.","AI App Development
+AI Implementation
+AI Development
+AI Model Development
+Python
+Data Science
+Machine Learning
+Data Scraping
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,10 to 15, https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fbest-matches%2Fdetails%2F~022082191299466664105,2026-07-29 17:06:54
+2,Data Science & Analytics,,Data Extraction and Analysis Specialist,"We’re looking for a Data Scientist to help us organize and make better use of historical data across approx thousands of deals.
+
+The data currently sits across different sources and documents, with several missing or inconsistent mappings. We need someone who can help us:
+
+* Clean and connect the historical data
+* Pull key information and lender details from deal documents
+* Map deals by industry, region and other relevant fields
+* Build a model that can use this historical data to predict the same information for future deals
+
+We’re open to Random Forest or another approach you believe would work better.
+
+Strong experience with Python, data mapping, strong SQL queries and predictive modelling is important. Experience working with financial data and extracting information from documents would be a plus.
+
+Please share any similar projects you’ve worked on and a brief note on how you’d approach this.","Data Analysis
+Data Science
+Nice-to-have skills
+IBM SPSS
+Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,8.0,25.0,yesterday,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-07-29 17:06:54
+3,Data Science & Analytics,,Looking for a Data Scientist For Upcoming Projects,"We're looking for an experienced Data Scientist to join a fast-paced, results-oriented team working on real client projects. This is a long-term freelance opportunity (6+ months) with a steady stream of fixed-fee work for someone available 10–20 hours per week.
+
+Requirements
+-------------------
+- Experience solving real-world client problems.
+- Strong machine learning and traditional NLP (non-LLM) experience.
+- Strong end-to-end software engineering skills  (can pacakge, containerize, deploy code)
+- Strong Python skills (NumPy, Pandas, Matplotlib).
+- Writes clean code and validates their own work for accuracy.
+- Extreme attention to detail.
+- Self-starter who gets work done.
+- Strong preference for US-based candidates, but we welcome candidates from Singapore, Malaysia, UK, Vietnam, Canada who can make themselves available to US time zone.
+
+Freelancer Hiring Process
+---------------------------------
+-Test project for competence assessment
+-CEO interview of shortlisted candidates.
+
+To Apply Include:
+---------------------
+Relevant client experience.
+2–3 project examples.
+Confirmation you're willing to complete the test project and CEO interview.
+
+Only apply if you meet all requirements.","AI App Development
+AI Implementation
+AI Development
+AI Model Development
+Python
+Data Science
+Machine Learning
+Data Scraping
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,15 to 20,https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082191299466664105,2026-07-29 17:06:54
+4,Data Science & Analytics,physics,Data Analyst for Multi‑Sensor Building Thermal Dynamics,"We are conducting a long‑term scientific measurement project to analyze the real thermal behavior of a residential building. The goal is to evaluate how the building reacts to heating, cooling, and environmental conditions using multi‑sensor time‑series data (temperature, humidity, heating system behavior, and external climate data).
+
+We are looking for a skilled Time‑Series Data Analyst who can clean, structure, and analyze sensor data collected over several months. The work includes identifying patterns, detecting anomalies, calculating thermal response characteristics, and generating clear visualizations and reports.
+
+Your responsibilities:
+
+Clean and preprocess multi‑sensor time‑series datasets
+
+Detect anomalies, missing values, and sensor irregularities
+
+Perform statistical and time‑series analysis (correlations, regressions, gradients)
+
+Analyze thermal response curves and building dynamics
+
+Create clear visualizations (plots, heatmaps, trends)
+
+Document findings in a structured, professional format
+
+Provide insights that help validate the building’s real thermal performance
+
+Required skills:
+
+Strong experience with time‑series analysis
+
+Python (Pandas, NumPy, SciPy, Matplotlib/Seaborn/Plotly)
+
+Data cleaning and preprocessing
+
+Statistical modeling
+
+Signal processing (filters, smoothing, derivatives)
+
+Anomaly detection
+
+Clear technical documentation and reporting
+
+Nice to have:
+
+Background in building physics, HVAC, or energy systems
+
+Experience with long‑term sensor data
+
+Understanding of thermal inertia and building envelope behavior
+
+This is a focused, technical project with high scientific relevance. We value clear communication, clean code, and precise analytical thinking.",Python,,Expert,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,35.0,75.0,2 months ago,50+, https://www.upwork.com/jobs/~022056741959072715778?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022056741959072715778,2026-07-29 17:06:54

@@ -1,0 +1,108 @@
+URL: https://www.upwork.com/jobs/~022056741959072715778?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022056741959072715778
+category: Data Science & Analytics
+search_keyword: physics
+___
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Posted 2 months ago
+Worldwide
+
+Summary
+We are conducting a long‑term scientific measurement project to analyze the real thermal behavior of a residential building. The goal is to evaluate how the building reacts to heating, cooling, and environmental conditions using multi‑sensor time‑series data (temperature, humidity, heating system behavior, and external climate data).
+
+We are looking for a skilled Time‑Series Data Analyst who can clean, structure, and analyze sensor data collected over several months. The work includes identifying patterns, detecting anomalies, calculating thermal response characteristics, and generating clear visualizations and reports.
+
+Your responsibilities:
+
+Clean and preprocess multi‑sensor time‑series datasets
+
+Detect anomalies, missing values, and sensor irregularities
+
+Perform statistical and time‑series analysis (correlations, regressions, gradients)
+
+Analyze thermal response curves and building dynamics
+
+Create clear visualizations (plots, heatmaps, trends)
+
+Document findings in a structured, professional format
+
+Provide insights that help validate the building’s real thermal performance
+
+Required skills:
+
+Strong experience with time‑series analysis
+
+Python (Pandas, NumPy, SciPy, Matplotlib/Seaborn/Plotly)
+
+Data cleaning and preprocessing
+
+Statistical modeling
+
+Signal processing (filters, smoothing, derivatives)
+
+Anomaly detection
+
+Clear technical documentation and reporting
+
+Nice to have:
+
+Background in building physics, HVAC, or energy systems
+
+Experience with long‑term sensor data
+
+Understanding of thermal inertia and building envelope behavior
+
+This is a focused, technical project with high scientific relevance. We value clear communication, clean code, and precise analytical thinking.
+
+Less than 30 hrs/week
+Hourly
+Less than 1 month
+Duration
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$35.00
+
+-
+
+$75.00
+
+Hourly
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Python
+Activity on this job
+Proposals:
+50+
+Last viewed by client:
+5 days ago
+Hires:
+1
+Interviewing:
+16
+Invites sent:
+3
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 14
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 0 out of 5.
+0
+0.00 of 0 reviews
+ESP
+La Cisterniga11:44 AM
+2 jobs posted
+50% hire rate, 1 open job
+1 hire, 1 active
+Member since May 18, 2026
+Job link
+https://www.upwork.com/jobs/~022056741959072715778
+Copy link
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
