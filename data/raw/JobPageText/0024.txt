@@ -1,0 +1,142 @@
+URL: https://www.upwork.com/jobs/~022075068308054832936?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022075068308054832936
+category: Data mining & Management
+search_keyword: scientific computing
+___
+Data Engineer for Text Transformation - Data Mining & Management
+Data Engineer for Text Transformation
+Posted 3 weeks ago
+Worldwide
+
+Summary
+Overview
+We require a Python Data Engineer to complete a technical data transformation and enrichment pipeline. Phase 1 (Raw Data Extraction) is already complete. The raw asset pool is hosted in a Google Drive directory and consists of:
+
+Raw German Text Logs: Unified conversational message threads grouped by system category.
+
+Binary Attachments: Accompanying technical PDFs, circuit schematics, engineering drawings, and reference images.
+
+Your task is to build the secondary processing pipeline to clean, translate, format, and package these raw assets into a structured, English-normalized, production-ready knowledge base optimized for ingestion into downstream RAG (Retrieval-Augmented Generation) architectures.
+
+Scope of Work & Deliverables
+Text Sanitization & Noise Filtering: Write Python processing utilities (Regex/parsers) to systematically strip platform clutter (user signatures, navigation links, layout symbols) and low-value transactional chat, while strictly preserving dense engineering data, supplier/fabricator contact details, and technical references.
+
+Technical Translation Pipeline: Construct an automated pipeline leveraging the DeepL API or a local LLM environment to batch-translate raw German strings into precise technical English. You must implement strict checks to ensure alphanumeric part tracking numbers, torque specifications, and physical measurements are preserved with 100% fidelity.
+
+Dual-Track Attachment Ingestion: * Track A (Storage): Automatically rename and catalog downloaded PDF/Image binary assets using a uniform naming convention mapping directly to source thread and post IDs.
+
+Track B (Enrichment): Parse readable text/tables from documentation binaries and route visual schematics through a Vision LLM (e.g., GPT-4o / Claude 3.5 Sonnet) to generate descriptive metadata summaries. Append these summaries textually inline directly beneath the matching post log.
+
+Markdown Transformation & Metadata Injection: Output the finalized English text strings as standard Markdown (.md) files wrapped in explicit, platform-agnostic YAML front-matter blocks tracking URLs, system sub-domains, and archival metadata flags.
+
+Logbook Compaction: Construct a concatenation utility to bundle individual thread documents into single macro-domain master logbooks. The script must employ strict Heading 1 (#) formatting layouts to establish clear, native logical chunk boundaries for downstream vector store splitters.
+
+Technical Requirements
+Strong proficiency in Python (Advanced string manipulation, JSON manipulation, layout-aware data structures).
+
+Experience with layout-preserving text extraction tools and PDF libraries (e.g., Docling, Unstructured, OcrMyPdf).
+
+Direct experience orchestrating prompt logic or data flows with Vision-Language Models (VLMs) and translation APIs.
+
+Solid structural understanding of RAG ingestion design patterns, data chunking strategies, and metadata indexing principles.
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Duration
+Intermediate
+I am looking for a mix of experience and value
+Project Type:Ongoing project
+You will be asked to answer the following questions when submitting a proposal:
+
+How do you ensure 100% precision when translating German engineering logs to English via API/LLM? Specifically, how do you prevent structural data corruption or hallucination of alphanumeric part numbers and specifications?
+How would you build a Python pipeline to filter out low-value images from high-value schematics, and how do you structure VLM prompts to extract highly specific engineering metadata rather than generic visual descriptions?
+How do you structure YAML blocks and Markdown headers so that if a consolidated file is sliced into 500-token chunks by a RAG text splitter, each standalone chunk still preserves its parent metadata (e.g., source URL or system category)?
+Skills and Expertise
+Mandatory skills
+Python
+SAS
+Nice-to-have skills
+LaTeX
+Algorithm Development
+Preferred qualifications
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+2 weeks ago
+Interviewing:
+23
+Invites sent:
+30
+Unanswered invites:
+4
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 26
+Available Connects: 10
+About the client
+Payment method verified
+Rating is 5.0 out of 5.
+5.0
+4.96 of 33 reviews
+United Kingdom
+London2:16 PM
+59 jobs posted
+75% hire rate, 2 open jobs
+$28K total spent
+46 hires, 7 active
+$15.22 /hr avg hourly rate paid
+1,616 hours
+Manufacturing & Construction
+Mid-sized company (10-99 people)
+Member since Mar 28, 2015
+Job link
+https://www.upwork.com/jobs/~022075068308054832936
+Client's recent history (44)
+
+Jobs in progress
+Engineer for RV Truck – Frame Analysis, Subframe Design, Weight Distribution, Fabrication Drawings
+No feedback given
+To freelancer: Ammad U.No feedback given
+Aug 2025 - Jul 2026
+10 hrs @ $50.00/hr
+Billed: $578.18
+CAD to Construction Drawings Conversion
+Rating is 5.0 out of 5.
+5.0
+Great client! Clear communication and smooth collaboration. I’d be happy to work together again.
+To freelancer: Alemu D.
+Rating is 5.0 out of 5.
+5.0
+Excellent work. Highly recommend Alemu
+Sep 2025 - Jul 2026
+Fixed-price $100.00
+Video Editor Needed to Combine Short Videos
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Muhammad N.No feedback given
+Nov 2025 - Jan 2026
+Fixed-price $15.00
+Experienced Video Editor Needed for Family Video Project
+No feedback given
+To freelancer: Ella V.No feedback given
+Oct 2024 - Sep 2025
+32 hrs @ $10.00/hr
+Billed: $348.72
+Podcast Audio Production /Editing Specialist
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Tomas Gregorio M.
+Rating is 5.0 out of 5.
+5.0
+Sep 2024 - Oct 2024
+20 hrs @ $13.00/hr
+Billed: $250.70
+View more (33)
+Other open jobs by this Client (1)
+Web Scraper for phpBB ForumHourly
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

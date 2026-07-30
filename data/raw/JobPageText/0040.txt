@@ -1,0 +1,142 @@
+URL: https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668
+category: Data Analysis & Testing
+search_keyword: matplotlib
+___
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Posted 5 days ago
+Worldwide
+
+Summary
+WHAT WE NEED
+
+We are a US-based fintech (LootRush.com) processing high monthly volume across multiple
+payment rails. We need someone to build a reconciliation pipeline that
+matches transaction data across three independent sources: settlement
+files from payment partners, our internal transaction records, and public
+blockchain transaction data.
+
+The output is a repeatable, documented matching process that identifies
+every unmatched or partially matched transaction and explains why it
+broke. This is not a one-off analysis. It is a tool we re-run every month.
+
+WHAT YOU WILL BUILD
+
+1. An ingestion layer that normalizes files from multiple sources with
+inconsistent formats, column names, timestamp conventions, and rounding
+behavior.
+
+2. A matching engine handling exact matches, near matches, and
+one-to-many relationships, where a single record on one side corresponds
+to multiple records on another.
+
+3. An exception report that categorizes each break by type and gives a
+human enough context to resolve it.
+
+4. Documentation clear enough that someone else on our team can run,
+modify, and extend the pipeline without you.
+
+WHAT WE ARE LOOKING FOR
+
+- Strong Python and pandas, or an equivalent stack. SQL a plus.
+- Real experience reconciling or matching messy data across systems that
+were never designed to agree with each other. Financial data preferred
+but not required. If you have done this with logistics, telecom, ad tech,
+or any other multi-source operational data, that transfers.
+- Fluency with AI tools, specifically Claude, as part of how you actually
+work. We use them heavily and want someone who does too. We will ask
+about this concretely.
+- The instinct to chase a discrepancy down rather than write it off. The
+unmatched 0.3 percent is the entire point of the job.
+- Clear written English. You will be explaining your logic, not just
+shipping code.
+
+NICE TO HAVE, GENUINELY OPTIONAL
+
+Familiarity with blockchain data and block explorers, or prior work with
+payment settlement files, interchange, or card transaction data. We will
+teach the domain.
+
+HOW WE ARE RUNNING THIS
+
+We start with a paid fixed-price test using synthetic data that mirrors
+our real structure. It is a realistic file set with a small number of
+deliberate discrepancies buried in it. You deliver the reconciliation
+output plus a short writeup of what you found and how you approached it.
+We pay for the test regardless of outcome.
+
+All development happens against synthetic data. We run the finished
+pipeline against live data internally.
+
+Strong performers move to an ongoing engagement. We have continuing work
+in this area.
+
+TO APPLY
+
+Skip the generic cover letter. Tell us about one time you reconciled or
+matched data across sources that disagreed, what the root cause turned
+out to be, and how you found it.
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Duration
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$35.00
+
+-
+
+$50.00
+
+Hourly
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type:Ongoing project
+You will be asked to answer the following questions when submitting a proposal:
+
+Describe a reconciliation or data-matching project you built. What were the data sources, and what was the hardest discrepancy you had to track down?
+How do you use AI tools like Claude in your analysis work? Give one specific example: the task, the tool, and how you used it.
+You are matching two files that should agree, but 4 percent of records do not. Walk through your first three steps.
+Skills and Expertise
+Mandatory skills
+Python
+SQL
+Data Analysis
+pandas
+ETL Pipeline
+Preferred qualifications
+English level:
+Conversational
+Location:
+Brazil, Mexico, Argentina, United States
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+3 days ago
+Interviewing:
+6
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Send a proposal for: 16 Connects
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+United States
+10:57 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 23, 2026
+Job link
+https://www.upwork.com/jobs/~022081025566471412668
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

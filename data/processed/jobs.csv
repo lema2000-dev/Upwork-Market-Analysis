@@ -127,3 +127,1420 @@ Experience with long‑term sensor data
 Understanding of thermal inertia and building envelope behavior
 
 This is a focused, technical project with high scientific relevance. We value clear communication, clean code, and precise analytical thinking.",Python,,Expert,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,35.0,75.0,2 months ago,50+, https://www.upwork.com/jobs/~022056741959072715778?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022056741959072715778,2026-07-29 17:06:54
+5,Data Science & Analytics,python,Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL,"Hi there,
+
+I run a small online store and every month I export our sales transactions from our point-of-sale system as a CSV file. The export is messy — inconsistent date formats, prices with dollar signs and commas, extra whitespace, some duplicate rows, and the occasional blank/invalid row. Right now I clean it by hand in Excel and it takes me an hour or two every month. I'd like to stop doing that.
+
+I'm looking for a **command-line Python script** that I can run on my own laptop. I point it at the raw CSV export and it (1) cleans the data and saves a tidy CSV, and (2) produces a short summary report so I can see how the month went at a glance.
+
+I'm not a developer but I can run a command in the terminal if you give me clear instructions. Please keep it simple to install and run — I'd strongly prefer **standard Python with no heavy setup** (or minimal, well-documented dependencies).
+
+## What the raw data looks like
+
+Each row is one sale. Columns (header names roughly as below, but please be a little tolerant of extra spaces/case):
+
+`order_id, date, customer, product, quantity, unit_price`
+
+Real-world messiness you'll need to handle:
+
+- Dates come in mixed formats: `2026-01-05`, `01/05/2026`, `Jan 5, 2026`.
+- `unit_price` may look like `$1,299.00`, `1299`, or `  19.99 `.
+- `quantity` may have stray spaces or be blank.
+- Leading/trailing whitespace in text fields; inconsistent capitalization in product names.
+- Fully duplicated rows (same order_id and everything) should be de-duplicated.
+- Rows missing an order_id, product, or with non-numeric/zero/negative price or quantity are **invalid** — skip them, but tell me how many were skipped and why.
+
+## Deliverables / Requirements
+
+1. **A single Python CLI script** (e.g. `python sales_report.py input.csv`) that accepts:
+- the path to the input CSV (required), and
+- an optional output folder (default: current directory).
+
+2. **Cleaned CSV output** (`cleaned_sales.csv`) with:
+- normalized dates (ISO `YYYY-MM-DD`),
+- numeric `unit_price` and `quantity` (no symbols),
+- a computed `line_total` column (quantity × unit_price),
+- trimmed text, title-cased product names,
+- duplicates removed and invalid rows excluded.
+
+3. **A summary report** (both a human-readable `report.txt` / Markdown **and** a machine-readable `summary.json`) containing:
+- total revenue, total number of valid orders, total units sold, average order value,
+- revenue and units **by product** (sorted high → low),
+- revenue **by month**,
+- **top 5 customers** by revenue,
+- a data-quality section: how many rows were read, skipped, and de-duplicated, with reasons.
+
+4. **A short README** with setup and exact run instructions, plus a small **sample input CSV** and the **example output** it produces, so I can confirm it works before I run it on my real data.
+
+5. Clean, commented code. Sensible error message if the file is missing or the columns don't match (don't just crash with a stack trace).
+
+## Nice to have (not required)
+
+- Works with just the Python standard library so I don't have to install anything.
+- A `--top` option to change how many top customers/products are shown.
+
+## How to apply
+
+Please confirm you've read the requirements, mention any clarifying questions, and let me know your timeline. A quick note on how you'd handle the messy date/price parsing is a plus. Thanks!","Python
+pandas
+CSV
+Data Cleaning
+Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,30.0,50.0,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-07-29 22:56:31
+6,Data Science & Analytics,python,"Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL","Looking for a person who generates datasets (human + AI), can handle API's (OpenAI etc.) to generate AI generated images.
+
+Dataset's are mostly images + text.
+
+
+Background in Data Science is a plus.
+
+
+Let me know your experience in this field.","Python
+Machine Learning
+Data Mining
+Data Scraping
+Data Science
+pandas
+Data Entry",,Entry level,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,range,6.0,10.0,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077074558785228111?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077074558785228111,2026-07-29 23:06:11
+7,Data Science & Analytics,python data analyst,Re-extraction of data for a meta-analysis - Data Extraction/ETL,"Hello,
+
+I need your help re-extracting data (mostly means+SD) for a meta-analysis. I already extract the data but I need someone else to do it to avoid any bias. The extractions from tables or figures, nothing complicated really.
+
+
+Sometimes, you may do simple calculations like converting SD to SE or vice versa, or recalculating the means+SD for each sex or for both sexes.
+
+
+I should send you an example for the table that summarizes the extracted data.
+
+I will send 3 papers at a time.
+
+I can pay up to $20/paper, in total i have ~20ish papers or so.","meta-analysis
+Data Extraction
+Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,13 hours ago,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-07-29 23:20:56
+8,Data Analysis & Testing,python data analyst,Data Analyst with Power BI and Excel,"We are seeking a skilled data analyst to join our team full-time. The ideal candidate will have experience in data analysis and visualization using Power BI and Excel. Responsibilities include analyzing data sets, creating reports, and developing dashboards to present findings. The role requires strong analytical skills and the ability to interpret complex data into actionable insights.","Data Analysis
+IBM SPSS
+Nice-to-have skills
+Tableau
+Statistics",,Intermediate,Hourly,Complex project,More than 6 months,More than 30 hrs/week,,,,yesterday,50+, https://www.upwork.com/jobs/~022082058846381994477?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082058846381994477,2026-07-29 23:29:27
+9,Data Analysis & Testing,python data analyst,"Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)","Content Rewards is a fast-growing marketplace in the creator economy, and we're hiring a full-time Data Analyst to turn our data into decisions. You'll own reporting and analysis across the business (payouts, campaign performance, creator activity, funnel and retention) and help leadership see what's working and what to fix.
+
+What you'll do:
+- Build and maintain dashboards and reports leadership actually uses
+- Analyze campaign, payout, and creator data to surface trends, risks, and opportunities
+- Write clean SQL and work across our data stack
+- Turn ambiguous questions into clear, trustworthy answers, fast
+- Own the metrics and definitions the team relies on as we scale
+
+You're a fit if you:
+- Have strong SQL and a modern analytics/BI stack
+- Can defend your numbers and care about accuracy
+- Explain findings clearly to non-technical people
+- Are based in the US, Canada, UK, Western Europe, Australia, or New Zealand
+- Want a committed, full-time, long-term role (not one-off gigs)
+
+This starts as a contract with the intent to go full-time for the right person. Real ownership, direct access to leadership, and a fast-moving team.","SQL
+Data Analysis
+Python
+Data Visualization
+Preferred qualifications",,Expert,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022074271542203452125?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074271542203452125,2026-07-29 23:40:28
+10,Data Analysis & Testing,python data analyst,Product Categorization/Taxonomy tagging,"We have a large catalog of about 100k products across many categories.
+
+We have several large product lists that need to be cleaned, organized, and classified within our provided taxonomy.
+
+This work can not be done by hand, and needs to be automated with a combination of scripts and Ai. We need a repeatable rules based process.
+
+What you'll do:
+
+- Build an automated classification pipeline that maps products to the correct categories from our controlled vocabulary (we provide the list — no free-typing).
+- Assign product attributes/specs programmatically from a defined set of valid values.
+Clean and normalize messy titles and field values, deduplicate, and fix systematic mis-tags across the whole list.
+- Automatically flag the rows the rules can't confidently resolve, so only a small share needs human review instead of all 100k.
+- Build QA checks and sampling so we can measure accuracy and catch errors.
+- Deliver clean output in CSV, formatted for a standard eCommerce product import.
+
+Required skills:
+
+- Python (pandas) or equivalent scripting for data work — this is the core requirement.
+- Experience with rule-based classification, text normalization, fuzzy/string matching, and deduplication on large datasets.
+- Strong with CSV/spreadsheet data and working to a defined schema or controlled vocabulary.
+- A QA mindset — building validation, sampling, and accuracy metrics.
+
+Please have previous project experience using scripts/llms to classify large sets of data.
+
+To apply, please answer:
+
+At ~100,000 rows, how would you approach automating classification against a fixed category list — what's your general method, and how do you handle the rows your rules can't confidently resolve?
+
+How do you measure and keep accuracy high on a job this size (validation, sampling, error checks)?
+What tools/libraries would you use, and roughly how large a dataset have you cleaned or categorized before?
+
+Thank you","Python
+data classification
+Accuracy Verification
+Automation
+Preferred qualifications",,Expert,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,,,,last month,50+, https://www.upwork.com/jobs/~022069530757074201964?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022069530757074201964,2026-07-29 23:49:33
+11,Data Extraction/ETL,data analyst python,Data Extraction and Analysis Specialist,"We’re looking for a Data Scientist to help us organize and make better use of historical data across approx thousands of deals.
+
+The data currently sits across different sources and documents, with several missing or inconsistent mappings. We need someone who can help us:
+
+* Clean and connect the historical data
+* Pull key information and lender details from deal documents
+* Map deals by industry, region and other relevant fields
+* Build a model that can use this historical data to predict the same information for future deals
+
+We’re open to Random Forest or another approach you believe would work better.
+
+Strong experience with Python, data mapping, strong SQL queries and predictive modelling is important. Experience working with financial data and extracting information from documents would be a plus.
+
+Please share any similar projects you’ve worked on and a brief note on how you’d approach this.","Data Analysis
+Data Science
+Nice-to-have skills
+IBM SPSS
+Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-07-30 10:46:54
+12,Data Extraction/ETL,data analyst python,Python Developer for Data Processing,"We are seeking a skilled Python developer to enhance our data processing capabilities. The ideal candidate will have experience with data structures and algorithms, and be able to optimize code for performance. Responsibilities include developing efficient data processing scripts, integrating with existing systems, and ensuring data accuracy. Familiarity with machine learning and data visualization is a plus.","Python
+PostgreSQL Programming
+Nice-to-have skills
+Machine Learning
+Django",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,50+, https://www.upwork.com/jobs/~022082026640515389431?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082026640515389431,2026-07-30 10:57:21
+13,Data Entry & Transcription Services,data analyst python,Excel/CSV Data Cleaner & Report Generator,"We are seeking a detail-oriented freelancer to clean and organize data in Excel and CSV files. The ideal candidate will ensure data accuracy, handle missing values, and generate reports. Familiarity with data analysis and visualization tools is a plus. This is a part-time role with a short-term engagement.","Microsoft Excel
+Data Cleaning
+Python
+Python Script
+CSV
+Data Processing
+Automation
+Task Automation
+report generation
+Tools
+Microsoft Excel
+Microsoft Excel PowerPivot
+Visual Basic for Applications
+Data Analysis",,Intermediate,Fixed-price,One-time project,,,,,,4 weeks ago,50+, upwork.com/jobs/~022073098155838746520?referrer_url_path=/nx/search/jobs/details/~022073098155838746520,2026-07-30 11:03:19
+14,Scripts & Utilities,data analyst python,Python File & Excel Automation Tool,"I need a simple Python automation tool to help organize files and spreadsheet data.
+
+The tool should:
+
+Read an Excel or CSV file containing file names and categories
+Rename files in a selected folder using a clean naming format
+Move files into folders based on the category from the spreadsheet
+Generate a simple report showing which files were renamed, moved, skipped, or had errors
+Include simple instructions so I can run the tool myself
+
+I am looking for someone who can build a clean, practical Python utility with basic error handling and clear documentation.","Python
+Task Automation
+Automation
+Microsoft Excel
+Data Processing
+Python Script
+CSV",,Intermediate,Fixed-price,One-time project,,,,,,4 weeks ago,50+, https://www.upwork.com/jobs/~022072348650823802727?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022072348650823802727,2026-07-30 11:16:56
+15,Scripts & Utilities,data analyst python,Python Developer for Monte Carlo Simulator,"Seeking a Python developer/statistician to build a Monte Carlo simulator for a proprietary poker-style card game. The rules and strategy decisions are already defined. The ideal candidate will have experience in statistical analysis and Python development, with a focus on creating efficient and accurate simulations. This is a part-time project with a short-term engagement. This project is for analysis of a proprietary poker-style table game. A signed NDA may be required before full game rules are shared.
+
+Deliverables include a Python application capable of running millions of simulated hands, allowing payout tables to be easily modified, and generating statistics such as expected return, hand frequencies, and house edge.All source code and work product will become my property upon project completion.
+
+
+If this project is successful, there is potential for additional work involving related games built on the same simulation framework.","Python
+NumPy
+pandas
+mathmeticians
+Statistics
+monte carlo simulation
+Algorithm Development
+Data Analysis
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,2 weeks ago,50+, https://www.upwork.com/jobs/~022076627179491473274?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076627179491473274,2026-07-30 11:31:47
+16,Data Analyst & Testing,data analyst python,Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python,"Project Title: Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Description: I need an econometrician to run a staggered Difference-in-Differences model on an M&A dataset. You must use modern estimators for staggered treatment timing (e.g., the Callaway & Sant'Anna estimator).
+If you are using R, you must be proficient with the did, staggered, or fastdid packages. If you are using Python, you must use the equivalent causal inference libraries.
+Deliverables:
+A clean, well-commented script (R or Python) formatting the raw Bloomberg export.
+The regression outputs and event-study plots.
+A 30-minute Zoom call where you walk me through every line of the code and explain the output so I can defend it..","SQL
+Data Analytics
+Python
+Statistical Analysis
+Data Visualization
+Microsoft Excel
+R
+Data Cleaning
+Amazon Athena
+Excel Macros
+Microsoft Excel PowerPivot
+Data Analytics & Visualization Software
+pandas
+Predictive Modeling
+Predictive Analytics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,15 to 20, https://www.upwork.com/jobs/~022067489709072780967?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022067489709072780967,2026-07-30 11:31:47
+17,Data Analyst & Testing,data analyst python,Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing,"WHAT WE NEED
+
+We are a US-based fintech (LootRush.com) processing high monthly volume across multiple
+payment rails. We need someone to build a reconciliation pipeline that
+matches transaction data across three independent sources: settlement
+files from payment partners, our internal transaction records, and public
+blockchain transaction data.
+
+The output is a repeatable, documented matching process that identifies
+every unmatched or partially matched transaction and explains why it
+broke. This is not a one-off analysis. It is a tool we re-run every month.
+
+WHAT YOU WILL BUILD
+
+1. An ingestion layer that normalizes files from multiple sources with
+inconsistent formats, column names, timestamp conventions, and rounding
+behavior.
+
+2. A matching engine handling exact matches, near matches, and
+one-to-many relationships, where a single record on one side corresponds
+to multiple records on another.
+
+3. An exception report that categorizes each break by type and gives a
+human enough context to resolve it.
+
+4. Documentation clear enough that someone else on our team can run,
+modify, and extend the pipeline without you.
+
+WHAT WE ARE LOOKING FOR
+
+- Strong Python and pandas, or an equivalent stack. SQL a plus.
+- Real experience reconciling or matching messy data across systems that
+were never designed to agree with each other. Financial data preferred
+but not required. If you have done this with logistics, telecom, ad tech,
+or any other multi-source operational data, that transfers.
+- Fluency with AI tools, specifically Claude, as part of how you actually
+work. We use them heavily and want someone who does too. We will ask
+about this concretely.
+- The instinct to chase a discrepancy down rather than write it off. The
+unmatched 0.3 percent is the entire point of the job.
+- Clear written English. You will be explaining your logic, not just
+shipping code.
+
+NICE TO HAVE, GENUINELY OPTIONAL
+
+Familiarity with blockchain data and block explorers, or prior work with
+payment settlement files, interchange, or card transaction data. We will
+teach the domain.
+
+HOW WE ARE RUNNING THIS
+
+We start with a paid fixed-price test using synthetic data that mirrors
+our real structure. It is a realistic file set with a small number of
+deliberate discrepancies buried in it. You deliver the reconciliation
+output plus a short writeup of what you found and how you approached it.
+We pay for the test regardless of outcome.
+
+All development happens against synthetic data. We run the finished
+pipeline against live data internally.
+
+Strong performers move to an ongoing engagement. We have continuing work
+in this area.
+
+TO APPLY
+
+Skip the generic cover letter. Tell us about one time you reconciled or
+matched data across sources that disagreed, what the root cause turned
+out to be, and how you found it.","Python
+SQL
+Data Analysis
+pandas
+ETL Pipeline
+Preferred qualifications
+English level:
+Conversational
+Location:
+Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-07-30 11:57:46
+18,Data Analysis & Testing,data analyst python,Data Scientist Needed for Sales Forecasting & Dashboard Development,"We are looking for an experienced Data Scientist to analyze our business data and build predictive models for sales forecasting.
+
+Responsibilities:
+
+Clean and preprocess large datasets
+Perform exploratory data analysis (EDA)
+Build machine learning models for forecasting
+Create visual dashboards and reports
+Provide actionable business insights
+
+Required Skills:
+
+Python
+Pandas
+NumPy
+Scikit-learn
+SQL
+Data Visualization (Power BI / Tableau)
+Machine Learning
+
+Experience Level:
+Intermediate to Expert
+
+Deliverables:
+
+Cleaned dataset
+EDA report
+Forecasting model
+Dashboard
+Documentation","Data Analysis
+Analytics
+Deep Learning
+Marketing Analytics
+Machine Learning
+Data Science
+Statistics",,Expert,Hourly,Ongoing project,3 to 6 months,Less than 30 hrs/week,,,,last month,5 to 10, https://www.upwork.com/jobs/~022065068503463604886?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022065068503463604886,2026-07-30 11:57:46
+19,Data Analysis & Testing,data analyst python,Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis),"We're looking for someone to help us review product data from a WooCommerce store and identify compliance-related information.
+
+For each product, we need to determine:
+
+* Is a Safety Data Sheet (SDS/PDF) available?
+* Does the product contain any medical or health claims?
+* Does the product contain Hazard Statement **H314**?
+
+We're looking for someone who can recommend the fastest and most accurate way to complete this review, whether that's using AI, Excel, scripts, or another reliable method.
+
+**Requirements:**
+
+* Experience with Excel and large datasets
+* Experience using AI tools for data analysis
+* Strong attention to detail
+* Experience with WooCommerce product data
+
+**To apply, please include:**
+
+* Similar projects you've worked on
+* How you would approach this task
+* Your **fixed price**
+* Estimated turnaround time
+
+**Please only apply if you have relevant experience. Applications without examples and a fixed price will not be considered.**","Microsoft Excel
+Data Analysis
+Statistics",,Entry level,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022076605694608480704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076605694608480704,2026-07-30 12:04:30
+20,Data Analysis & Testing,data analyst python,Facebook Data report excel and analysis,"i have data but i dont kno who bought what, which video worked, who purchased genders wise. i want a nice excel spreadsheet with data report broken down then i want analysis of nswering my questions mothly","ETL
+Artificial Intelligence
+Data Extraction
+Machine Learning
+Data Analysis
+Machine Learning Model
+Analytical Presentation
+Project Delivery
+Project Management
+Time & Cost Estimate
+Risk Management
+Data Analytics & Visualization Software
+Data Modeling
+Agile Project Management
+Data Cleaning
+Preferred qualifications",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,6 hours ago,20 to 50, https://www.upwork.com/jobs/~022082716718469394515?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082716718469394515,2026-07-30 14:42:05
+21,Data Extraction/ETL,scientific computing,Re-extraction of data for a meta-analysis,"Hello,
+
+I need your help re-extracting data (mostly means+SD) for a meta-analysis. I already extract the data but I need someone else to do it to avoid any bias. The extractions from tables or figures, nothing complicated really.
+
+
+Sometimes, you may do simple calculations like converting SD to SE or vice versa, or recalculating the means+SD for each sex or for both sexes.
+
+
+I should send you an example for the table that summarizes the extracted data.
+
+I will send 3 papers at a time.
+
+I can pay up to $20/paper, in total i have ~20ish papers or so.","meta-analysis
+Data Extraction
+Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-07-30 15:24:49
+22,AI & Machine Learning,scientific computing python,AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program,"We're a longevity and hormone optimization medical practice looking for an experienced AI developer to build a document-automation and AI-reasoning tool.
+
+**What this tool needs to do:**
+
+1. **Intake** – Accept uploaded patient lab results (PDF/CSV from LabCorp, Quest, or scanned reports) and extract the relevant values.
+2. **Mapping** – Match the extracted lab values to the correct blank fields in our existing Word document lab-review template, and auto-populate it.
+3. **Generation** – Feed the lab data, along with our proprietary longevity and diet protocols, into the Claude API to draft a personalized longevity program and diet plan for the patient.
+4. **Output** – Produce a completed Word document (filled lab review) plus a generated longevity/diet plan, ready for provider review and sign-off before it goes to the patient.
+
+**Requirements:**
+- Must be proficient in Python — this needs to integrate with our existing Python-based team/stack
+- Must have hands-on experience with the Claude API (Anthropic) — we are standardized on Claude
+- Document parsing and generation experience (PDF/CSV extraction, python-docx or similar)
+- Comfortable working with structured clinical/medical protocols as prompt input
+- HIPAA-compliant data handling required — all patient data must go through BAA-covered infrastructure, no exceptions
+- Healthcare or medical software experience is a strong plus
+
+**Scope & process:**
+We have documented clinical protocols ready to serve as the reasoning framework/prompt library, so the core ""intelligence"" of the tool is already defined — this is primarily a build/integration project, not a from-scratch clinical design project.
+
+This is a fixed-price MVP, targeted for delivery in 4–8 weeks. This is intended as a contract-to-hire relationship — strong performance on this initial build will lead to an ongoing part-time or full-time role supporting additional AI tools for our practice.
+
+**To apply, please share:**
+- 1–2 examples of similar AI/document-automation work you've built (Python + Claude API preferred)
+- Your estimated timeline for this scope
+- Confirmation of your experience with HIPAA-compliant hosting/data handling","Python
+Artificial Intelligence
+Algorithm Development
+Natural Language Processing
+API
+Data Science
+Preferred qualifications",,Expert,Fixed-price,Ongoing project,,,,,,last week,50+, https://www.upwork.com/jobs/~022079188236528106235?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079188236528106235,2026-07-30 15:24:49
+23,Scripts & Utilities,scientific computing python,Python path generation,"I have an existing Python program that generates robot application trajectories from contours detected by a camera.
+
+The program receives recipe parameters from a PLC, including:
+
+-filling direction and spacing;
+-offset around holes;
+-offset from the exterior edge;
+-other robot application parameters.
+
+The current program works correctly in most situations. The problem occurs in narrow passages between:
+
+-two holes;
+-a hole and the exterior contour.
+
+When the available passage is too narrow compared with the offsets requested by the PLC recipe, the two offset trajectories overlap or leave insufficient space. The program then attempts to merge them into one centered trajectory, but in certain geometries the merge can be:
+
+-off-center;
+-disconnected from the surrounding trajectories;
+-connected to the wrong trajectory;
+-shaped with small square or zigzag links;
+-replaced by an incorrect diagonal connector;
+-partially missing.
+
+For example, if the PLC requests an 8 mm offset on both sides but the physical passage is only 10 mm wide, both requested offsets cannot fit. In that situation, the program should locally ignore the requested offsets and create one trajectory centered in the passage.
+
+The important requirement is that the existing logic must remain unchanged everywhere it already works. Only narrow passages below a defined threshold, currently approximately 10 mm, should use the special merge logic.
+
+The expected behavior is:
+
+-Detect the real local width using the original contours, independently of the PLC offsets.
+-Identify only the portion of the passage that is below the width threshold.
+-Remove only the conflicting offset trajectories in that local portion.
+-Generate one trajectory exactly centered between the two boundaries.
+-Connect that centered trajectory to the correct surrounding trajectories.
+-Avoid unnecessary intermediate points, square links, long diagonals and incorrect global stitching.
+-Apply the same logic to hole-to-hole and hole-to-exterior-contour passages.
+-Preserve the current PLC recipe handling, trajectory ordering and robot export format.
+
+The program uses Python, Shapely, NumPy, scikit-image skeletonization and Matplotlib. I can provide the complete program, PCD test files, PLC recipe files, screenshots of incorrect results and repeatable test cases.","Python
+Python Script
+NumPy
+scikit-image
+Automation",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last week,20 to 50, https://www.upwork.com/jobs/~022079950883582279100?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079950883582279100,2026-07-30 15:24:49
+24,Data mining & Management,scientific computing,Data Engineer for Text Transformation - Data Mining & Management,"Overview
+We require a Python Data Engineer to complete a technical data transformation and enrichment pipeline. Phase 1 (Raw Data Extraction) is already complete. The raw asset pool is hosted in a Google Drive directory and consists of:
+
+Raw German Text Logs: Unified conversational message threads grouped by system category.
+
+Binary Attachments: Accompanying technical PDFs, circuit schematics, engineering drawings, and reference images.
+
+Your task is to build the secondary processing pipeline to clean, translate, format, and package these raw assets into a structured, English-normalized, production-ready knowledge base optimized for ingestion into downstream RAG (Retrieval-Augmented Generation) architectures.
+
+Scope of Work & Deliverables
+Text Sanitization & Noise Filtering: Write Python processing utilities (Regex/parsers) to systematically strip platform clutter (user signatures, navigation links, layout symbols) and low-value transactional chat, while strictly preserving dense engineering data, supplier/fabricator contact details, and technical references.
+
+Technical Translation Pipeline: Construct an automated pipeline leveraging the DeepL API or a local LLM environment to batch-translate raw German strings into precise technical English. You must implement strict checks to ensure alphanumeric part tracking numbers, torque specifications, and physical measurements are preserved with 100% fidelity.
+
+Dual-Track Attachment Ingestion: * Track A (Storage): Automatically rename and catalog downloaded PDF/Image binary assets using a uniform naming convention mapping directly to source thread and post IDs.
+
+Track B (Enrichment): Parse readable text/tables from documentation binaries and route visual schematics through a Vision LLM (e.g., GPT-4o / Claude 3.5 Sonnet) to generate descriptive metadata summaries. Append these summaries textually inline directly beneath the matching post log.
+
+Markdown Transformation & Metadata Injection: Output the finalized English text strings as standard Markdown (.md) files wrapped in explicit, platform-agnostic YAML front-matter blocks tracking URLs, system sub-domains, and archival metadata flags.
+
+Logbook Compaction: Construct a concatenation utility to bundle individual thread documents into single macro-domain master logbooks. The script must employ strict Heading 1 (#) formatting layouts to establish clear, native logical chunk boundaries for downstream vector store splitters.
+
+Technical Requirements
+Strong proficiency in Python (Advanced string manipulation, JSON manipulation, layout-aware data structures).
+
+Experience with layout-preserving text extraction tools and PDF libraries (e.g., Docling, Unstructured, OcrMyPdf).
+
+Direct experience orchestrating prompt logic or data flows with Vision-Language Models (VLMs) and translation APIs.
+
+Solid structural understanding of RAG ingestion design patterns, data chunking strategies, and metadata indexing principles.","Python
+SAS
+Nice-to-have skills
+LaTeX
+Algorithm Development
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022075068308054832936?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022075068308054832936,2026-07-30 15:24:49
+25,Data Extraction/ETL,Physical Sciences,DFT Physics Simulations,"The project involves DFT simulations of low-temperature superconducting devices.  There are two projects in the pipeline, and I would like an expert to work on them. It doesn't matter if you have no prior experience but a grasp of the knowlegde and know-how required to execute this job cleanly.","Python
+Physics
+Molecular Physics
+Research Papers
+WordPress
+DFT
+Quantum Espresso",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,10 to 15, https://www.upwork.com/jobs/~022071668808174778548?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071668808174778548,2026-07-30 15:24:49
+26,Data Analysis & Testing,statistical python,Statistical Analysis in Stata,"Hello! I need a dataset analyzed using Stata to test multiple hypotheses. The analysis includes interaction for the moderator, sobel test for the mediator, and regular regression for the rest, along with control variables. The task must be completed by Monday and requires deliverables in Excel, showing model creation with averages and mean centred values.","Statistics
+IBM SPSS
+Nice-to-have skills
+SAS
+Quantitative Analysis",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,11 hours ago,20 to 50, https://www.upwork.com/jobs/~022082643249114488759?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082643249114488759,2026-07-30 16:03:58
+27,Data Extraction/ETL,statistical python,Research Data Scientist (Wearable Accelerometry & Step Detection),"We are looking for a research-oriented data scientist to benchmark algorithms that convert raw 1-, 2-, and 3-axis accelerometer data into step counts. The project includes:
+
+(1) a literature review of industrial and scientific approaches and open datasets,
+(2) selection of suitable open-access accelerometry datasets,
+(3) Python implementation and parameter grid search of representative algorithms,
+(4) quantitative evaluation of accuracy versus reference step counts.
+
+The study should:
+- compare wrist- and hip-worn sensors,
+- assess the impact of reducing from 3-axis to 2-axis and 1-axis data,
+- summarize the trade-offs between accuracy, robustness, and computational complexity.
+
+Deliverables include well-documented Python code, a reproducible analysis notebook, publication-quality figures and tables, and a concise technical report suitable as the basis for a scientific manuscript.
+
+Time: 1 week","Python
+Time Series Analysis
+Preferred qualifications
+English level:
+Conversational
+Location:
+Americas, Africa, Europe",,Intermediate,Fixed-price,Ongoing project,,,,,,last month,20 to 50, https://www.upwork.com/jobs/~022071631064185540559?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071631064185540559,2026-07-30 16:03:58
+28,Data Analysis & Testing,statistical python,Product & E‑Commerce Performance Analytics,"About the role:
+
+We’re looking for a Data Analyst to join FactFinder and help drive product decisions with rigorous measurement and clear insights.
+
+This role is centered on investigations, product analytics, and experiment evaluation across key e‑commerce journeys—especially discovery and performance topics like search, ranking, and conversion.
+
+You’ll partner day-to-day with Product Managers, Engineers, and commercial stakeholders to define success metrics, validate impact of product changes, and uncover opportunities to improve customer experience and business outcomes.
+
+What you’ll do:
+Product analytics & decision support
+-Own measurement for FactFinder product initiatives: translate product questions into clear metrics, analysis plans, and recommendations
+-Build product performance narratives: what changed, why it changed, and what to do next
+
+Investigations & deep-dives
+-Lead deep-dive analyses into customer behavior, conversion drivers, and funnel drop-offs (browse → search → PDP → cart → checkout)
+-Diagnose KPI movements (e.g., conversion, revenue, engagement, add-to-cart rate) with structured root-cause analysis
+
+Search & ranking analytics (FactFinder focus)
+-Evaluate search and product ranking quality using both product and business metrics (e.g., CTR, zero-results rate, refinement rate, add-to-cart, downstream conversion, revenue per search)
+-Identify patterns in underperforming queries/categories and propose improvements (e.g., relevance tuning opportunities, merchandising gaps, data/instrumentation issues)
+
+Experimentation & uplift measurement
+-Partner with product and engineering to design measurable rollouts and experiments
+-Analyze A/B tests and quasi-experiments: define primary/guardrail metrics, validate data quality, interpret results, and communicate tradeoffs
+-Apply sound methods for incrementality/uplift and understand when results are biased (seasonality, novelty effects, selection bias)
+
+Data foundations
+-Create and maintain analysis-ready datasets (tables/views) and reusable metric definitions (single source of truth)
+-Write efficient, scalable SQL and collaborate with data engineering on pipelines, instrumentation, and data quality monitoring
+-Build dashboards/monitoring to track key FactFinder KPIs and proactively surface anomalies
+
+Stakeholder communication
+-Present findings clearly to both technical and non-technical audiences
+-Turn complex analyses into crisp product recommendations (ship / iterate / stop, and what to test next)
+
+What we’re looking for (Requirements)Must-have
+-Strong analytical problem-solving skills and a structured approach to investigations
+-Advanced SQL (joins, window functions, CTEs, performance-aware querying) with large datasets
+-Experience analyzing product and funnel metrics and explaining KPI changes in business terms
+-Practical understanding of experimentation (A/B tests, statistical significance, power/variance, guardrails, segmentation)
+-Strong communication: able to write and present clear, actionable insights
+-Experience in e-commerce / marketplace / digital product analytics (or comparable high-traffic product environment)
+
+Nice to have
+-BigQuery (or similar cloud warehouse) and data modeling best practices
+-Python for analysis (pandas, notebooks) and basic automation
+-Familiarity with event tracking/instrumentation (e.g., clickstream events, taxonomy, data quality checks)
+-Understanding of ranking/search systems and relevance measurement concepts
+-BI/dashboarding experience (Looker, Tableau, Power BI, or similar)
+
+How success looks in this role
+-FactFinder product teams trust your metrics and use your insights to make decisions
+-Investigations shorten “time-to-answer” when performance changes or issues occur
+-Experiments are measured reliably, with clear conclusions and follow-up actions
+-Core FactFinder KPIs are well-defined, monitored, and explainable","SQL
+Python
+Data Analysis
+Dashboard
+A/B Testing
+Statistical Analysis
+Data Visualization
+Product Analytics
+BigQuery
+Ecommerce",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077345239066706397?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077345239066706397,2026-07-30 16:03:58
+29,AI & Machine Learning,statistical python,Data Scientist (ML / Data Analytics / Database / Azure),"We are looking for a highly experienced Data Scientist to become a long-term member of our team. This is not a standalone research role. You will work closely with Product, Engineering, Data Engineering, Marketing, and Business teams to continuously improve the quality, accuracy, and business value of our data products.
+
+Please do NOT apply if you are looking for:
+1. A one-time or short-term project.
+2. A role where you split your attention across many clients and projects throughout the day.
+3. A position focused primarily on completing tasks rather than achieving measurable business results.
+4. An independent role with minimal collaboration. This position requires close cooperation with a cross-functional team and active participation in discussions, planning, and continuous improvement.
+
+Responsibilities
+•	Design, develop, and continuously improve Machine Learning models.
+•	Analyze millions of records and identify trends, anomalies, and data quality issues.
+•	Build scalable data pipelines for processing, validation, and model execution.
+•	Continuously improve prediction accuracy through feature engineering, model tuning, and data analysis.
+•	Investigate data inconsistencies and determine root causes rather than simply processing input data.
+•	Learn and understand the business domain, retailer structures, products, categories, and customer behavior.
+•	Work with large SQL databases and optimize complex analytical queries.
+•	Implement data validation, quality control, and automated monitoring.
+•	Maintain version history of datasets, models, and delivered analytical results.
+•	Collaborate closely with Data Engineers, Developers, Product Managers, Marketing, and Business stakeholders.
+•	Design AI-driven approaches to automate analytical and validation processes.
+•	Document methodologies, assumptions, and model performance.
+•	Take ownership of analytical solutions from concept through production.
+
+Requirements
+•	5+ years of experience as a Data Scientist or Senior Data Scientist.
+•	Strong expertise in Machine Learning, statistical modeling, and predictive analytics.
+•	Advanced SQL and database design experience.
+•	Strong Python skills (Pandas, NumPy, Scikit-learn, XGBoost/LightGBM or similar).
+•	Experience working with millions of records and large-scale analytical datasets.
+•	Experience designing production data pipelines and automated ML workflows.
+•	Hands-on experience with Microsoft Azure (Data Factory, Storage, SQL, Synapse, Databricks, ML Services, or similar).
+•	Experience applying AI techniques to automate business processes and data analysis.
+•	Strong data validation, cleansing, and anomaly detection skills.
+•	Experience with retailer, e-commerce, pricing, inventory, sales, or marketing analytics is highly preferred.
+•	Ability to optimize model performance and continuously improve business KPIs.
+•	Experience with version control (Git) and reproducible analytical workflows.
+•	Strong analytical thinking and excellent problem-solving skills.
+•	Ability to manage multiple priorities and work on several projects simultaneously.
+•	Excellent communication skills and ability to work within a cross-functional team.
+•	Self-driven, detail-oriented, proactive, and committed to delivering production-quality solutions.
+
+Nice to Have
+•	Experience with LLMs and AI Agents.
+•	Knowledge of Power BI or similar BI platforms.
+•	Experience with web scraping or large-scale data collection.
+•	Experience with MLOps, CI/CD, Docker, Kubernetes, or cloud-native deployments.
+•	Experience with Azure DevOps.
+
+Additional Responsibilities
+•	Design and implement automated Data Quality (DQ) validation framework to detect missing, inconsistent, duplicate, and anomalous data before it reaches production.
+•	Develop Data Quality dashboards that provide real-time visibility into data health, validation results, model accuracy, pipeline status, and historical trends.
+•	Define KPIs and quality metrics, proactively identify issues, and recommend corrective actions.
+•	Continuously monitor production pipelines and improve data reliability and consistency.
+
+Additional Requirements
+•	Experience building automated Data Quality (DQ) frameworks and validation rules.
+•	Experience creating operational dashboards (Power BI or similar) for monitoring data quality, model performance, and pipeline health.
+•	Strong understanding of data governance, validation methodologies, and production monitoring.
+
+We are looking for someone who investigates problems deeply, challenges assumptions, continuously improves results, and takes ownership of delivering reliable, scalable, and production-ready analytical solutions.
+
+We are open to discussing the final budget with candidates whose experience and skills align with our requirements","SQL
+Python
+Data Science
+Machine Learning
+ETL Pipeline
+Data Analysis
+Data Modeling
+Big Data
+CI/CD
+Preferred qualifications
+Talent Type:
+Independent
+English level:
+Conversational",,Expert,Fixed-price,Ongoing project,,,,,,last week,20 to 50, https://www.upwork.com/jobs/~022078886338411477755?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022078886338411477755,2026-07-30 16:03:58
+30,Market Researcg & Product Reviews,statistical python,Build Scheduled AI Market Intelligence Report Generator,"We're looking for an automation developer to create a scheduled AI reporting workflow.
+
+Every morning, the automation should:
+
+Pull data from multiple APIs.
+Clean and filter duplicate information.
+Store raw data in Google Sheets.
+Use Gemini AI to generate structured market summaries.
+Create sections including:
+Top Trends
+Opportunities
+Risks
+Key Statistics
+Recommended Actions
+Deliver the report automatically via Telegram and Email.
+
+The workflow should support configurable schedules and robust failure recovery.
+
+Responsibilities:
+Scheduled workflows
+API integrations
+Data transformation
+Google Sheets
+AI summarization
+Telegram delivery
+Email delivery
+Logging
+Retry handling
+Monitoring
+Required Skills
+JavaScript
+Cron Scheduling
+REST APIs
+Google Sheets API
+Gemini/OpenAI
+JSON
+Prompt Engineering
+Automation Platforms
+
+Deliverables:
+Fully automated reporting workflow
+Scheduler
+AI prompts
+Logging system
+Documentation","Python
+Artificial Intelligence
+Data Science
+Machine Learning
+Data Analysis",,Intermediate,Fixed-price,Ongoing project,,,,,,6 days ago,10 to 15, https://www.upwork.com/jobs/~022080512322732388939?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022080512322732388939,2026-07-30 16:03:58
+31,Data AI & Machine Learning,numpy,AI home recognition using photo with address and metadata,"Project Overview
+I'm a real estate investor. My team takes exterior photos of homes in the field. I need a tool that turns a Google Drive folder of those photos into a clean address list I can export as CSV.
+
+How it should work
+
+I upload/import batches of home exterior photos into a Google Drive folder
+The tool reads each photo's GPS metadata (EXIF) and reverse-geocodes it to get street name, city, and ZIP — GPS alone isn't reliable for the exact house number
+The tool then uses AI vision / OCR on the photo itself to read the house number from the home (curb, door, mailbox, etc.)
+If no house number is visible or readable, that field is marked ""Not Available"" — never guessed
+When a batch is processed, I can export a CSV with: photo filename, house number, street, city, ZIP, and a confidence/status column
+
+Requirements
+
+Works with Google Drive as the input source (batch processing, not one-by-one)
+Handles 100+ photos per batch without manual babysitting
+Accurate reverse geocoding (Google Maps API or similar)
+Vision extraction for house numbers (GPT-4 Vision, Claude, Google Vision, or similar)
+Simple to run — I'm not a developer; a button, script, or simple web page is fine
+CSV export I can open in Excel/Sheets","Python
+Machine Learning
+Image Processing
+Computer Vision
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,yesterday,50+, https://www.upwork.com/jobs/~022082329019283686871?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082329019283686871,2026-07-30 17:59:07
+32,Web Development,numpy,"$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)","We need a system that reads photographed (not scanned) handwritten betting tickets from a numbers-lottery business and outputs a fully computed, structured version of each ticket.
+
+The tickets: handwritten 3- and 4-digit numbers on small paper slips, with checkboxes for which lottery/draw was selected (NY, NJ, Brooklyn, etc. — midday/night). Templates vary, and some batches show multiple tickets photographed together rather than one ticket per photo — see attached samples for both styles.
+
+The task: extract every played number, double it into ""B""/""S"" entries, price it per that ticket's own rule, sort, and total. The computed total must match a total the agent already writes by hand on the original — that's your built-in correctness check. Pricing rules are not fixed across tickets; you'll need to detect the rule (or the written anchor) per ticket, not assume one global formula.
+
+Target: 100% exact match ideal, ≥90% field-level accuracy acceptable, across the ticket set.
+
+Baseline: none working yet. Free OCR (Tesseract) fails outright on most sample tickets even after basic preprocessing.
+
+Hard constraints (non-negotiable): if your solution calls paid APIs, total cost must stay under $40/day at our real volume (~3,000-4,000 tickets/day, rising). If it runs locally, it must fit on 5x NVIDIA DGX Spark units (128GB unified memory each). An accurate solution that breaks either limit is not usable.
+
+Deliverable: working pipeline, documentation of the pricing rule(s) you found, and cost/throughput numbers proving it fits the constraints above.
+
+Sample data: 2 example finished/result tickets attached here (shows the target output format). The full 200-ticket set (raw photos + originals, both styles) is shared privately once we start working together.
+
+Budget: $5,000, paid on verified delivery. Timeline: ASAP.","OCR Algorithm
+Machine Learning
+Python
+Accuracy Verification",,Expert,Fixed-price,Ongoing project,,,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082464010099319380?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082464010099319380,2026-07-30 17:59:07
+33,Data Analyst & Testing,numpy,"Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing","We are a new UK consultancy advising engineering organisations on how delivery performs. Part of the method reads a client's delivery metadata (Git, tickets, CI, incidents, never source code) as the evidence behind team assessments sold to CTOs and COOs at banks, fintechs and scale-ups, at five and six-figure ticket sizes. The demand driver is AI: organisations are adopting it faster than their delivery and governance can absorb, and they need evidence of what it is actually doing to them.
+
+We are recruiting a founding bench of three senior associates. This is the data seat, and it has the clearest work pipeline of the three.
+
+What you get:
+- A founding seat: featured on our website, the association on your LinkedIn
+- The likely next project: a fixed-price build of our data extraction kit against an open-source pipeline (four figures), then per-engagement analysis work as client deals land
+- No retainer, no exclusivity, no ongoing obligation. Exit any time
+
+We are upfront about the shape of it: the immediate need is a credible senior bench, and for this seat the follow-on work is real but not promised in this contract.
+
+How selection works: a 30-minute call first, so we understand your background properly and you get the firm name and website. If we both want to continue, a paid task ($100 fixed, about an hour): a half-page of feasibility flags on our delivery-metric set from an extract we supply (what typical client data will and will not support), finishing with a short live walkthrough where you talk us through your thinking.
+
+You have eight or more years in data work with real Git and API experience (Python or similar, messy exports included), you know DORA and flow metrics well enough to spot a nonsense number, and you are genuinely interested in what AI adoption does to engineering data. Named companies and clients count: if your data work touched large, recognisable organisations, say so, it weighs heavily. Location flexible; strong written English essential.
+
+To apply, answer these two questions in your proposal:
+1. Which large or well-known organisations has your data work supported, and what did you build or analyse for them?
+2. A client's Jira hygiene is poor: tickets closed in bulk, no consistent workflow. What can you still credibly compute from Git alone?","Data Analysis
+Python
+Data Engineering
+Preferred qualifications",,Expert,Fixed-price,One-time project,,,,,,5 hours ago,10 to 15, https://www.upwork.com/jobs/~022082756186303086131?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082756186303086131,2026-07-30 17:59:07
+34,Data Analysis & Testing,numpy,EEG Feature Extraction and Statistical Analysis for Neuroscience Research,"EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+
+Project Overview
+
+I am looking for an experienced researcher or data scientist with strong expertise in EEG signal processing, neuroscience, statistical analysis, and Python to support an EEG research project.
+
+I have collected EEG data from several participants, with approximately five recording days per participant. The data were recorded at a sampling rate of 1000 Hz.
+
+During each cued trial, participants completed one of two conditions:
+- Silently performing a cued cognitive task.
+- Rest/Blank: completing a cued-rest condition without doing anything.
+
+Task 1: EEG Feature Extraction and Statistical Analysis
+
+Main Research Objective
+
+The main objective is to explore all features and identify EEG features associated with the experimental condition.
+
+The analysis should determine:
+- Which EEG features distinguish the task condition from rest.
+- Whether the identified effects are stable across recording days and sessions.
+- How the effects vary between participants.
+- Whether the eight inner words produce distinguishable EEG patterns. This is a secondary objective.
+
+The complete workflow should be reproducible and capable of running end-to-end on new data.
+
+Step 1: Understand the Experimental Structure
+
+I have already completed the data collection, which was the difficult part. I also have existing code, but it is not complete. The first step is to review the dataset organisation and understand:
+- The current preprocessing and epoch-cutting code, with suggestions for improvement.
+- Recording days and sessions.
+- Experimental conditions.
+- Experimental cues.
+
+The candidate should confirm that these are correctly interpreted before beginning the main analysis.
+
+Step 2: EEG Preprocessing
+
+Develop a reproducible preprocessing pipeline for the raw EEG files.
+
+The preprocessing should include, where appropriate:
+- Loading and validating the raw EEG recordings.
+- Channel-name and montage verification.
+- Identification of missing, noisy, or flat channels.
+- Line-noise removal.
+- Band-pass filtering.
+- Re-referencing.
+- Bad-channel detection and interpolation.
+- Removal of eye-blink and eye-movement artefacts.
+- Removal or reduction of muscular and other non-neural artefacts.
+- Independent component analysis or another justified artefact-removal method.
+- Quality-control summaries for every participant and recording session.
+
+All preprocessing steps are already coded and implemented, but they must be documented and scientifically justified, with suggestions for improvement.
+
+The pipeline should avoid unnecessary processing that could distort condition differences or reduce meaningful effect sizes.
+
+Step 3: Feature Extraction
+
+Extract conventional features for each condition, epoch, and analysis window. We have already done this for each session.
+
+Extract connectivity features that may capture coordinated neural activity during the experimental condition.
+
+These may include:
+- Absolute band power.
+- Relative band power.
+- Log-transformed power.
+- Delta-band power.
+- Theta-band power.
+- Alpha-band power.
+- Beta-band power.
+- Gamma-band power.
+- Spectral ratios.
+- Peak frequency.
+- Peak amplitude.
+- Spectral slope or aperiodic activity.
+- Individualised frequency-band features, where appropriate.
+- Event-related spectral perturbation.
+- Time-resolved band power.
+- Morlet-wavelet features.
+- Multitaper time-frequency features.
+- Baseline-normalised power changes.
+- Peak time-frequency responses.
+- Mean power within predefined time-frequency regions.
+- Temporal characteristics of desynchronisation or synchronisation.
+- Mean amplitude within selected time windows.
+- Peak amplitude.
+- Peak latency.
+- Area under the ERP curve.
+- Signal variance.
+- Root mean square amplitude.
+- Zero-crossing rate.
+- Hjorth activity.
+- Hjorth mobility.
+- Hjorth complexity.
+- Temporal-envelope features.
+- Phase-locking value.
+- Phase-lag index.
+- Weighted phase-lag index.
+- Inter-site phase clustering.
+- Coherence.
+- Imaginary coherence.
+- Amplitude-envelope correlation.
+- Region-to-region connectivity.
+- Sample entropy.
+- Approximate entropy.
+- Permutation entropy.
+- Spectral entropy.
+- Shannon entropy.
+- Lempel–Ziv complexity.
+- Fractal dimension.
+- Detrended fluctuation measures.
+- Others  this for example
+
+Most of this part has already been implemented, but the candidate needs to review and check it.
+Regional summaries may be preferable to testing every possible channel pair.
+
+Step 4: Novel and Composite Feature Engineering
+
+Develop and investigate informative features that combine information across multiple domains.
+
+I am particularly interested in features that go beyond a single conventional EEG measurement.
+
+Examples may include:
+- Spectral-temporal composite features.
+- Spatially weighted band-power measures.
+- Ratios between anterior and posterior activity.
+- Combined spectral and entropy features.
+- Joint power-connectivity measures.
+- Cross-frequency features.
+- Participant-normalised effect features.
+- Region-of-interest summary scores.
+- Multivariate feature combinations.
+- Features derived from dimensionality-reduction methods, where scientifically justified.
+
+Novel features must be interpretable, reproducible, and supported by a clear scientific rationale.
+
+Step 5: Construct the Feature Matrices
+
+Create a structured feature matrix for every participant and a combined group-level matrix.
+
+Each row should clearly represent the selected unit of analysis, such as:
+- Condition average.
+- Session.
+- Day.
+- Participant.
+
+Each feature matrix should include appropriate identifiers, including:
+- Participant.
+- Day.
+- Session.
+- Trial.
+- Condition.
+- Word or task label.
+- Channel or region.
+- Time window.
+- Feature name.
+- Feature value.
+
+The final format must be suitable for statistical modelling and later machine-learning analysis.
+
+Step 6: Feature Quality Assessment
+
+Before statistical testing, evaluate the extracted features for:
+- Reliability across repeated trials.
+- Stability across sessions and days.
+- Redundancy between features.
+- Sensitivity to preprocessing choices.
+- Strong participant-specific effects.
+
+Highly correlated or unstable features should be identified and documented.
+
+Step 7: Within-Subject Statistical Analysis
+
+Apply appropriate within-subject statistical tests to compare the experimental conditions: rest and task conditions.
+
+Depending on the feature structure and assumptions, this may include:
+- Paired t-tests.
+- Wilcoxon signed-rank tests.
+- Repeated-measures ANOVA.
+- Permutation tests.
+- Cluster-based permutation tests.
+- Condition-by-session comparisons.
+- Condition-by-day comparisons.
+
+The analysis must report:
+- Direction of the effect.
+- Mean condition difference.
+- Test statistic.
+- Uncorrected p-value.
+- Corrected p-value.
+- Effect size.
+- Confidence interval.
+- Number of participants and observations included.
+
+Step 8: Group-Level Statistical Analysis
+
+Perform appropriate group-level analyses that account for the repeated-measures and hierarchical structure of the data.
+
+Possible methods include:
+- Participant-level paired analyses.
+- Repeated-measures ANOVA.
+- Mixed-design ANOVA.
+- Linear mixed-effects models.
+- Non-parametric permutation analysis.
+- Cluster-based spatial or time-frequency testing.
+
+The statistical model should account for relevant factors such as:
+- Condition.
+- Participant.
+- Recording day.
+- Session.
+- Time window.
+- Frequency band.
+- Channel or region.
+
+Individual EEG trials must not be treated as independent participants.
+
+Step 9: Multiple-Comparison Correction
+
+Apply suitable multiple-comparison correction where required.
+
+This may include:
+- False discovery rate correction.
+- Family-wise error correction.
+- Cluster-based correction.
+- Permutation-based maximum statistics.
+
+The selected correction method must be appropriate for the number and structure of the comparisons.
+
+The analysis should not repeatedly test configurations only to search for significance. Confirmatory, exploratory, and sensitivity analyses must be clearly separated.
+
+Step 10: Result Interpretation
+
+Identify which features show reliable differences between experimental conditions.
+
+The final interpretation should explain:
+- Which features are significantly different.
+- The direction and magnitude of each effect.
+- Which brain regions or channels show the strongest effects.
+- Which time periods and frequency bands are most informative.
+- Whether the results are consistent across participants.
+- Whether the results are stable across recording days or sessions.
+- Which findings survive multiple-comparison correction.
+- Which results are exploratory and require further validation.
+
+Step 11: Discussion Section
+
+Produce clear text that can be included directly in a manuscript.
+
+Expected visualisations may include:
+- EEG topographic maps.
+- Time-course plots.
+- Time-frequency plots.
+- Violin plots.
+- Box plots.
+- Raincloud plots.
+- Participant-level paired plots.
+- Effect-size plots.
+- Confidence-interval plots.
+- Heatmaps.
+- Connectivity plots.
+- Feature-stability plots.
+- Statistical significance maps.
+
+Step 12: Statistical Tables and Reports
+
+Provide tidy tables containing:
+- Descriptive statistics.
+- Participant-level results.
+- Group-level results.
+- Effect sizes.
+- Confidence intervals.
+- Raw p-values.
+- Corrected p-values.
+- Significant feature summaries.
+- Feature-ranking summaries.
+- Trial and epoch quality-control information.
+
+Tables should be supplied in CSV and Excel formats.
+
+Step 13: Reproducible Code and Documentation
+
+The full analysis must be implemented in well-organised and well-commented Python code.
+
+I am not looking for unverified AI-generated code. The candidate must understand, review, and be able to explain every major methodological and programming decision in a straightforward and understandable way.
+
+The code should be suitable for running in VS Code and should include:
+- A clear folder structure.
+- Configuration files for analysis parameters.
+- Reusable functions.
+- Error handling.
+- Logging.
+- Environment or dependency information.
+- A main script that runs the complete pipeline.
+- Instructions explaining how to run the analysis on new data.
+
+Deliverables
+
+The final deliverables must include:
+
+1. A complete updated code.
+2.  statistical results.
+3. Statistical tables in CSV and Excel formats.
+4. Quality-control summaries.
+5. Documentation explaining the full workflow.
+6. A written scientific interpretation of the main findings.
+
+Verification of the Work
+
+I will verify the work by:
+- Running the pipeline end-to-end on fresh EEG data.
+- Confirming that the raw data can be processed without manual intervention.
+- Checking that the feature matrices are generated correctly.
+- Confirming that the statistical outputs reproduce the submitted tables and figures.
+- Reviewing whether the statistical methods match the experimental design.
+- Checking that effect sizes and participant-level results are preserved.
+- Confirming that all important preprocessing and analysis decisions are documented.
+- Asking the candidate to explain the main code and methodological choices.
+
+The project will be considered complete only when the submitted code reproduces the final results and figures from the raw data.
+
+Task 2: Feature-Engineered EEG Decoder
+
+After identifying the most reliable EEG features, the second task will be to build a feature-engineered decoding pipeline. I will continue hiring the same person for this task.","Statistics
+Data Analysis
+Quantitative Analysis
+Statistical Analysis
+Biostatistics
+Bayesian Analysis",,Expert,Fixed-price,Ongoing project,,,,,,11 hours ago,20 to 50, upwork.com/jobs/~022082671746191811156?referrer_url_path=/nx/search/jobs/details/~022082671746191811156,2026-07-30 17:59:07
+35,Data AI & Machine Learning,numpy,Computer Vision Developer - Object Detection & Tracking on Video (Python),"I'm building a small sports analytics tool and need help with the video processing part.
+
+What I need:
+- Detect a ball and players on recorded match footage;
+- Track them across frames and keep consistent IDs;
+- Output detections as JSON (coordinates, frame number, object ID).
+
+The footage is fixed-camera, 1080p. I already have sample videos to work with. Models can be off-the-shelf - YOLO, ByteTrack, whatever you're comfortable with. No need to train from scratch at this stage.
+Looking for someone who can start with a small piece first so we can see how we work together, then continue if it goes well. Long-term collaboration possible if the first part goes smoothly.
+
+Please tell me in your reply:
+- What you'd use for detection and tracking, and why?
+- A project where you did something similar (link if possible)?
+- How many hours per week you're available?","Object Detection
+Deep Learning
+OpenCV
+Python
+Computer Vision
+Video Processing",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,yesterday,20 to 50, upwork.com/jobs/~022082463515175641684?referrer_url_path=/nx/search/jobs/details/~022082463515175641684,2026-07-30 17:59:07
+36,Data Extraction/ETL,numpy,Automate Shopee Malaysia Data Scraping,"We are seeking a skilled freelancer to automate the scraping of listings data from Shopee Malaysia. The ideal candidate will have experience in web scraping and data extraction, with the ability to handle large volumes of data efficiently. The task involves developing a reliable system to collect and organize data from the platform, ensuring accuracy and consistency. If you have a strong background in data mining and web crawling, we would love to hear from you.","Data Scraping
+Web Crawling
+Nice-to-have skills
+Python
+Data Mining",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,50+, https://www.upwork.com/jobs/~022082144410936289704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082144410936289704,2026-07-30 17:59:07
+37,Scripts & Utilities,numpy,Python Desktop App for AdsPower Local API & Playwright Automation,"Overview:
+
+Looking for a Senior Python Developer to build a custom desktop GUI tool that interacts with AdsPower Local API.
+
+Requirements:
+
+Simple Desktop Interface (Tkinter / CustomTkinter) to load Excel files and set custom delay timers.
+
+Integration with AdsPower Local API to start/stop browser profiles programmatically.
+
+Web automation using Playwright / Selenium to perform automated browser actions (navigating URLs, typing text, dynamic element clicking) based on the input Excel file.
+
+Error logging and basic retry logic for dynamic web elements.
+
+Please highlight your previous experience with AdsPower API and Playwright in Python.","Python
+Automation
+API
+Data Scraping
+API Integration",,Intermediate,Fixed-price,Ongoing project,,,,,,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082074352873641372?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082074352873641372,2026-07-30 17:59:07
+38,Web & Mobile Design,numpy,Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept),"Job Posting: Real-Time Audio-Reactive Prototype Developer (v0.0 Proof of Concept)
+
+Title
+Real-Time Audio-Reactive Light/Visual Prototype (1-2 Week Build)
+
+Summary
+I'm building an early proof of concept for an AI-assisted live performance system. I need a small, working demo that proves a simple concept: live audio input → real-time signal analysis → a visible light or on-screen reaction, with low latency. This is a scoped, standalone prototype — not part of a larger existing codebase.
+
+What You'll Build
+- Capture live audio from a standard USB microphone
+- Detect in real time: (1) volume/RMS level changes, (2) tempo/BPM changes
+- When a signal crosses a threshold, fire an event that triggers a visible reaction — either a smart light (e.g. Govee, Philips Hue) changing color/brightness, or an on-screen visual changing on a connected display
+- Log every signal reading and triggered event with timestamps, so latency can be measured afterward
+- A basic start/stop control (keypress or button — no voice activation needed for this phase)
+
+Explicitly Out of Scope
+No camera/video, no AI/LLM reasoning layer, no dashboard UI beyond start/stop, no wireless audio feedback, no custom hardware enclosure, no cloud/multi-user components. Everything runs locally on one machine.
+
+Deliverable
+A working local demo (laptop or mini PC) showing the full loop live, plus a logged latency measurement from signal detected to reaction fired.
+
+Success Criteria
+- Reaction latency under ~1 second, documented in the log
+- Runs reliably for a 10-15 minute continuous test without crashing
+- Latency log file provided so timing can be independently verified
+
+Tech Stack
+Open to your recommendation — Python or JavaScript/Node both fine. Comfortable with real-time audio libraries (e.g. PyAudio/librosa/aubio, or Web Audio API) a plus.
+
+What to Include in Your Proposal
+1. Relevant experience with real-time audio-reactive systems (examples/portfolio welcome)
+2. Your estimated latency for this scope, and why
+3. Fixed-price quote and timeline (please also quote separately for an optional ""voice-activated start/stop"" add-on)
+4. Whether you'd want a short call first to clarify scope
+
+Timeline
+Target start within the next 1-2 weeks; build itself estimated at 1-2 weeks of work.","real time audio processing
+Digital Signal Processing
+Low-latency systems programming
+PyAudio
+web audio API
+Python
+smart home API integration
+Preferred qualifications",,Entry level,Fixed-price,One-time project,,,,,,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082165685734731522?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082165685734731522,2026-07-30 17:59:07
+39,Data Extraction/ETL,numpy,Python script to clean messy sales CSV and generate a summary report,"Hi there,
+
+I run a small online store and every month I export our sales transactions from our point-of-sale system as a CSV file. The export is messy — inconsistent date formats, prices with dollar signs and commas, extra whitespace, some duplicate rows, and the occasional blank/invalid row. Right now I clean it by hand in Excel and it takes me an hour or two every month. I'd like to stop doing that.
+
+I'm looking for a **command-line Python script** that I can run on my own laptop. I point it at the raw CSV export and it (1) cleans the data and saves a tidy CSV, and (2) produces a short summary report so I can see how the month went at a glance.
+
+I'm not a developer but I can run a command in the terminal if you give me clear instructions. Please keep it simple to install and run — I'd strongly prefer **standard Python with no heavy setup** (or minimal, well-documented dependencies).
+
+## What the raw data looks like
+
+Each row is one sale. Columns (header names roughly as below, but please be a little tolerant of extra spaces/case):
+
+`order_id, date, customer, product, quantity, unit_price`
+
+Real-world messiness you'll need to handle:
+
+- Dates come in mixed formats: `2026-01-05`, `01/05/2026`, `Jan 5, 2026`.
+- `unit_price` may look like `$1,299.00`, `1299`, or `  19.99 `.
+- `quantity` may have stray spaces or be blank.
+- Leading/trailing whitespace in text fields; inconsistent capitalization in product names.
+- Fully duplicated rows (same order_id and everything) should be de-duplicated.
+- Rows missing an order_id, product, or with non-numeric/zero/negative price or quantity are **invalid** — skip them, but tell me how many were skipped and why.
+
+## Deliverables / Requirements
+
+1. **A single Python CLI script** (e.g. `python sales_report.py input.csv`) that accepts:
+- the path to the input CSV (required), and
+- an optional output folder (default: current directory).
+
+2. **Cleaned CSV output** (`cleaned_sales.csv`) with:
+- normalized dates (ISO `YYYY-MM-DD`),
+- numeric `unit_price` and `quantity` (no symbols),
+- a computed `line_total` column (quantity × unit_price),
+- trimmed text, title-cased product names,
+- duplicates removed and invalid rows excluded.
+
+3. **A summary report** (both a human-readable `report.txt` / Markdown **and** a machine-readable `summary.json`) containing:
+- total revenue, total number of valid orders, total units sold, average order value,
+- revenue and units **by product** (sorted high → low),
+- revenue **by month**,
+- **top 5 customers** by revenue,
+- a data-quality section: how many rows were read, skipped, and de-duplicated, with reasons.
+
+4. **A short README** with setup and exact run instructions, plus a small **sample input CSV** and the **example output** it produces, so I can confirm it works before I run it on my real data.
+
+5. Clean, commented code. Sensible error message if the file is missing or the columns don't match (don't just crash with a stack trace).
+
+## Nice to have (not required)
+
+- Works with just the Python standard library so I don't have to install anything.
+- A `--top` option to change how many top customers/products are shown.
+
+## How to apply
+
+Please confirm you've read the requirements, mention any clarifying questions, and let me know your timeline. A quick note on how you'd handle the messy date/price parsing is a plus. Thanks!","Python
+pandas
+CSV
+Data Cleaning
+Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-07-30 17:59:07
+40,Data Analysis & Testing,matplotlib,Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted),"WHAT WE NEED
+
+We are a US-based fintech (LootRush.com) processing high monthly volume across multiple
+payment rails. We need someone to build a reconciliation pipeline that
+matches transaction data across three independent sources: settlement
+files from payment partners, our internal transaction records, and public
+blockchain transaction data.
+
+The output is a repeatable, documented matching process that identifies
+every unmatched or partially matched transaction and explains why it
+broke. This is not a one-off analysis. It is a tool we re-run every month.
+
+WHAT YOU WILL BUILD
+
+1. An ingestion layer that normalizes files from multiple sources with
+inconsistent formats, column names, timestamp conventions, and rounding
+behavior.
+
+2. A matching engine handling exact matches, near matches, and
+one-to-many relationships, where a single record on one side corresponds
+to multiple records on another.
+
+3. An exception report that categorizes each break by type and gives a
+human enough context to resolve it.
+
+4. Documentation clear enough that someone else on our team can run,
+modify, and extend the pipeline without you.
+
+WHAT WE ARE LOOKING FOR
+
+- Strong Python and pandas, or an equivalent stack. SQL a plus.
+- Real experience reconciling or matching messy data across systems that
+were never designed to agree with each other. Financial data preferred
+but not required. If you have done this with logistics, telecom, ad tech,
+or any other multi-source operational data, that transfers.
+- Fluency with AI tools, specifically Claude, as part of how you actually
+work. We use them heavily and want someone who does too. We will ask
+about this concretely.
+- The instinct to chase a discrepancy down rather than write it off. The
+unmatched 0.3 percent is the entire point of the job.
+- Clear written English. You will be explaining your logic, not just
+shipping code.
+
+NICE TO HAVE, GENUINELY OPTIONAL
+
+Familiarity with blockchain data and block explorers, or prior work with
+payment settlement files, interchange, or card transaction data. We will
+teach the domain.
+
+HOW WE ARE RUNNING THIS
+
+We start with a paid fixed-price test using synthetic data that mirrors
+our real structure. It is a realistic file set with a small number of
+deliberate discrepancies buried in it. You deliver the reconciliation
+output plus a short writeup of what you found and how you approached it.
+We pay for the test regardless of outcome.
+
+All development happens against synthetic data. We run the finished
+pipeline against live data internally.
+
+Strong performers move to an ongoing engagement. We have continuing work
+in this area.
+
+TO APPLY
+
+Skip the generic cover letter. Tell us about one time you reconciled or
+matched data across sources that disagreed, what the root cause turned
+out to be, and how you found it.","Python
+SQL
+Data Analysis
+pandas
+ETL Pipeline
+Preferred qualifications
+English level:
+Conversational
+Location:
+Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-07-30 17:59:07
+41,Physical Sciences,stochastic,SW Development & Advanced MATH for Strategic Planning,"We need mathematically talented individuals to help us create business planning models at the STRATEGIC, TACTICAL, and OPERATIONAL level.
+We anticipate our approach will be heavily dependent on theory of Manifolds, Topological Perspectives, and supporting probability frameworks (Markov models, Stochastic Calculus).
+If you don't know this math, but are willing to learn, we will create paid training tasks for you.
+We are using AI to first map business plans into a space of allowed actions.  The mathematics we needs has to bridge the gap between that space and the oeprational requirements of businesses.
+There are about 30 to 50 specific tasks to be done over the span of the project.
+This is the first initial task that we estimate will establish the Proof of Concept.
+Once we have a critical mass of proven concepts we will initiate new projects to implement the actual software mechanisms.
+This initial task is a short task to prime the pump.
+The following tasks may be considerably longer, or possibly more difficult.
+If you have questions, or want to know more, please reach out to me and I will try to respond right away.","Mathematics
+SW Development
+C#
+ASP.NET
+Microsoft SQL Server
+Preferred qualifications",,Entry level,Fixed-price,One-time project,,,,,,3 weeks ago,15 to 20, https://www.upwork.com/jobs/~022074209608520281119?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074209608520281119,2026-07-30 19:01:53
+42,Data Analysis & Testing,hypothesis testing,OR Tools expert to work for a sales person algorithm to optimize sales route,"Project Overview
+We are looking for an experienced Operations Research (OR) Developer / Constraint Programming expert to build a mathematical optimization model for our business.
+
+We manage a network of merchants who require physical visits from our agents to replenish their working balance. Merchants consume their balance at different daily rates. The goal of this project is to build an algorithm that predicts when a merchant's balance will run out and schedules an agent visit before they hit zero, while minimizing travel and maximizing agent efficiency.
+
+The Technical Challenge
+This is a classic Inventory Routing / Field Service Scheduling problem. We need a developer who can translate our business rules into constraints using Google OR-Tools (specifically the CP-SAT solver) in Python.","Data Analysis
+Data Science
+or tools",,Expert,Fixed-price,Ongoing project,,,,,,4 days ago,20 to 50, https://www.upwork.com/jobs/~022081338819257923474?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081338819257923474,2026-07-30 19:01:53
+43,Financial Planning,hypothesis testing,Pairs Trading quantitative analysis,"Hi, looking for someone with some experience in pairs trading to help research techniques, analyze data and create trading strategies - I don't really need help with implementation at this point.
+
+Specifically, I'm looking for someone curious and creative to experiment with various non-ML and ML ideas. I've been spending a ton of time with claude code with this so there's no shortage of concepts, but it takes quite awhile for my puny brain to internalize a lot of it so having someone with big quant brain would help a ton.
+
+What I've done so far:
+* Data integration (price, funding, OI, slippage, etc. history)
+* Basic metrics - 30 or so
+* Train/test/holdout segregation
+* shap/interaction analysis of metrics
+* backtesting / grid testing
+
+I started working on an autoresearch (Karparhy) framework but realized that I just don't have enough knowledge to hand off to an autonomous self-improving system yet. e.g., something like how to model exiting positions (outside of some basic close at |z|=x sort of thing). Started poking around and found a bunch papers and reckoned now was the time to get some help.
+
+The budget is really a function of success/progress. I'd like to start maybe with a audit/cleanup of what I already have and then start to experiment. If we are making progress, then I have more budget.
+
+I think this project is best suited for someone who wants to learn a lot more about pairs trading concepts vs. maximizing value from what they already know.
+
+(Please no AI-generated response. I'll just delete it.)","Quantitative Analysis
+Data Analysis
+Python
+Claude
+Cryptocurrency
+Data Science
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,2 months ago,20 to 50, https://www.upwork.com/jobs/~022053243377183889774?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022053243377183889774,2026-07-30 19:01:53
+44,Data Mining & Management,,Building Databases Synchronization Pipeline,"I have a SQL Server database and a vector database (Qdrant), and I’m working on building a synchronization pipeline between the two. The goal is to ensure that any batch inserts or updates performed in the SQL database are automatically reflected in the vector database.
+
+I’m looking for a Data Engineer who can help me design and implement an efficient approach for handling this synchronization process.","ETL Pipeline
+Data Engineering
+Python
+Microsoft SQL Server
+Qdrant
+Microsoft Azure
+Database
+SQL",,Intermediate,Fixed-price,One-time project,,,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082379103287434205?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082379103287434205,2026-07-30 19:01:53

@@ -1,0 +1,76 @@
+URL:https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510
+category: -
+search_keyword: data analyst python
+___
+Data Extraction and Analysis Specialist - Data Extraction/ETL
+Data Extraction and Analysis Specialist
+Posted 2 days ago
+Worldwide
+
+Summary
+We’re looking for a Data Scientist to help us organize and make better use of historical data across approx thousands of deals.
+
+The data currently sits across different sources and documents, with several missing or inconsistent mappings. We need someone who can help us:
+
+* Clean and connect the historical data
+* Pull key information and lender details from deal documents
+* Map deals by industry, region and other relevant fields
+* Build a model that can use this historical data to predict the same information for future deals
+
+We’re open to Random Forest or another approach you believe would work better.
+
+Strong experience with Python, data mapping, strong SQL queries and predictive modelling is important. Experience working with financial data and extracting information from documents would be a plus.
+
+Please share any similar projects you’ve worked on and a brief note on how you’d approach this.
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Duration
+Intermediate
+I am looking for a mix of experience and value
+$8.00
+
+-
+
+$25.00
+
+Hourly
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Data Analysis
+Data Science
+Nice-to-have skills
+IBM SPSS
+Statistics
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+yesterday
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Send a proposal for: 13 Connects
+Available Connects: 10
+About the client
+Payment method not verified
+Phone number verified
+India
+2:15 PM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 28, 2026
+Job link
+https://www.upwork.com/jobs/~022082094300318745510
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

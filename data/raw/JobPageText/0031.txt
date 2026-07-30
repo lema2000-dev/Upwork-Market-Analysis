@@ -1,0 +1,127 @@
+URL: https://www.upwork.com/jobs/~022082329019283686871?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082329019283686871
+category: Data AI & Machine Learning
+search_keyword: numpy
+___
+AI home recognition using photo with address and metadata
+Posted yesterday
+Worldwide
+
+Summary
+Project Overview
+I'm a real estate investor. My team takes exterior photos of homes in the field. I need a tool that turns a Google Drive folder of those photos into a clean address list I can export as CSV.
+
+How it should work
+
+I upload/import batches of home exterior photos into a Google Drive folder
+The tool reads each photo's GPS metadata (EXIF) and reverse-geocodes it to get street name, city, and ZIP — GPS alone isn't reliable for the exact house number
+The tool then uses AI vision / OCR on the photo itself to read the house number from the home (curb, door, mailbox, etc.)
+If no house number is visible or readable, that field is marked "Not Available" — never guessed
+When a batch is processed, I can export a CSV with: photo filename, house number, street, city, ZIP, and a confidence/status column
+
+Requirements
+
+Works with Google Drive as the input source (batch processing, not one-by-one)
+Handles 100+ photos per batch without manual babysitting
+Accurate reverse geocoding (Google Maps API or similar)
+Vision extraction for house numbers (GPT-4 Vision, Claude, Google Vision, or similar)
+Simple to run — I'm not a developer; a button, script, or simple web page is fine
+CSV export I can open in Excel/Sheets
+
+$100.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Python
+Machine Learning
+Image Processing
+Computer Vision
+Preferred qualifications
+Activity on this job
+Proposals:
+50+
+Last viewed by client:
+yesterday
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 18
+Available Connects: 10
+About the client
+Payment method verified
+Rating is 4.8 out of 5.
+4.8
+4.83 of 36 reviews
+United States
+Bakersfield11:57 AM
+90 jobs posted
+60% hire rate, 3 open jobs
+$5.3K total spent
+56 hires, 8 active
+$5.07 /hr avg hourly rate paid
+98 hours
+Member since Mar 16, 2016
+Job link
+https://www.upwork.com/jobs/~022082329019283686871
+Client's recent history (50)
+
+Jobs in progress
+looking for 2d slideshow (i will give picture background voice and text that needs to be added.
+No feedback given
+To freelancer: Sanjeev K.
+Rating is 5.0 out of 5.
+5.0
+Mar 2017 - Jul 2026
+Fixed-price $70.00
+Need someone to help me build my lead page site
+Rating is 5.0 out of 5.
+5.0
+it was a pleasure to working with you! hope we can work together in future.
+To freelancer: Shanto H.
+Rating is 5.0 out of 5.
+5.0
+Aug 2024 - Jul 2026
+Fixed-price $200.00
+Google Address Autocomplete Integration for Leadpages Form
+No feedback given
+To freelancer: Nimesh G.
+Rating is 5.0 out of 5.
+5.0
+Oct 2024 - Jul 2026
+Fixed-price $40.00
+SketchUp Expert Needed for Exterior House Modifications
+Rating is 5.0 out of 5.
+5.0
+It was a pleasure working with Joy! Communication was clear and professional throughout the project. I enjoyed the collaboration and would be happy to…more
+To freelancer: Lala H.
+Rating is 5.0 out of 5.
+5.0
+Jan 2025 - Jul 2026
+Fixed-price $180.00
+make the agreed modifications for the Filtering by sqft and age
+Rating is 5.0 out of 5.
+5.0
+He is a very kind person, had zero problems at all.
+To freelancer: Hasan A.
+Rating is 5.0 out of 5.
+5.0
+Yes, Hasan was great and went above and beyond to insure the build was exactly as needed. Very skilled ! Highly recommended
+May 2026 - May 2026
+Fixed-price $80.25
+View more (37)
+Other open jobs by this Client (2)
+WordPress designer for landing pages and sites of real estate companiesHourly
+Looking for a U.S.-Based Google's ads and meta specialist for on a per hour basis.Hourly
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

@@ -1,0 +1,137 @@
+URL: https://www.upwork.com/jobs/~022076605694608480704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076605694608480704
+category: Data Analysis & Testing
+search_keyword: data analyst python
+___
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Posted 2 weeks ago
+Worldwide
+
+Summary
+We're looking for someone to help us review product data from a WooCommerce store and identify compliance-related information.
+
+For each product, we need to determine:
+
+* Is a Safety Data Sheet (SDS/PDF) available?
+* Does the product contain any medical or health claims?
+* Does the product contain Hazard Statement **H314**?
+
+We're looking for someone who can recommend the fastest and most accurate way to complete this review, whether that's using AI, Excel, scripts, or another reliable method.
+
+**Requirements:**
+
+* Experience with Excel and large datasets
+* Experience using AI tools for data analysis
+* Strong attention to detail
+* Experience with WooCommerce product data 
+
+**To apply, please include:**
+
+* Similar projects you've worked on
+* How you would approach this task
+* Your **fixed price**
+* Estimated turnaround time
+
+**Please only apply if you have relevant experience. Applications without examples and a fixed price will not be considered.**
+
+Less than 30 hrs/week
+Hourly
+Less than 1 month
+Duration
+Entry level
+I am looking for freelancers with the lowest rates
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Microsoft Excel
+Data Analysis
+Statistics
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+2 weeks ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 14
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 5.0 out of 5.
+5.0
+5.00 of 8 reviews
+CHE
+Niederuzwil3:32 PM
+16 jobs posted
+63% hire rate, 3 open jobs
+$1.4K total spent
+14 hires, 2 active
+Tech & IT
+Small company (2-9 people)
+Member since Feb 3, 2026
+Job link
+https://www.upwork.com/jobs/~022076605694608480704
+Client's recent history (10)
+
+Jobs in progress
+Graphic Designer Needed – Modern Brochure Design (Print & Digital) | Foldable | Catering Branding
+Rating is 5.0 out of 5.
+5.0
+Had a great experience working with you.
+To freelancer: Upavit S.
+Rating is 5.0 out of 5.
+5.0
+It was a pleasure working with Upavit.
+May 2026 - May 2026
+Fixed-price $140.00
+WooCommerce Product Expiry Monitoring Automation
+Rating is 5.0 out of 5.
+5.0
+It was good to work with Jerin
+To freelancer: Jahanzeb J.
+Rating is 4.0 out of 5.
+4.0
+Feb 2026 - May 2026
+Fixed-price $360.00
+Woo Commerce quick code fix
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Manju B.
+Rating is 5.0 out of 5.
+5.0
+May 2026 - May 2026
+Fixed-price $7.00
+Go High Level - ( GHL ) Implementation Assistant – Internal Onboarding Only - Long Term
+Rating is 5.0 out of 5.
+5.0
+Working with Jarin has been an absolute pleasure. She is professional, clear in her communicatio. Her vision and dedication make collaborating with he…more
+To freelancer: Taye O.
+Rating is 5.0 out of 5.
+5.0
+Mar 2026 - May 2026
+Fixed-price $6.00
+Looking for a Microsoft Excel expert to update an existing price list based on a new supplier price
+Rating is 5.0 out of 5.
+5.0
+Jerin was great. She had something very specific in mind and it had to be done in a particular way. It took several iterations and she always gave con…more
+To freelancer: Gabriel D.
+Rating is 5.0 out of 5.
+5.0
+Gabriel did an excellent job on my Excel project. Before hiring him, I worked with two other freelancers, but unfortunately, I had to cancel both cont…more
+Mar 2026 - Mar 2026
+Fixed-price
+View more (3)
+Other open jobs by this Client (2)
+Creative Website Animator Needed for a Completed WebsiteHourly
+Data EntryHourly
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

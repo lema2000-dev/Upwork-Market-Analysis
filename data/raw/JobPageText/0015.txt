@@ -1,0 +1,70 @@
+URL: https://www.upwork.com/jobs/~022076627179491473274?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076627179491473274
+category: -
+search_keyword: data analyst python
+___
+Python Developer for Monte Carlo Simulator
+Posted 2 weeks ago
+Worldwide
+
+Summary
+Seeking a Python developer/statistician to build a Monte Carlo simulator for a proprietary poker-style card game. The rules and strategy decisions are already defined. The ideal candidate will have experience in statistical analysis and Python development, with a focus on creating efficient and accurate simulations. This is a part-time project with a short-term engagement. This project is for analysis of a proprietary poker-style table game. A signed NDA may be required before full game rules are shared.
+
+Deliverables include a Python application capable of running millions of simulated hands, allowing payout tables to be easily modified, and generating statistics such as expected return, hand frequencies, and house edge.All source code and work product will become my property upon project completion.
+
+
+If this project is successful, there is potential for additional work involving related games built on the same simulation framework.
+
+$500.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:One-time project
+You will be asked to answer the following questions when submitting a proposal:
+
+Have you built a Monte Carlo simulation in Python? If so, briefly describe the project and the approximate number of iterations it handled.
+Have you developed simulations involving card games, poker, probability, or combinatorics? If yes, please describe your experience.
+How would you approach validating that a simulation is producing statistically accurate results?
+Will the completed project include well-documented source code that I will own, allowing me to modify paytables and rerun simulations independently?
+Please describe how you would structure this project and estimate the time required.
+Skills and Expertise
+Mandatory skills
+Python
+NumPy
+pandas
+mathmeticians
+Statistics
+monte carlo simulation
+Algorithm Development
+Data Analysis
+Preferred qualifications
+Activity on this job
+Proposals:
+50+
+Last viewed by client:
+2 weeks ago
+Interviewing:
+3
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 11
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+United States
+4:21 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 13, 2026
+Job link
+https://www.upwork.com/jobs/~022076627179491473274
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

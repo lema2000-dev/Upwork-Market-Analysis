@@ -1,0 +1,71 @@
+URL: https://www.upwork.com/jobs/~022067489709072780967?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022067489709072780967
+category: Data Analyst & Testing
+search_keyword: data analyst python
+___
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Posted last month
+Worldwide
+
+Summary
+Project Title: Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Description: I need an econometrician to run a staggered Difference-in-Differences model on an M&A dataset. You must use modern estimators for staggered treatment timing (e.g., the Callaway & Sant'Anna estimator).
+If you are using R, you must be proficient with the did, staggered, or fastdid packages. If you are using Python, you must use the equivalent causal inference libraries.
+Deliverables:
+A clean, well-commented script (R or Python) formatting the raw Bloomberg export.
+The regression outputs and event-study plots.
+A 30-minute Zoom call where you walk me through every line of the code and explain the output so I can defend it..
+
+Less than 30 hrs/week
+Hourly
+Less than 1 month
+Duration
+Intermediate
+I am looking for a mix of experience and value
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+SQL
+Data Analytics
+Python
+Statistical Analysis
+Data Visualization
+Microsoft Excel
+R
+Data Cleaning
+Amazon Athena
+Excel Macros
+Microsoft Excel PowerPivot
+Data Analytics & Visualization Software
+pandas
+Predictive Modeling
+Predictive Analytics
+Activity on this job
+Proposals:
+15 to 20
+Last viewed by client:
+3 weeks ago
+Interviewing:
+3
+Invites sent:
+1
+Unanswered invites:
+1
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 9
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Morocco
+Meknes10:28 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jun 18, 2026
+Job link
+https://www.upwork.com/jobs/~022067489709072780967
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

@@ -1,0 +1,123 @@
+URL: https://www.upwork.com/jobs/~022053243377183889774?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022053243377183889774
+category: Financial Planning
+search_keyword: hypothesis testing
+___
+Pairs Trading quantitative analysis
+Posted 2 months ago
+Worldwide
+
+Summary
+Hi, looking for someone with some experience in pairs trading to help research techniques, analyze data and create trading strategies - I don't really need help with implementation at this point. 
+
+Specifically, I'm looking for someone curious and creative to experiment with various non-ML and ML ideas. I've been spending a ton of time with claude code with this so there's no shortage of concepts, but it takes quite awhile for my puny brain to internalize a lot of it so having someone with big quant brain would help a ton.
+
+What I've done so far:
+* Data integration (price, funding, OI, slippage, etc. history)
+* Basic metrics - 30 or so 
+* Train/test/holdout segregation
+* shap/interaction analysis of metrics
+* backtesting / grid testing 
+
+I started working on an autoresearch (Karparhy) framework but realized that I just don't have enough knowledge to hand off to an autonomous self-improving system yet. e.g., something like how to model exiting positions (outside of some basic close at |z|=x sort of thing). Started poking around and found a bunch papers and reckoned now was the time to get some help.
+
+The budget is really a function of success/progress. I'd like to start maybe with a audit/cleanup of what I already have and then start to experiment. If we are making progress, then I have more budget.
+
+I think this project is best suited for someone who wants to learn a lot more about pairs trading concepts vs. maximizing value from what they already know.
+
+(Please no AI-generated response. I'll just delete it.)
+
+$1,000.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Quantitative Analysis
+Data Analysis
+Python
+Claude
+Cryptocurrency
+Data Science
+Preferred qualifications
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+2 weeks ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 21
+Available Connects: 10
+About the client
+Payment method verified
+Rating is 5.0 out of 5.
+5.0
+4.99 of 231 reviews
+United States
+San Francisco1:34 PM
+478 jobs posted
+66% hire rate, 1 open job
+$324K total spent
+359 hires, 1 active
+$24.42 /hr avg hourly rate paid
+10,413 hours
+Individual client
+Member since May 9, 2011
+Job link
+https://www.upwork.com/jobs/~022053243377183889774
+Client's recent history (50)
+Python development support
+No feedback given
+To freelancer: Lucas Santiago F.
+Rating is 1.0 out of 5.
+1.0
+Scammer
+Apr 2025 - Apr 2026
+42 hrs @ $29.28/hr
+Billed: $1,169.23
+Python-based trading chart pattern recognition
+No feedback given
+To freelancer: Unko I.
+Rating is 5.0 out of 5.
+5.0
+Feb 2024 - Apr 2026
+31 hrs @ $25.00/hr
+Billed: $801.20
+Custom training ChatGPT
+No feedback given
+To freelancer: Ahan M.
+Rating is 5.0 out of 5.
+5.0
+Dec 2023 - Apr 2026
+2 hrs @ $30.00/hr
+Billed: $54.45
+Python website / REST API scraper
+No feedback given
+To freelancer: Monjur Ul A.
+Rating is 5.0 out of 5.
+5.0
+Feb 2024 - Apr 2026
+26 hrs @ $20.00/hr
+Billed: $538.54
+Python/ccxt crypto order management system maintenance
+No feedback given
+To freelancer: Lei W.
+Rating is 5.0 out of 5.
+5.0
+Mar 2024 - Apr 2026
+6 hrs @ $18.00/hr
+Billed: $116.19
+View more (45)
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

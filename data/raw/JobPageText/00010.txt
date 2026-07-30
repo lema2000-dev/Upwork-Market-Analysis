@@ -1,0 +1,140 @@
+URL: https://www.upwork.com/jobs/~022069530757074201964?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022069530757074201964
+category: Data Analysis & Testing
+search_keyword: python data analyst
+___
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Product Categorization/Taxonomy tagging
+Posted last month
+Worldwide
+
+Summary
+We have a large catalog of about 100k products across many categories. 
+
+We have several large product lists that need to be cleaned, organized, and classified within our provided taxonomy. 
+
+This work can not be done by hand, and needs to be automated with a combination of scripts and Ai. We need a repeatable rules based process. 
+
+What you'll do:
+
+- Build an automated classification pipeline that maps products to the correct categories from our controlled vocabulary (we provide the list — no free-typing).
+- Assign product attributes/specs programmatically from a defined set of valid values.
+Clean and normalize messy titles and field values, deduplicate, and fix systematic mis-tags across the whole list.
+- Automatically flag the rows the rules can't confidently resolve, so only a small share needs human review instead of all 100k.
+- Build QA checks and sampling so we can measure accuracy and catch errors.
+- Deliver clean output in CSV, formatted for a standard eCommerce product import.
+
+Required skills:
+
+- Python (pandas) or equivalent scripting for data work — this is the core requirement.
+- Experience with rule-based classification, text normalization, fuzzy/string matching, and deduplication on large datasets.
+- Strong with CSV/spreadsheet data and working to a defined schema or controlled vocabulary.
+- A QA mindset — building validation, sampling, and accuracy metrics.
+
+Please have previous project experience using scripts/llms to classify large sets of data. 
+
+To apply, please answer:
+
+At ~100,000 rows, how would you approach automating classification against a fixed category list — what's your general method, and how do you handle the rows your rules can't confidently resolve?
+
+How do you measure and keep accuracy high on a job this size (validation, sampling, error checks)?
+What tools/libraries would you use, and roughly how large a dataset have you cleaned or categorized before?
+
+Thank you
+
+More than 30 hrs/week
+Hourly
+3 to 6 months
+Duration
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Python
+data classification
+Accuracy Verification
+Automation
+Preferred qualifications
+Activity on this job
+Proposals:
+50+
+Last viewed by client:
+4 weeks ago
+Interviewing:
+5
+Invites sent:
+8
+Unanswered invites:
+2
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 27
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 5.0 out of 5.
+5.0
+5.00 of 12 reviews
+United States
+Skokie6:49 PM
+13 jobs posted
+100% hire rate, 1 open job
+$12K total spent
+29 hires, 14 active
+$28.82 /hr avg hourly rate paid
+356 hours
+Individual client
+Member since Dec 21, 2018
+Job link
+https://www.upwork.com/jobs/~022069530757074201964
+Client's recent history (28)
+
+Jobs in progress
+Short form video editor Reels/Tiktok
+No feedback given
+To freelancer: Jen N.
+Rating is 5.0 out of 5.
+5.0
+Jen did a fantastic job. She is timely, talented, and a breeze to work with. We look forward to working with her again in the future.
+Jan 2026 - Apr 2026
+3 hrs @ $15.00/hr
+Billed: $78.24
+Framer / Webflow Developer to Build & Maintain Curated Product + Review Website (Affiliate Catalog)
+Rating is 5.0 out of 5.
+5.0
+It was really great working with Kyle, we had a clear communication. Would love to work with him again.
+To freelancer: Hammad Z.No feedback given
+Jan 2026 - Mar 2026
+Fixed-price $300.00
+Framer / Webflow Developer to Build & Maintain Curated Product + Review Website (Affiliate Catalog)
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Faisal I.This feedback has been removed
+Jan 2026 - Jan 2026
+Fixed-price
+Logo sketches with styling
+Rating is 5.0 out of 5.
+5.0
+Thank you for being my Client! And a long working journey. Hoping for making it longer. Thank you much! You are one of the best clients!
+To freelancer: Jumu Rani S.
+Rating is 5.0 out of 5.
+5.0
+Jul 2025 - Nov 2025
+Fixed-price $50.00
+Product Sourcing
+Rating is 5.0 out of 5.
+5.0
+It was a pleasure working with Kyle. He is very professional, and I would welcome the opportunity to work with him again
+To freelancer: Miriam R.
+Rating is 5.0 out of 5.
+5.0
+Jan 2025 - Jun 2025
+1 hrs @ $18.00/hr
+Billed: $23.89
+View more (10)
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

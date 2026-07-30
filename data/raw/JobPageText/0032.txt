@@ -1,0 +1,70 @@
+URL: https://www.upwork.com/jobs/~022082464010099319380?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082464010099319380
+category: Web Development
+search_keyword: numpy
+___
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Posted yesterday
+Worldwide
+
+Summary
+We need a system that reads photographed (not scanned) handwritten betting tickets from a numbers-lottery business and outputs a fully computed, structured version of each ticket.
+
+The tickets: handwritten 3- and 4-digit numbers on small paper slips, with checkboxes for which lottery/draw was selected (NY, NJ, Brooklyn, etc. — midday/night). Templates vary, and some batches show multiple tickets photographed together rather than one ticket per photo — see attached samples for both styles.
+
+The task: extract every played number, double it into "B"/"S" entries, price it per that ticket's own rule, sort, and total. The computed total must match a total the agent already writes by hand on the original — that's your built-in correctness check. Pricing rules are not fixed across tickets; you'll need to detect the rule (or the written anchor) per ticket, not assume one global formula.
+
+Target: 100% exact match ideal, ≥90% field-level accuracy acceptable, across the ticket set.
+
+Baseline: none working yet. Free OCR (Tesseract) fails outright on most sample tickets even after basic preprocessing.
+
+Hard constraints (non-negotiable): if your solution calls paid APIs, total cost must stay under $40/day at our real volume (~3,000-4,000 tickets/day, rising). If it runs locally, it must fit on 5x NVIDIA DGX Spark units (128GB unified memory each). An accurate solution that breaks either limit is not usable.
+
+Deliverable: working pipeline, documentation of the pricing rule(s) you found, and cost/throughput numbers proving it fits the constraints above.
+
+Sample data: 2 example finished/result tickets attached here (shows the target output format). The full 200-ticket set (raw photos + originals, both styles) is shared privately once we start working together.
+
+Budget: $5,000, paid on verified delivery. Timeline: ASAP.
+
+$5,000.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Attachments (2)
+ejemplo2_resultado.jpeg (49 KB)
+ejemplo1_resultado.jpeg (56 KB)
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+OCR Algorithm
+Machine Learning
+Python
+Accuracy Verification
+Activity on this job
+Proposals:
+20 to 50
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Send a proposal for: 16 Connects
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Dominican Republic
+Santiago De Los Caballeros11:06 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 27, 2026
+Job link
+https://www.upwork.com/jobs/~022082464010099319380
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

@@ -1,0 +1,133 @@
+URL: https://www.upwork.com/jobs/~022082756186303086131?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082756186303086131
+category: Data Analyst & Testing
+search_keyword: numpy
+___
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Posted 5 hours ago
+Worldwide
+
+Summary
+We are a new UK consultancy advising engineering organisations on how delivery performs. Part of the method reads a client's delivery metadata (Git, tickets, CI, incidents, never source code) as the evidence behind team assessments sold to CTOs and COOs at banks, fintechs and scale-ups, at five and six-figure ticket sizes. The demand driver is AI: organisations are adopting it faster than their delivery and governance can absorb, and they need evidence of what it is actually doing to them.
+
+We are recruiting a founding bench of three senior associates. This is the data seat, and it has the clearest work pipeline of the three.
+
+What you get:
+- A founding seat: featured on our website, the association on your LinkedIn
+- The likely next project: a fixed-price build of our data extraction kit against an open-source pipeline (four figures), then per-engagement analysis work as client deals land
+- No retainer, no exclusivity, no ongoing obligation. Exit any time
+
+We are upfront about the shape of it: the immediate need is a credible senior bench, and for this seat the follow-on work is real but not promised in this contract.
+
+How selection works: a 30-minute call first, so we understand your background properly and you get the firm name and website. If we both want to continue, a paid task ($100 fixed, about an hour): a half-page of feasibility flags on our delivery-metric set from an extract we supply (what typical client data will and will not support), finishing with a short live walkthrough where you talk us through your thinking.
+
+You have eight or more years in data work with real Git and API experience (Python or similar, messy exports included), you know DORA and flow metrics well enough to spot a nonsense number, and you are genuinely interested in what AI adoption does to engineering data. Named companies and clients count: if your data work touched large, recognisable organisations, say so, it weighs heavily. Location flexible; strong written English essential.
+
+To apply, answer these two questions in your proposal:
+1. Which large or well-known organisations has your data work supported, and what did you build or analyse for them?
+2. A client's Jira hygiene is poor: tickets closed in bulk, no consistent workflow. What can you still credibly compute from Git alone?
+
+$100.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Project Type:One-time project
+You will be asked to answer the following questions when submitting a proposal:
+
+Which large or well-known organisations has your data work supported, and what did you build or analyse for them?
+Describe this arrangement back in your own words. What would make you leave it?
+Skills and Expertise
+Mandatory skills
+Data Analysis
+Python
+Data Engineering
+Preferred qualifications
+Activity on this job
+Proposals:
+10 to 15
+Last viewed by client:
+4 hours ago
+Interviewing:
+0
+Invites sent:
+1
+Unanswered invites:
+1
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 14
+Available Connects: 10
+About the client
+Payment method verified
+Rating is 4.7 out of 5.
+4.7
+4.66 of 33 reviews
+Canada
+Toronto12:11 PM
+80 jobs posted
+49% hire rate, 3 open jobs
+$11K total spent
+52 hires, 3 active
+$22.01 /hr avg hourly rate paid
+7 hours
+Tech & IT
+Small company (2-9 people)
+Member since Jan 26, 2015
+Job link
+https://www.upwork.com/jobs/~022082756186303086131
+Client's recent history (40)
+
+Jobs in progress
+React web app development and Deployment on Vercel
+Rating is 5.0 out of 5.
+5.0
+Great experience work with Tony.
+To freelancer: Ravi K.No feedback given
+Jun 2026 - Jul 2026
+Fixed-price $527.26
+Lead Designer for Interactive E-Book Creation (Flipbook Platforms)
+Rating is 3.0 out of 5.
+3.0
+Basically, working with Tony had some good moments, and his project was challenging in a positive and creative way. However, he didn't really know wha…more
+To freelancer: Miroslava S.
+Rating is 5.0 out of 5.
+5.0
+Great designer!
+Jan 2026 - Jun 2026
+Fixed-price $750.00
+Webflow Expert (Design + Development) Needed to Refine and Implement Existing Figma Design
+No feedback given
+To freelancer: Zahra l.
+Rating is 5.0 out of 5.
+5.0
+Great work and very fast turnaround.
+Mar 2026 - Jun 2026
+Fixed-price $350.00
+Webflow Developer Needed for Boutique Performance Coaching Website
+Rating is 3.0 out of 5.
+3.0
+To freelancer: Muhammad A.
+Rating is 5.0 out of 5.
+5.0
+Great work and collaboration, I’d highly recommend
+Dec 2025 - Jun 2026
+Fixed-price $800.00
+Website Design Direction & Visual System
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Miroslava S.
+Rating is 5.0 out of 5.
+5.0
+I’ve now worked with Miroslava across multiple projects, and she’s been instrumental in building out my brand assets across the entire suite. Her con…more
+Mar 2026 - Apr 2026
+Fixed-price $200.00
+View more (32)
+Other open jobs by this Client (2)
+Founding delivery seat at a new UK consultancy: 450 to 650 GBP a day when deployedFixed-price
+Founding sales seat at a new UK consultancy: commission on six-figure deals as the pipeline opensFixed-price
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

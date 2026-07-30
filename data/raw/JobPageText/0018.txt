@@ -1,0 +1,102 @@
+URL: https://www.upwork.com/jobs/~022065068503463604886?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022065068503463604886
+category: Data Analysis & Testing
+search_keyword: data analyst python
+___
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Posted last month
+Worldwide
+
+Summary
+We are looking for an experienced Data Scientist to analyze our business data and build predictive models for sales forecasting.
+
+Responsibilities:
+
+Clean and preprocess large datasets
+Perform exploratory data analysis (EDA)
+Build machine learning models for forecasting
+Create visual dashboards and reports
+Provide actionable business insights
+
+Required Skills:
+
+Python
+Pandas
+NumPy
+Scikit-learn
+SQL
+Data Visualization (Power BI / Tableau)
+Machine Learning
+
+Experience Level:
+Intermediate to Expert
+
+Deliverables:
+
+Cleaned dataset
+EDA report
+Forecasting model
+Dashboard
+Documentation
+
+Less than 30 hrs/week
+Hourly
+3 to 6 months
+Duration
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$35.00
+
+-
+
+$75.00
+
+Hourly
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Data Analysis
+Analytics
+Deep Learning
+Marketing Analytics
+Machine Learning
+Data Science
+Statistics
+Activity on this job
+Proposals:
+5 to 10
+Last viewed by client:
+last month
+Hires:
+1
+Interviewing:
+0
+Invites sent:
+1
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Close the tooltip
+This feature is not available because the client is suspended.
+
+Required Connects to submit a proposal: 13
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 0 out of 5.
+0
+0.00 of 0 reviews
+PAK
+Bahawalpur2:54 PM
+1 job posted
+100% hire rate, 1 open job
+1 hire, 0 active
+Member since Jun 11, 2026
+Job link
+https://www.upwork.com/jobs/~022065068503463604886
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

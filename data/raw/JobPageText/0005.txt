@@ -1,0 +1,141 @@
+URL: https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453
+category: Data Science & Analytics
+search_keyword: python
+___
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Python script to clean messy sales CSV and generate a summary report
+Posted 3 weeks ago
+Worldwide
+
+Summary
+Hi there,
+
+I run a small online store and every month I export our sales transactions from our point-of-sale system as a CSV file. The export is messy — inconsistent date formats, prices with dollar signs and commas, extra whitespace, some duplicate rows, and the occasional blank/invalid row. Right now I clean it by hand in Excel and it takes me an hour or two every month. I'd like to stop doing that.
+
+I'm looking for a **command-line Python script** that I can run on my own laptop. I point it at the raw CSV export and it (1) cleans the data and saves a tidy CSV, and (2) produces a short summary report so I can see how the month went at a glance.
+
+I'm not a developer but I can run a command in the terminal if you give me clear instructions. Please keep it simple to install and run — I'd strongly prefer **standard Python with no heavy setup** (or minimal, well-documented dependencies).
+
+## What the raw data looks like
+
+Each row is one sale. Columns (header names roughly as below, but please be a little tolerant of extra spaces/case):
+
+`order_id, date, customer, product, quantity, unit_price`
+
+Real-world messiness you'll need to handle:
+
+- Dates come in mixed formats: `2026-01-05`, `01/05/2026`, `Jan 5, 2026`.
+- `unit_price` may look like `$1,299.00`, `1299`, or `  19.99 `.
+- `quantity` may have stray spaces or be blank.
+- Leading/trailing whitespace in text fields; inconsistent capitalization in product names.
+- Fully duplicated rows (same order_id and everything) should be de-duplicated.
+- Rows missing an order_id, product, or with non-numeric/zero/negative price or quantity are **invalid** — skip them, but tell me how many were skipped and why.
+
+## Deliverables / Requirements
+
+1. **A single Python CLI script** (e.g. `python sales_report.py input.csv`) that accepts:
+   - the path to the input CSV (required), and
+   - an optional output folder (default: current directory).
+
+2. **Cleaned CSV output** (`cleaned_sales.csv`) with:
+   - normalized dates (ISO `YYYY-MM-DD`),
+   - numeric `unit_price` and `quantity` (no symbols),
+   - a computed `line_total` column (quantity × unit_price),
+   - trimmed text, title-cased product names,
+   - duplicates removed and invalid rows excluded.
+
+3. **A summary report** (both a human-readable `report.txt` / Markdown **and** a machine-readable `summary.json`) containing:
+   - total revenue, total number of valid orders, total units sold, average order value,
+   - revenue and units **by product** (sorted high → low),
+   - revenue **by month**,
+   - **top 5 customers** by revenue,
+   - a data-quality section: how many rows were read, skipped, and de-duplicated, with reasons.
+
+4. **A short README** with setup and exact run instructions, plus a small **sample input CSV** and the **example output** it produces, so I can confirm it works before I run it on my real data.
+
+5. Clean, commented code. Sensible error message if the file is missing or the columns don't match (don't just crash with a stack trace).
+
+## Nice to have (not required)
+
+- Works with just the Python standard library so I don't have to install anything.
+- A `--top` option to change how many top customers/products are shown.
+
+## How to apply
+
+Please confirm you've read the requirements, mention any clarifying questions, and let me know your timeline. A quick note on how you'd handle the messy date/price parsing is a plus. Thanks!
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Duration
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$30.00
+
+-
+
+$50.00
+
+Hourly
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Python
+pandas
+CSV
+Data Cleaning
+Preferred qualifications
+Activity on this job
+Proposals:
+50+
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 26
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 5.0 out of 5.
+5.0
+5.00 of 2 reviews
+USA
+Owings Mills3:55 PM
+3 jobs posted
+67% hire rate, 1 open job
+$501 total spent
+2 hires, 0 active
+Member since Jan 21, 2026
+Job link
+https://www.upwork.com/jobs/~022074802176750133453
+Client's recent history (2)
+GenAI Developer Needed for Simple RAG-Based Chatbot (LLM + Knowledge Base)
+Rating is 5.0 out of 5.
+5.0
+Thank you for the opportunity. It was a pleasure working with you, and I look forward to collaborating again in the future.
+To freelancer: Shaheer A.
+Rating is 5.0 out of 5.
+5.0
+Excellent work and smooth collaboration. Highly recommended!
+Feb 2026 - Feb 2026
+Fixed-price
+AI Automation Specialist
+Rating is 5.0 out of 5.
+5.0
+He is a great client to work with. Thank you for the opportunity!
+To freelancer: Muneeb Z.
+Rating is 5.0 out of 5.
+5.0
+Thank you, Muneeb! Great experience working together. The work was delivered as expected, communication was clear, and everything worked well.
+Feb 2026 - Feb 2026
+Fixed-price
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

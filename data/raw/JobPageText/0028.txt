@@ -1,0 +1,131 @@
+URL: https://www.upwork.com/jobs/~022077345239066706397?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077345239066706397
+category: Data Analysis & Testing
+search_keyword: statistical python
+___
+Product & E‑Commerce Performance Analytics
+Posted 2 weeks ago
+Worldwide
+
+Summary
+About the role:
+
+We’re looking for a Data Analyst to join FactFinder and help drive product decisions with rigorous measurement and clear insights. 
+
+This role is centered on investigations, product analytics, and experiment evaluation across key e‑commerce journeys—especially discovery and performance topics like search, ranking, and conversion. 
+
+You’ll partner day-to-day with Product Managers, Engineers, and commercial stakeholders to define success metrics, validate impact of product changes, and uncover opportunities to improve customer experience and business outcomes.
+
+What you’ll do:
+Product analytics & decision support
+-Own measurement for FactFinder product initiatives: translate product questions into clear metrics, analysis plans, and recommendations
+-Build product performance narratives: what changed, why it changed, and what to do next
+
+Investigations & deep-dives
+-Lead deep-dive analyses into customer behavior, conversion drivers, and funnel drop-offs (browse → search → PDP → cart → checkout)
+-Diagnose KPI movements (e.g., conversion, revenue, engagement, add-to-cart rate) with structured root-cause analysis
+
+Search & ranking analytics (FactFinder focus)
+-Evaluate search and product ranking quality using both product and business metrics (e.g., CTR, zero-results rate, refinement rate, add-to-cart, downstream conversion, revenue per search)
+-Identify patterns in underperforming queries/categories and propose improvements (e.g., relevance tuning opportunities, merchandising gaps, data/instrumentation issues)
+
+Experimentation & uplift measurement
+-Partner with product and engineering to design measurable rollouts and experiments
+-Analyze A/B tests and quasi-experiments: define primary/guardrail metrics, validate data quality, interpret results, and communicate tradeoffs
+-Apply sound methods for incrementality/uplift and understand when results are biased (seasonality, novelty effects, selection bias)
+
+Data foundations
+-Create and maintain analysis-ready datasets (tables/views) and reusable metric definitions (single source of truth)
+-Write efficient, scalable SQL and collaborate with data engineering on pipelines, instrumentation, and data quality monitoring
+-Build dashboards/monitoring to track key FactFinder KPIs and proactively surface anomalies
+
+Stakeholder communication
+-Present findings clearly to both technical and non-technical audiences
+-Turn complex analyses into crisp product recommendations (ship / iterate / stop, and what to test next)
+
+What we’re looking for (Requirements)Must-have
+-Strong analytical problem-solving skills and a structured approach to investigations
+-Advanced SQL (joins, window functions, CTEs, performance-aware querying) with large datasets
+-Experience analyzing product and funnel metrics and explaining KPI changes in business terms
+-Practical understanding of experimentation (A/B tests, statistical significance, power/variance, guardrails, segmentation)
+-Strong communication: able to write and present clear, actionable insights
+-Experience in e-commerce / marketplace / digital product analytics (or comparable high-traffic product environment)
+
+Nice to have
+-BigQuery (or similar cloud warehouse) and data modeling best practices
+-Python for analysis (pandas, notebooks) and basic automation
+-Familiarity with event tracking/instrumentation (e.g., clickstream events, taxonomy, data quality checks)
+-Understanding of ranking/search systems and relevance measurement concepts
+-BI/dashboarding experience (Looker, Tableau, Power BI, or similar)
+
+How success looks in this role
+-FactFinder product teams trust your metrics and use your insights to make decisions
+-Investigations shorten “time-to-answer” when performance changes or issues occur
+-Experiments are measured reliably, with clear conclusions and follow-up actions
+-Core FactFinder KPIs are well-defined, monitored, and explainable
+
+More than 30 hrs/week
+Hourly
+More than 6 months
+Duration
+Intermediate
+I am looking for a mix of experience and value
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+SQL
+Python
+Data Analysis
+Dashboard
+A/B Testing
+Statistical Analysis
+Data Visualization
+Product Analytics
+BigQuery
+Ecommerce
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+6 days ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 27
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 0 out of 5.
+0
+0.00 of 0 reviews
+DEU
+Pforzheim3:53 PM
+2 jobs posted
+50% hire rate, 1 open job
+$34K total spent
+1 hire, 1 active
+$55.00 /hr avg hourly rate paid
+606 hours
+Member since Feb 4, 2026
+Job link
+https://www.upwork.com/jobs/~022077345239066706397
+Client's recent history (1)
+Frontend Senior Software Engineer
+Freelancer Oleg M.
+Apr 2026 - Present
+581 hrs @ $55.00/hr
+Billed: $31,993.91
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+
+

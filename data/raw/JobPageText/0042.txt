@@ -1,0 +1,107 @@
+URL: https://www.upwork.com/jobs/~022081338819257923474?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081338819257923474
+category: Data Analysis & Testing
+search_keyword: hypothesis testing
+___
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Posted 4 days ago
+Worldwide
+
+Summary
+Project Overview
+We are looking for an experienced Operations Research (OR) Developer / Constraint Programming expert to build a mathematical optimization model for our business.
+
+We manage a network of merchants who require physical visits from our agents to replenish their working balance. Merchants consume their balance at different daily rates. The goal of this project is to build an algorithm that predicts when a merchant's balance will run out and schedules an agent visit before they hit zero, while minimizing travel and maximizing agent efficiency.
+
+The Technical Challenge
+This is a classic Inventory Routing / Field Service Scheduling problem. We need a developer who can translate our business rules into constraints using Google OR-Tools (specifically the CP-SAT solver) in Python.
+
+$1,000.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Data Analysis
+Data Science
+or tools
+Activity on this job
+Proposals:
+20 to 50
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 20
+Available Connects: 10
+About the client
+Payment method verified
+Rating is 4.8 out of 5.
+4.8
+4.78 of 16 reviews
+Morocco
+Casablanca4:28 PM
+25 jobs posted
+80% hire rate, 1 open job
+$4.8K total spent
+20 hires, 2 active
+$21.36 /hr avg hourly rate paid
+91 hours
+Tech & IT
+Mid-sized company (10-99 people)
+Member since Oct 21, 2019
+Job link
+https://www.upwork.com/jobs/~022081338819257923474
+Client's recent history (19)
+
+Jobs in progress
+New branding WAFR to WALI CASH
+No feedback given
+To freelancer: Ana Yamileth R.
+Rating is 5.0 out of 5.
+5.0
+We had a great experience working with Yamileth. She was communicative and collaborative throughout the entire project, regularly sharing updates and …more
+Feb 2026 - Feb 2026
+12 hrs @ $22.00/hr
+Billed: $149.24
+HTML designer for backend documents
+Rating is 5.0 out of 5.
+5.0
+Hiba has been a great client, very collaborative and helpful! Has been a pleasure to work with such professional client.
+To freelancer: Yasser D.No feedback given
+Jan 2026 - Jan 2026
+Fixed-price $36.00
+Figma Expert for Design System Refactoring
+Rating is 5.0 out of 5.
+5.0
+The Wafer Team are great collaborators and true professionals. I had a particularly excellent experience working with Hiba. I highly recommend them to…more
+To freelancer: Isaam E.No feedback given
+Nov 2025 - Dec 2025
+Fixed-price $100.00
+Chatbot + API integration
+Rating is 5.0 out of 5.
+5.0
+I truly enjoyed working on this project. She was wonderful to collaborate with, and I sincerely hope to have the opportunity to work with her again.
+To freelancer: Adedokun A.
+Rating is 5.0 out of 5.
+5.0
+Adedokun was amazing to work with. He originally promised 10 days, but he understood how urgently we needed the solution and delivered everything in j…more
+Dec 2025 - Dec 2025
+Fixed-price $150.00
+Change deposit view so the button will show
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Mehroz S.No feedback given
+Jul 2025 - Sep 2025
+Fixed-price $100.00
+View more (12)
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

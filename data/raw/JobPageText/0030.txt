@@ -1,0 +1,101 @@
+URL: https://www.upwork.com/jobs/~022080512322732388939?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022080512322732388939
+category: Market Researcg & Product Reviews
+search_keyword: statistical python
+___
+Build Scheduled AI Market Intelligence Report Generator
+Posted 6 days ago
+Worldwide
+
+Summary
+We're looking for an automation developer to create a scheduled AI reporting workflow.
+
+Every morning, the automation should:
+
+Pull data from multiple APIs.
+Clean and filter duplicate information.
+Store raw data in Google Sheets.
+Use Gemini AI to generate structured market summaries.
+Create sections including:
+Top Trends
+Opportunities
+Risks
+Key Statistics
+Recommended Actions
+Deliver the report automatically via Telegram and Email.
+
+The workflow should support configurable schedules and robust failure recovery.
+
+Responsibilities:
+Scheduled workflows
+API integrations
+Data transformation
+Google Sheets
+AI summarization
+Telegram delivery
+Email delivery
+Logging
+Retry handling
+Monitoring
+Required Skills
+JavaScript
+Cron Scheduling
+REST APIs
+Google Sheets API
+Gemini/OpenAI
+JSON
+Prompt Engineering
+Automation Platforms
+
+Deliverables:
+Fully automated reporting workflow
+Scheduler
+AI prompts
+Logging system
+Documentation
+
+$30.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Python
+Artificial Intelligence
+Data Science
+Machine Learning
+Data Analysis
+Activity on this job
+Proposals:
+10 to 15
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 7
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+India
+New Delhi7:32 PM
+5 jobs posted
+0% hire rate, 5 open jobs
+Member since Jul 14, 2026
+Job link
+https://www.upwork.com/jobs/~022080512322732388939
+Other open jobs by this Client (4)
+Build AI Customer Support Chatbot (Telegram + Google Sheets + Gemini)Fixed-price
+Build AI Fitness Coaching Automation (Telegram + Google Sheets + Gemini)Fixed-price
+Build AI Property Recommendation Assistant (Telegram + Google Sheets + Gemini)Fixed-price
+Build AI-Powered CRM Lead Qualification Automation (Telegram + Google Sheets + Gemini)Fixed-price
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

@@ -1,0 +1,84 @@
+URL: https://www.upwork.com/jobs/~022079188236528106235?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079188236528106235
+category: AI & Machine Learning
+search_keyword: scientific computing python
+___
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Posted last week
+Worldwide
+
+Summary
+We're a longevity and hormone optimization medical practice looking for an experienced AI developer to build a document-automation and AI-reasoning tool.
+
+**What this tool needs to do:**
+
+1. **Intake** – Accept uploaded patient lab results (PDF/CSV from LabCorp, Quest, or scanned reports) and extract the relevant values.
+2. **Mapping** – Match the extracted lab values to the correct blank fields in our existing Word document lab-review template, and auto-populate it.
+3. **Generation** – Feed the lab data, along with our proprietary longevity and diet protocols, into the Claude API to draft a personalized longevity program and diet plan for the patient.
+4. **Output** – Produce a completed Word document (filled lab review) plus a generated longevity/diet plan, ready for provider review and sign-off before it goes to the patient.
+
+**Requirements:**
+- Must be proficient in Python — this needs to integrate with our existing Python-based team/stack
+- Must have hands-on experience with the Claude API (Anthropic) — we are standardized on Claude
+- Document parsing and generation experience (PDF/CSV extraction, python-docx or similar)
+- Comfortable working with structured clinical/medical protocols as prompt input
+- HIPAA-compliant data handling required — all patient data must go through BAA-covered infrastructure, no exceptions
+- Healthcare or medical software experience is a strong plus
+
+**Scope & process:**
+We have documented clinical protocols ready to serve as the reasoning framework/prompt library, so the core "intelligence" of the tool is already defined — this is primarily a build/integration project, not a from-scratch clinical design project.
+
+This is a fixed-price MVP, targeted for delivery in 4–8 weeks. This is intended as a contract-to-hire relationship — strong performance on this initial build will lead to an ongoing part-time or full-time role supporting additional AI tools for our practice.
+
+**To apply, please share:**
+- 1–2 examples of similar AI/document-automation work you've built (Python + Claude API preferred)
+- Your estimated timeline for this scope
+- Confirmation of your experience with HIPAA-compliant hosting/data handling
+
+$16,000.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Python
+Artificial Intelligence
+Algorithm Development
+Natural Language Processing
+API
+Data Science
+Preferred qualifications
+Activity on this job
+Proposals:
+50+
+Interviewing:
+3
+Invites sent:
+5
+Unanswered invites:
+1
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 16
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+United States
+7:58 AM
+1 job posted
+0% hire rate, 1 open job
+Health & Fitness
+Mid-sized company (10-99 people)
+Member since Jul 18, 2026
+Job link
+https://www.upwork.com/jobs/~022079188236528106235
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

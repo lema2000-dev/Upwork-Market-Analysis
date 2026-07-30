@@ -1,0 +1,69 @@
+URL: https://www.upwork.com/jobs/~022082074352873641372?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082074352873641372
+category: Scripts & Utilities
+search_keyword: numpy
+___
+Python Desktop App for AdsPower Local API & Playwright Automation
+Posted 2 days ago
+Worldwide
+
+Summary
+Overview:
+
+Looking for a Senior Python Developer to build a custom desktop GUI tool that interacts with AdsPower Local API.
+
+Requirements:
+
+Simple Desktop Interface (Tkinter / CustomTkinter) to load Excel files and set custom delay timers.
+
+Integration with AdsPower Local API to start/stop browser profiles programmatically.
+
+Web automation using Playwright / Selenium to perform automated browser actions (navigating URLs, typing text, dynamic element clicking) based on the input Excel file.
+
+Error logging and basic retry logic for dynamic web elements.
+
+Please highlight your previous experience with AdsPower API and Playwright in Python.
+
+$600.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Python
+Automation
+API
+Data Scraping
+API Integration
+Activity on this job
+Proposals:
+20 to 50
+Interviewing:
+3
+Invites sent:
+3
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 14
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Romania
+6:30 PM
+3 jobs posted
+0% hire rate, 1 open job
+Member since Jul 26, 2026
+Job link
+https://www.upwork.com/jobs/~022082074352873641372
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+ 

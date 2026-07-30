@@ -1,0 +1,131 @@
+URL: https://www.upwork.com/jobs/~022071631064185540559?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071631064185540559
+category: Data Extraction/ETL
+search_keyword: statistical python
+___
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Posted last month
+Worldwide
+
+Summary
+We are looking for a research-oriented data scientist to benchmark algorithms that convert raw 1-, 2-, and 3-axis accelerometer data into step counts. The project includes: 
+
+(1) a literature review of industrial and scientific approaches and open datasets,
+(2) selection of suitable open-access accelerometry datasets,
+(3) Python implementation and parameter grid search of representative algorithms,
+(4) quantitative evaluation of accuracy versus reference step counts. 
+
+The study should:
+- compare wrist- and hip-worn sensors, 
+- assess the impact of reducing from 3-axis to 2-axis and 1-axis data, 
+- summarize the trade-offs between accuracy, robustness, and computational complexity. 
+
+Deliverables include well-documented Python code, a reproducible analysis notebook, publication-quality figures and tables, and a concise technical report suitable as the basis for a scientific manuscript.
+
+Time: 1 week
+
+$300.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:Ongoing project
+You will be asked to answer the following questions when submitting a proposal:
+
+Please, share your public github profile if available.
+Describe your recent experience with similar projects
+Skills and Expertise
+Mandatory skills
+Python
+Time Series Analysis
+Preferred qualifications
+English level:
+Conversational
+Location:
+Americas, Africa, Europe
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+4 weeks ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 14
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 5.0 out of 5.
+5.0
+5.00 of 12 reviews
+Spain
+Barcelona3:47 PM
+24 jobs posted
+55% hire rate, 2 open jobs
+$3.7K total spent
+16 hires, 1 active
+Member since Oct 29, 2022
+Job link
+https://www.upwork.com/jobs/~022071631064185540559
+Client's recent history (15)
+
+Jobs in progress
+6 Animated Watch Faces for Watchy (ESP32 E-Ink)
+Rating is 5.0 out of 5.
+5.0
+Pleasure to work with you
+To freelancer: Ahmed A.
+Rating is 5.0 out of 5.
+5.0
+Pleasure to work with. Very communicative, attentive to detail, and the quality of work exceeded expectations. Highly recommend!
+Apr 2026 - May 2026
+Fixed-price $400.00
+Frontend React/JS Developer - Animated LCD Watch Face Dashboard
+Rating is 5.0 out of 5.
+5.0
+To freelancer: Dmytro S.
+Rating is 5.0 out of 5.
+5.0
+Dmytro delivered excellent work on our React-based LCD watch dashboard. He demonstrated strong technical skills, clear communication, and reliable del…more
+Oct 2025 - Nov 2025
+Fixed-price $309.67
+React/JS Developer - Digital Watch Simulator
+Rating is 5.0 out of 5.
+5.0
+Tim is so cool and kind client. He used to provide the clear scope of work, so it was helpful to work. Glad to work with him.
+To freelancer: Piotr K.No feedback given
+Oct 2025 - Nov 2025
+Fixed-price $225.00
+React/JS Developer - Digital Watch Simulator
+Rating is 5.0 out of 5.
+5.0
+I really enjoyed working with Tim. He was proactive, responsive, and provided helpful feedback during development. The collaboration felt like a true …more
+To freelancer: Lukas B.
+Rating is 5.0 out of 5.
+5.0
+Lukas delivered excellent work — high quality, on time, and with great communication throughout the project. Very professional and easy to collaborate…more
+Oct 2025 - Oct 2025
+Fixed-price $332.90
+Build a Simple Watch Emulator Dashboard (1 Week Project)
+Rating is 5.0 out of 5.
+5.0
+Tim was an excellent client to collaborate with. He communicated clearly, provided thorough feedback, and was always responsive to questions. The proj…more
+To freelancer: Alex S.
+Rating is 5.0 out of 5.
+5.0
+Alex delivered the JS dashboard quickly and professionally, with clear communication and smooth cooperation throughout. Great experience working toget…more
+Aug 2025 - Aug 2025
+Fixed-price $221.94
+View more (9)
+Other open jobs by this Client (1)
+Research Data Scientist – Accelerometry-Based Wake-on_motion and Sleep DetectionFixed-price
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

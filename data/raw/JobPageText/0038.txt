@@ -1,0 +1,101 @@
+URL: https://www.upwork.com/jobs/~022082165685734731522?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082165685734731522
+category: Web & Mobile Design
+search_keyword: numpy
+___
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Posted 2 days ago
+Worldwide
+
+Summary
+Job Posting: Real-Time Audio-Reactive Prototype Developer (v0.0 Proof of Concept)
+
+Title
+Real-Time Audio-Reactive Light/Visual Prototype (1-2 Week Build)
+
+Summary
+I'm building an early proof of concept for an AI-assisted live performance system. I need a small, working demo that proves a simple concept: live audio input → real-time signal analysis → a visible light or on-screen reaction, with low latency. This is a scoped, standalone prototype — not part of a larger existing codebase.
+
+What You'll Build
+- Capture live audio from a standard USB microphone
+- Detect in real time: (1) volume/RMS level changes, (2) tempo/BPM changes
+- When a signal crosses a threshold, fire an event that triggers a visible reaction — either a smart light (e.g. Govee, Philips Hue) changing color/brightness, or an on-screen visual changing on a connected display
+- Log every signal reading and triggered event with timestamps, so latency can be measured afterward
+- A basic start/stop control (keypress or button — no voice activation needed for this phase)
+
+Explicitly Out of Scope
+No camera/video, no AI/LLM reasoning layer, no dashboard UI beyond start/stop, no wireless audio feedback, no custom hardware enclosure, no cloud/multi-user components. Everything runs locally on one machine.
+
+Deliverable
+A working local demo (laptop or mini PC) showing the full loop live, plus a logged latency measurement from signal detected to reaction fired.
+
+Success Criteria
+- Reaction latency under ~1 second, documented in the log
+- Runs reliably for a 10-15 minute continuous test without crashing
+- Latency log file provided so timing can be independently verified
+
+Tech Stack
+Open to your recommendation — Python or JavaScript/Node both fine. Comfortable with real-time audio libraries (e.g. PyAudio/librosa/aubio, or Web Audio API) a plus.
+
+What to Include in Your Proposal
+1. Relevant experience with real-time audio-reactive systems (examples/portfolio welcome)
+2. Your estimated latency for this scope, and why
+3. Fixed-price quote and timeline (please also quote separately for an optional "voice-activated start/stop" add-on)
+4. Whether you'd want a short call first to clarify scope
+
+Timeline
+Target start within the next 1-2 weeks; build itself estimated at 1-2 weeks of work.
+
+$500.00
+
+Fixed-price
+Entry level
+I am looking for freelancers with the lowest rates
+Project Type:One-time project
+You will be asked to answer the following questions when submitting a proposal:
+
+Describe your recent experience with similar projects
+Please list any certifications related to this project
+Include a link to your GitHub profile and/or website
+What frameworks have you worked with?
+Describe your approach to testing and improving QA
+Skills and Expertise
+Mandatory skills
+real time audio processing
+Digital Signal Processing
+Low-latency systems programming
+PyAudio
+web audio API
+Python
+smart home API integration
+Preferred qualifications
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+2 days ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 11
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+United States
+10:36 AM
+2 jobs posted
+0% hire rate, 1 open job
+Tech & IT
+Individual client
+Member since Jul 28, 2026
+Job link
+https://www.upwork.com/jobs/~022082165685734731522
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out

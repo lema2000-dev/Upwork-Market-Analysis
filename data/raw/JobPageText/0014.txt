@@ -1,0 +1,69 @@
+URL: https://www.upwork.com/jobs/~022072348650823802727?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022072348650823802727
+category: -
+search_keyword: data analyst python
+___
+Python File & Excel Automation Tool - Scripts & Utilities
+Python File & Excel Automation Tool
+Posted 4 weeks ago
+Worldwide
+
+Summary
+I need a simple Python automation tool to help organize files and spreadsheet data.
+
+The tool should:
+
+Read an Excel or CSV file containing file names and categories
+Rename files in a selected folder using a clean naming format
+Move files into folders based on the category from the spreadsheet
+Generate a simple report showing which files were renamed, moved, skipped, or had errors
+Include simple instructions so I can run the tool myself
+
+I am looking for someone who can build a clean, practical Python utility with basic error handling and clear documentation.
+
+$50.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Python
+Task Automation
+Automation
+Microsoft Excel
+Data Processing
+Python Script
+CSV
+Activity on this job
+Proposals:
+50+
+Last viewed by client:
+4 weeks ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 9
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+MUS
+Quatre Bornes1:15 PM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 1, 2026
+Job link
+https://www.upwork.com/jobs/~022072348650823802727
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+
+
+

@@ -1,0 +1,92 @@
+URL: upwork.com/jobs/~022082463515175641684?referrer_url_path=/nx/search/jobs/details/~022082463515175641684
+category: Data AI & Machine Learning
+search_keyword: numpy
+___
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Posted yesterday
+Worldwide
+
+Summary
+I'm building a small sports analytics tool and need help with the video processing part.
+
+What I need:
+- Detect a ball and players on recorded match footage;
+- Track them across frames and keep consistent IDs;
+- Output detections as JSON (coordinates, frame number, object ID).
+
+The footage is fixed-camera, 1080p. I already have sample videos to work with. Models can be off-the-shelf - YOLO, ByteTrack, whatever you're comfortable with. No need to train from scratch at this stage.
+Looking for someone who can start with a small piece first so we can see how we work together, then continue if it goes well. Long-term collaboration possible if the first part goes smoothly.
+
+Please tell me in your reply:
+- What you'd use for detection and tracking, and why?
+- A project where you did something similar (link if possible)?
+- How many hours per week you're available?
+
+More than 30 hrs/week
+Hourly
+More than 6 months
+Duration
+Intermediate
+I am looking for a mix of experience and value
+$4.00
+
+-
+
+$6.00
+
+Hourly
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Object Detection
+Deep Learning
+OpenCV
+Python
+Computer Vision
+Video Processing
+Activity on this job
+Proposals:
+20 to 50
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 23
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Rating is 5.0 out of 5.
+5.0
+5.00 of 1 review
+ARM
+Yerevan7:23 PM
+2 jobs posted
+50% hire rate, 2 open jobs
+$200 total spent
+1 hire, 0 active
+Member since Jul 6, 2026
+Job link
+https://www.upwork.com/jobs/~022082463515175641684
+Client's recent history (1)
+Senior Computer Vision & Mobile AI Engineer - On-Device Pose Estimation for Workplace Safety
+Rating is 5.0 out of 5.
+5.0
+Professional and reliable client. The collaboration was smooth, expectations were clear, and communication was respectful and efficient throughout the…more
+To freelancer: Sergey K.
+Rating is 5.0 out of 5.
+5.0
+Sergey completed the work right on time. He thoroughly understood the task, pointed out potential risks in advance, and demonstrated everything in pra…more
+Jul 2026 - Jul 2026
+Fixed-price $200.00
+Other open jobs by this Client (1)
+Senior Computer Vision & Mobile AI Engineer - On-Device Pose Estimation for Workplace SafetyFixed-price
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

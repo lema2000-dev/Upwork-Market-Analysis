@@ -1,0 +1,105 @@
+URL: https://www.upwork.com/jobs/~022079950883582279100?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079950883582279100
+category: Scripts & Utilities
+search_keyword: scientific computing python
+___
+Python path generation
+Posted last week
+Worldwide
+
+Summary
+I have an existing Python program that generates robot application trajectories from contours detected by a camera.
+
+The program receives recipe parameters from a PLC, including:
+
+-filling direction and spacing;
+-offset around holes;
+-offset from the exterior edge;
+-other robot application parameters.
+
+The current program works correctly in most situations. The problem occurs in narrow passages between:
+
+-two holes;
+-a hole and the exterior contour.
+
+When the available passage is too narrow compared with the offsets requested by the PLC recipe, the two offset trajectories overlap or leave insufficient space. The program then attempts to merge them into one centered trajectory, but in certain geometries the merge can be:
+
+-off-center;
+-disconnected from the surrounding trajectories;
+-connected to the wrong trajectory;
+-shaped with small square or zigzag links;
+-replaced by an incorrect diagonal connector;
+-partially missing.
+
+For example, if the PLC requests an 8 mm offset on both sides but the physical passage is only 10 mm wide, both requested offsets cannot fit. In that situation, the program should locally ignore the requested offsets and create one trajectory centered in the passage.
+
+The important requirement is that the existing logic must remain unchanged everywhere it already works. Only narrow passages below a defined threshold, currently approximately 10 mm, should use the special merge logic.
+
+The expected behavior is:
+
+-Detect the real local width using the original contours, independently of the PLC offsets.
+-Identify only the portion of the passage that is below the width threshold.
+-Remove only the conflicting offset trajectories in that local portion.
+-Generate one trajectory exactly centered between the two boundaries.
+-Connect that centered trajectory to the correct surrounding trajectories.
+-Avoid unnecessary intermediate points, square links, long diagonals and incorrect global stitching.
+-Apply the same logic to hole-to-hole and hole-to-exterior-contour passages.
+-Preserve the current PLC recipe handling, trajectory ordering and robot export format.
+
+The program uses Python, Shapely, NumPy, scikit-image skeletonization and Matplotlib. I can provide the complete program, PCD test files, PLC recipe files, screenshots of incorrect results and repeatable test cases.
+
+Less than 30 hrs/week
+Hourly
+Less than 1 month
+Duration
+Intermediate
+I am looking for a mix of experience and value
+$20.00
+
+-
+
+$40.00
+
+Hourly
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Attachment
+Screenshot 2026-07-22 112102.png (144 KB)
+Project Type:One-time project
+Skills and Expertise
+Mandatory skills
+Python
+Python Script
+NumPy
+scikit-image
+Automation
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+last week
+Interviewing:
+1
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Required Connects to submit a proposal: 11
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Canada
+10:06 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 22, 2026
+Job link
+https://www.upwork.com/jobs/~022079950883582279100
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+

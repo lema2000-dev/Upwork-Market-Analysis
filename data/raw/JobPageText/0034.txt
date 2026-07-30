@@ -1,0 +1,379 @@
+URL: upwork.com/jobs/~022082671746191811156?referrer_url_path=/nx/search/jobs/details/~022082671746191811156
+category: Data Analysis & Testing
+search_keyword: numpy
+___
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Posted 11 hours ago
+Worldwide
+
+Summary
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+
+Project Overview
+
+I am looking for an experienced researcher or data scientist with strong expertise in EEG signal processing, neuroscience, statistical analysis, and Python to support an EEG research project.
+
+I have collected EEG data from several participants, with approximately five recording days per participant. The data were recorded at a sampling rate of 1000 Hz.
+
+During each cued trial, participants completed one of two conditions:
+- Silently performing a cued cognitive task.
+- Rest/Blank: completing a cued-rest condition without doing anything.
+
+Task 1: EEG Feature Extraction and Statistical Analysis
+
+Main Research Objective
+
+The main objective is to explore all features and identify EEG features associated with the experimental condition.
+
+The analysis should determine:
+- Which EEG features distinguish the task condition from rest.
+- Whether the identified effects are stable across recording days and sessions.
+- How the effects vary between participants.
+- Whether the eight inner words produce distinguishable EEG patterns. This is a secondary objective.
+
+The complete workflow should be reproducible and capable of running end-to-end on new data.
+
+Step 1: Understand the Experimental Structure
+
+I have already completed the data collection, which was the difficult part. I also have existing code, but it is not complete. The first step is to review the dataset organisation and understand:
+- The current preprocessing and epoch-cutting code, with suggestions for improvement.
+- Recording days and sessions.
+- Experimental conditions.
+- Experimental cues.
+
+The candidate should confirm that these are correctly interpreted before beginning the main analysis.
+
+Step 2: EEG Preprocessing
+
+Develop a reproducible preprocessing pipeline for the raw EEG files.
+
+The preprocessing should include, where appropriate:
+- Loading and validating the raw EEG recordings.
+- Channel-name and montage verification.
+- Identification of missing, noisy, or flat channels.
+- Line-noise removal.
+- Band-pass filtering.
+- Re-referencing.
+- Bad-channel detection and interpolation.
+- Removal of eye-blink and eye-movement artefacts.
+- Removal or reduction of muscular and other non-neural artefacts.
+- Independent component analysis or another justified artefact-removal method.
+- Quality-control summaries for every participant and recording session.
+
+All preprocessing steps are already coded and implemented, but they must be documented and scientifically justified, with suggestions for improvement.
+
+The pipeline should avoid unnecessary processing that could distort condition differences or reduce meaningful effect sizes.
+
+Step 3: Feature Extraction
+
+Extract conventional features for each condition, epoch, and analysis window. We have already done this for each session.
+
+Extract connectivity features that may capture coordinated neural activity during the experimental condition.
+
+These may include:
+- Absolute band power.
+- Relative band power.
+- Log-transformed power.
+- Delta-band power.
+- Theta-band power.
+- Alpha-band power.
+- Beta-band power.
+- Gamma-band power.
+- Spectral ratios.
+- Peak frequency.
+- Peak amplitude.
+- Spectral slope or aperiodic activity.
+- Individualised frequency-band features, where appropriate.
+- Event-related spectral perturbation.
+- Time-resolved band power.
+- Morlet-wavelet features.
+- Multitaper time-frequency features.
+- Baseline-normalised power changes.
+- Peak time-frequency responses.
+- Mean power within predefined time-frequency regions.
+- Temporal characteristics of desynchronisation or synchronisation.
+- Mean amplitude within selected time windows.
+- Peak amplitude.
+- Peak latency.
+- Area under the ERP curve.
+- Signal variance.
+- Root mean square amplitude.
+- Zero-crossing rate.
+- Hjorth activity.
+- Hjorth mobility.
+- Hjorth complexity.
+- Temporal-envelope features.
+- Phase-locking value.
+- Phase-lag index.
+- Weighted phase-lag index.
+- Inter-site phase clustering.
+- Coherence.
+- Imaginary coherence.
+- Amplitude-envelope correlation.
+- Region-to-region connectivity.
+- Sample entropy.
+- Approximate entropy.
+- Permutation entropy.
+- Spectral entropy.
+- Shannon entropy.
+- Lempel–Ziv complexity.
+- Fractal dimension.
+- Detrended fluctuation measures.
+- Others  this for example
+
+Most of this part has already been implemented, but the candidate needs to review and check it.
+Regional summaries may be preferable to testing every possible channel pair.
+
+Step 4: Novel and Composite Feature Engineering
+
+Develop and investigate informative features that combine information across multiple domains.
+
+I am particularly interested in features that go beyond a single conventional EEG measurement.
+
+Examples may include:
+- Spectral-temporal composite features.
+- Spatially weighted band-power measures.
+- Ratios between anterior and posterior activity.
+- Combined spectral and entropy features.
+- Joint power-connectivity measures.
+- Cross-frequency features.
+- Participant-normalised effect features.
+- Region-of-interest summary scores.
+- Multivariate feature combinations.
+- Features derived from dimensionality-reduction methods, where scientifically justified.
+
+Novel features must be interpretable, reproducible, and supported by a clear scientific rationale.
+
+Step 5: Construct the Feature Matrices
+
+Create a structured feature matrix for every participant and a combined group-level matrix.
+
+Each row should clearly represent the selected unit of analysis, such as:
+- Condition average.
+- Session.
+- Day.
+- Participant.
+
+Each feature matrix should include appropriate identifiers, including:
+- Participant.
+- Day.
+- Session.
+- Trial.
+- Condition.
+- Word or task label.
+- Channel or region.
+- Time window.
+- Feature name.
+- Feature value.
+
+The final format must be suitable for statistical modelling and later machine-learning analysis.
+
+Step 6: Feature Quality Assessment
+
+Before statistical testing, evaluate the extracted features for:
+- Reliability across repeated trials.
+- Stability across sessions and days.
+- Redundancy between features.
+- Sensitivity to preprocessing choices.
+- Strong participant-specific effects.
+
+Highly correlated or unstable features should be identified and documented.
+
+Step 7: Within-Subject Statistical Analysis
+
+Apply appropriate within-subject statistical tests to compare the experimental conditions: rest and task conditions.
+
+Depending on the feature structure and assumptions, this may include:
+- Paired t-tests.
+- Wilcoxon signed-rank tests.
+- Repeated-measures ANOVA.
+- Permutation tests.
+- Cluster-based permutation tests.
+- Condition-by-session comparisons.
+- Condition-by-day comparisons.
+
+The analysis must report:
+- Direction of the effect.
+- Mean condition difference.
+- Test statistic.
+- Uncorrected p-value.
+- Corrected p-value.
+- Effect size.
+- Confidence interval.
+- Number of participants and observations included.
+
+Step 8: Group-Level Statistical Analysis
+
+Perform appropriate group-level analyses that account for the repeated-measures and hierarchical structure of the data.
+
+Possible methods include:
+- Participant-level paired analyses.
+- Repeated-measures ANOVA.
+- Mixed-design ANOVA.
+- Linear mixed-effects models.
+- Non-parametric permutation analysis.
+- Cluster-based spatial or time-frequency testing.
+
+The statistical model should account for relevant factors such as:
+- Condition.
+- Participant.
+- Recording day.
+- Session.
+- Time window.
+- Frequency band.
+- Channel or region.
+
+Individual EEG trials must not be treated as independent participants.
+
+Step 9: Multiple-Comparison Correction
+
+Apply suitable multiple-comparison correction where required.
+
+This may include:
+- False discovery rate correction.
+- Family-wise error correction.
+- Cluster-based correction.
+- Permutation-based maximum statistics.
+
+The selected correction method must be appropriate for the number and structure of the comparisons.
+
+The analysis should not repeatedly test configurations only to search for significance. Confirmatory, exploratory, and sensitivity analyses must be clearly separated.
+
+Step 10: Result Interpretation
+
+Identify which features show reliable differences between experimental conditions.
+
+The final interpretation should explain:
+- Which features are significantly different.
+- The direction and magnitude of each effect.
+- Which brain regions or channels show the strongest effects.
+- Which time periods and frequency bands are most informative.
+- Whether the results are consistent across participants.
+- Whether the results are stable across recording days or sessions.
+- Which findings survive multiple-comparison correction.
+- Which results are exploratory and require further validation.
+
+Step 11: Discussion Section
+
+Produce clear text that can be included directly in a manuscript.
+
+Expected visualisations may include:
+- EEG topographic maps.
+- Time-course plots.
+- Time-frequency plots.
+- Violin plots.
+- Box plots.
+- Raincloud plots.
+- Participant-level paired plots.
+- Effect-size plots.
+- Confidence-interval plots.
+- Heatmaps.
+- Connectivity plots.
+- Feature-stability plots.
+- Statistical significance maps.
+
+Step 12: Statistical Tables and Reports
+
+Provide tidy tables containing:
+- Descriptive statistics.
+- Participant-level results.
+- Group-level results.
+- Effect sizes.
+- Confidence intervals.
+- Raw p-values.
+- Corrected p-values.
+- Significant feature summaries.
+- Feature-ranking summaries.
+- Trial and epoch quality-control information.
+
+Tables should be supplied in CSV and Excel formats.
+
+Step 13: Reproducible Code and Documentation
+
+The full analysis must be implemented in well-organised and well-commented Python code.
+
+I am not looking for unverified AI-generated code. The candidate must understand, review, and be able to explain every major methodological and programming decision in a straightforward and understandable way.
+
+The code should be suitable for running in VS Code and should include:
+- A clear folder structure.
+- Configuration files for analysis parameters.
+- Reusable functions.
+- Error handling.
+- Logging.
+- Environment or dependency information.
+- A main script that runs the complete pipeline.
+- Instructions explaining how to run the analysis on new data.
+
+Deliverables
+
+The final deliverables must include:
+
+1. A complete updated code.
+2.  statistical results.
+3. Statistical tables in CSV and Excel formats.
+4. Quality-control summaries.
+5. Documentation explaining the full workflow.
+6. A written scientific interpretation of the main findings.
+
+Verification of the Work
+
+I will verify the work by:
+- Running the pipeline end-to-end on fresh EEG data.
+- Confirming that the raw data can be processed without manual intervention.
+- Checking that the feature matrices are generated correctly.
+- Confirming that the statistical outputs reproduce the submitted tables and figures.
+- Reviewing whether the statistical methods match the experimental design.
+- Checking that effect sizes and participant-level results are preserved.
+- Confirming that all important preprocessing and analysis decisions are documented.
+- Asking the candidate to explain the main code and methodological choices.
+
+The project will be considered complete only when the submitted code reproduces the final results and figures from the raw data.
+
+Task 2: Feature-Engineered EEG Decoder
+
+After identifying the most reliable EEG features, the second task will be to build a feature-engineered decoding pipeline. I will continue hiring the same person for this task.
+
+$700.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Project Type:Ongoing project
+Skills and Expertise
+Mandatory skills
+Statistics
+Data Analysis
+Quantitative Analysis
+Statistical Analysis
+Biostatistics
+Bayesian Analysis
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+1 hour ago
+Interviewing:
+3
+Invites sent:
+0
+Unanswered invites:
+0
+Upgrade your membership to see the bid range
+Send a proposal for: 13 Connects
+Available Connects: 10
+About the client
+Payment method verified
+Phone number verified
+Australia
+12:49 AM
+1 job posted
+0% hire rate, 1 open job
+Member since Jul 30, 2026
+Job link
+https://www.upwork.com/jobs/~022082671746191811156
+Footer navigation
+© 2015 - 2026 Upwork® Global LLC
+Terms
+Privacy
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out
+
