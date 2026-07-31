@@ -1,0 +1,528 @@
+Looking for a Data Scientist For Upcoming Projects
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Machine Learning: ['machine learning', 'llm'] (Score: 3)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Data Engineer: ['data extraction', 'sql'] (Score: 2)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Machine Learning: ['predict', 'predictive model'] (Score: 3)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Machine Learning: ['machine learning', 'llm'] (Score: 3)
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Data Analyst: ['analytics', 'analyst', 'statistical', 'data analyst', 'visualization', 'reporting'] (Score: 7)
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Data Engineer: ['etl', 'data extraction', 'api'] (Score: 4)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Python Automation: ['script', 'python script'] (Score: 3)
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Data Engineer: ['etl', 'data extraction', 'api'] (Score: 4)
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+Data Engineer: ['etl', 'data extraction'] (Score: 3)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+Data Analyst: ['analytics', 'meta-analysis'] (Score: 3)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+Data Analyst: ['analyst', 'data analysis', 'data analyst', 'visualization', 'dashboard', 'power bi'] (Score: 9)
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Data Analyst: ['analytics', 'analyst', 'data analysis', 'data analyst', 'dashboard', 'reporting'] (Score: 8)
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Data Analyst: ['data analysis', 'spreadsheet'] (Score: 3)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Machine Learning: ['classification', 'llm'] (Score: 2)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Python Automation: ['automate', 'script', 'scripting'] (Score: 3)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Data Engineer: ['etl', 'data extraction', 'sql'] (Score: 4)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Machine Learning: ['predict', 'predictive model'] (Score: 3)
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Python Developer for Data Processing
+Data Engineer: ['etl', 'data extraction', 'data processing'] (Score: 4)
+--------------------------------------------------
+Python Developer for Data Processing
+Data Analyst: ['data visualization', 'visualization'] (Score: 3)
+--------------------------------------------------
+Python Developer for Data Processing
+Machine Learning: ['machine learning'] (Score: 2)
+--------------------------------------------------
+Python Developer for Data Processing
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+Data Analyst: ['data analysis', 'visualization'] (Score: 3)
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+Python Automation: ['script', 'generator', 'report generator'] (Score: 4)
+--------------------------------------------------
+Python File & Excel Automation Tool
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Python File & Excel Automation Tool
+Data Analyst: ['excel automation', 'spreadsheet'] (Score: 2)
+--------------------------------------------------
+Python File & Excel Automation Tool
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python File & Excel Automation Tool
+Python Automation: ['automation', 'script', 'rename files', 'move files'] (Score: 4)
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Data Analyst: ['statistical', 'statistics', 'statistical analysis'] (Score: 4)
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Data Analyst: ['analyst', 'data analyst'] (Score: 3)
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Data Engineer: ['pipeline', 'sql'] (Score: 2)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Data Analyst: ['analyst', 'data analysis', 'data analyst'] (Score: 5)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Data Analyst: ['data analysis', 'data visualization', 'visualization', 'dashboard', 'power bi'] (Score: 8)
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Machine Learning: ['machine learning', 'forecast', 'forecasting', 'predict', 'predictive model'] (Score: 7)
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Data Analyst: ['analyst', 'data analysis', 'data analyst'] (Score: 5)
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Facebook Data report excel and analysis
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Facebook Data report excel and analysis
+Data Analyst: ['data analysis', 'spreadsheet', 'excel spreadsheet'] (Score: 4)
+--------------------------------------------------
+Facebook Data report excel and analysis
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Facebook Data report excel and analysis
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+Data Engineer: ['etl', 'data extraction'] (Score: 3)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+Data Analyst: ['meta-analysis'] (Score: 2)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Machine Learning: ['machine learning', 'claude'] (Score: 3)
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Python Automation: ['automation', 'auto-populate'] (Score: 2)
+--------------------------------------------------
+Python path generation
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Python path generation
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Python path generation
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python path generation
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+Data Engineer: ['data extraction', 'pipeline', 'data transformation', 'api'] (Score: 4)
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+Machine Learning: ['ocr', 'llm', 'claude'] (Score: 3)
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+Python Automation: ['automate', 'script'] (Score: 2)
+--------------------------------------------------
+DFT Physics Simulations
+Data Engineer: ['etl', 'data extraction', 'pipeline'] (Score: 4)
+--------------------------------------------------
+DFT Physics Simulations
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+DFT Physics Simulations
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+DFT Physics Simulations
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Statistical Analysis in Stata
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Statistical Analysis in Stata
+Data Analyst: ['statistical', 'stata', 'data analysis', 'statistical analysis'] (Score: 6)
+--------------------------------------------------
+Statistical Analysis in Stata
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Statistical Analysis in Stata
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Data Engineer: ['etl', 'data extraction'] (Score: 3)
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Machine Learning: ['grid search', 'benchmark'] (Score: 3)
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Data Engineer: ['pipeline', 'sql', 'warehouse'] (Score: 3)
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Data Analyst: ['analytics', 'analyst', 'statistical', 'data analysis', 'data analyst', 'dashboard', 'power bi', 'kpi', 'e-commerce'] (Score: 12)
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Data Engineer: ['data pipeline', 'pipeline', 'database', 'sql', 'scraping', 'web scraping', 'api'] (Score: 9)
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Data Analyst: ['analytics', 'statistical', 'data analysis', 'dashboard', 'power bi', 'kpi', 'e-commerce'] (Score: 9)
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Machine Learning: ['machine learning', 'predict', 'prediction', 'llm'] (Score: 5)
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+Data Engineer: ['data transformation', 'api integration', 'api'] (Score: 4)
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+Data Analyst: ['statistics', 'reporting'] (Score: 2)
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+Python Automation: ['automation', 'automate', 'script', 'generator', 'report generator', 'scheduled', 'scheduler'] (Score: 8)
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+Machine Learning: ['machine learning', 'ocr', 'claude'] (Score: 4)
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Data Engineer: ['pipeline', 'api'] (Score: 2)
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Machine Learning: ['ocr', 'handwritten'] (Score: 2)
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Data Engineer: ['data extraction', 'pipeline', 'api'] (Score: 3)
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Data Analyst: ['analyst', 'data analyst'] (Score: 3)
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Data Engineer: ['pipeline', 'sync'] (Score: 2)
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Data Analyst: ['statistical', 'statistics', 'data analysis', 'statistical analysis', 'feature extraction'] (Score: 7)
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Machine Learning: ['machine learning', 'computer vision', 'object detection'] (Score: 6)
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+Data Engineer: ['etl', 'data extraction', 'scraping', 'web scraping', 'api'] (Score: 7)
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+Python Automation: No matches found (Score: 1)
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Python Automation: ['automation', 'automate', 'script', 'desktop', 'desktop app', 'playwright', 'local api'] (Score: 9)
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Data Analyst: No matches found (Score: 1)
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Python Automation: ['script', 'prototype'] (Score: 2)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Data Engineer: ['etl', 'data extraction', 'api'] (Score: 4)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Python Automation: ['script', 'python script'] (Score: 3)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Data Engineer: ['pipeline', 'sql'] (Score: 2)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Data Analyst: ['analyst', 'data analysis', 'data analyst'] (Score: 5)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Data Analyst: ['data analysis'] (Score: 2)
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Pairs Trading quantitative analysis
+Data Engineer: No matches found (Score: 0)
+--------------------------------------------------
+Pairs Trading quantitative analysis
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Pairs Trading quantitative analysis
+Machine Learning: No matches found (Score: 1)
+--------------------------------------------------
+Pairs Trading quantitative analysis
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+Data Engineer: ['pipeline', 'database', 'sql', 'sync'] (Score: 4)
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+Data Analyst: No matches found (Score: 0)
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+Machine Learning: No matches found (Score: 0)
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+Python Automation: No matches found (Score: 0)
+--------------------------------------------------
