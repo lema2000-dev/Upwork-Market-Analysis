@@ -1,0 +1,132 @@
+Looking for a Data Scientist For Upcoming Projects
+Found packages: ['Pandas', 'NumPy', 'Matplotlib']
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+No packages found
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Found packages: ['Pandas', 'NumPy', 'Matplotlib']
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Found packages: ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Plotly']
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Found packages: ['Pandas']
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Found packages: ['Pandas']
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+No packages found
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+No packages found
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+No packages found
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Found packages: ['Pandas']
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+No packages found
+--------------------------------------------------
+Python Developer for Data Processing
+Found packages: ['Django']
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+No packages found
+--------------------------------------------------
+Python File & Excel Automation Tool
+No packages found
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Found packages: ['Pandas', 'NumPy']
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Found packages: ['Pandas']
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Found packages: ['Pandas']
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Found packages: ['Pandas', 'NumPy', 'scikit-learn']
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+No packages found
+--------------------------------------------------
+Facebook Data report excel and analysis
+No packages found
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+No packages found
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+No packages found
+--------------------------------------------------
+Python path generation
+Found packages: ['NumPy', 'Matplotlib', 'scikit-image', 'Shapely']
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+No packages found
+--------------------------------------------------
+DFT Physics Simulations
+No packages found
+--------------------------------------------------
+Statistical Analysis in Stata
+No packages found
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+No packages found
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Found packages: ['Pandas']
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Found packages: ['Pandas', 'NumPy', 'scikit-learn', 'XGBoost', 'LightGBM']
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+No packages found
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+No packages found
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+No packages found
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+No packages found
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+No packages found
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Found packages: ['OpenCV']
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+No packages found
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Found packages: ['Selenium', 'Playwright']
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+No packages found
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Found packages: ['Pandas']
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Found packages: ['Pandas']
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+No packages found
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+No packages found
+--------------------------------------------------
+Pairs Trading quantitative analysis
+No packages found
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+No packages found
+--------------------------------------------------

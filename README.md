@@ -36,7 +36,7 @@ This project aims to answer the following questions about the current Upwork
 market for Python-related data jobs:
 
 1. Which project types are the most common?
-2. Which Python libraries are requested most frequently?
+2. Which Python packages are requested most frequently?
 3. Which technologies and tools appear most often?
 4. Which technical skills are commonly requested together?
 5. Which portfolio projects would cover the largest share of real client demand?
