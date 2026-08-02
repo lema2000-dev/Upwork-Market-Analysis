@@ -1,0 +1,132 @@
+Looking for a Data Scientist For Upcoming Projects
+Found technologies: ['Python']
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Found technologies: ['Python', 'SQL', 'IBM SPSS']
+--------------------------------------------------
+Looking for a Data Scientist For Upcoming Projects
+Found technologies: ['Python']
+--------------------------------------------------
+Data Analyst for Multi‑Sensor Building Thermal Dynamics
+Found technologies: ['Python']
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL
+Found technologies: ['Python', 'Excel']
+--------------------------------------------------
+Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL
+Found technologies: ['Python', 'OpenAI']
+--------------------------------------------------
+Re-extraction of data for a meta-analysis - Data Extraction/ETL
+No technologies found
+--------------------------------------------------
+Data Analyst with Power BI and Excel
+Found technologies: ['Power BI', 'Tableau', 'Excel', 'IBM SPSS']
+--------------------------------------------------
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Found technologies: ['Python', 'SQL']
+--------------------------------------------------
+Product Categorization/Taxonomy tagging
+Found technologies: ['Python']
+--------------------------------------------------
+Data Extraction and Analysis Specialist
+Found technologies: ['Python', 'SQL', 'IBM SPSS']
+--------------------------------------------------
+Python Developer for Data Processing
+Found technologies: ['Python', 'PostgreSQL']
+--------------------------------------------------
+Excel/CSV Data Cleaner & Report Generator
+Found technologies: ['Python', 'Excel']
+--------------------------------------------------
+Python File & Excel Automation Tool
+Found technologies: ['Python', 'Excel']
+--------------------------------------------------
+Python Developer for Monte Carlo Simulator
+Found technologies: ['Python']
+--------------------------------------------------
+Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
+Found technologies: ['Python', 'SQL', 'R', 'Excel']
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing
+Found technologies: ['Python', 'SQL', 'Claude']
+--------------------------------------------------
+Data Scientist Needed for Sales Forecasting & Dashboard Development
+Found technologies: ['Python', 'SQL', 'Power BI', 'Tableau']
+--------------------------------------------------
+Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis)
+Found technologies: ['Excel']
+--------------------------------------------------
+Facebook Data report excel and analysis
+Found technologies: ['Excel']
+--------------------------------------------------
+Re-extraction of data for a meta-analysis
+No technologies found
+--------------------------------------------------
+AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program
+Found technologies: ['Python', 'Claude']
+--------------------------------------------------
+Python path generation
+Found technologies: ['Python']
+--------------------------------------------------
+Data Engineer for Text Transformation - Data Mining & Management
+Found technologies: ['Python', 'SAS', 'Claude']
+--------------------------------------------------
+DFT Physics Simulations
+Found technologies: ['Python']
+--------------------------------------------------
+Statistical Analysis in Stata
+Found technologies: ['Excel', 'Stata', 'IBM SPSS', 'SAS']
+--------------------------------------------------
+Research Data Scientist (Wearable Accelerometry & Step Detection)
+Found technologies: ['Python']
+--------------------------------------------------
+Product & E‑Commerce Performance Analytics
+Found technologies: ['Python', 'SQL', 'Power BI', 'Tableau']
+--------------------------------------------------
+Data Scientist (ML / Data Analytics / Database / Azure)
+Found technologies: ['Python', 'SQL', 'Azure', 'Power BI', 'Docker', 'Kubernetes', 'Git', 'CI/CD']
+--------------------------------------------------
+Build Scheduled AI Market Intelligence Report Generator
+Found technologies: ['Python', 'JavaScript', 'Google Sheets', 'REST API', 'OpenAI', 'Gemini']
+--------------------------------------------------
+AI home recognition using photo with address and metadata
+Found technologies: ['Python', 'Excel', 'Claude', 'OCR']
+--------------------------------------------------
+$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
+Found technologies: ['Python', 'OCR']
+--------------------------------------------------
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Found technologies: ['Python', 'Git']
+--------------------------------------------------
+EEG Feature Extraction and Statistical Analysis for Neuroscience Research
+Found technologies: ['Python', 'Excel']
+--------------------------------------------------
+Computer Vision Developer - Object Detection & Tracking on Video (Python)
+Found technologies: ['Python']
+--------------------------------------------------
+Automate Shopee Malaysia Data Scraping
+Found technologies: ['Python']
+--------------------------------------------------
+Python Desktop App for AdsPower Local API & Playwright Automation
+Found technologies: ['Python', 'Excel', 'Selenium', 'Playwright', 'AdsPower', 'Tkinter']
+--------------------------------------------------
+Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept)
+Found technologies: ['Python', 'JavaScript']
+--------------------------------------------------
+Python script to clean messy sales CSV and generate a summary report
+Found technologies: ['Python', 'Excel']
+--------------------------------------------------
+Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted)
+Found technologies: ['Python', 'SQL', 'Claude']
+--------------------------------------------------
+SW Development & Advanced MATH for Strategic Planning
+Found technologies: ['SQL', 'C#', 'Microsoft SQL Server']
+--------------------------------------------------
+OR Tools expert to work for a sales person algorithm to optimize sales route
+Found technologies: ['Python']
+--------------------------------------------------
+Pairs Trading quantitative analysis
+Found technologies: ['Python', 'Claude']
+--------------------------------------------------
+Building Databases Synchronization Pipeline
+Found technologies: ['Python', 'SQL', 'Microsoft SQL Server', 'Qdrant', 'Azure']
+--------------------------------------------------
