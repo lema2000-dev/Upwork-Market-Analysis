@@ -47,7 +47,7 @@ market for Python-related data jobs:
 ## Project Roadmap
 
 - [x] Phase 1 - Market Data Collection
-- [ ] Phase 2 - Exploratory Data Analysis (EDA)
+- [x] Phase 2 - Exploratory Data Analysis (EDA)
 - [ ] Phase 3 - Market Insights & Visualization
 - [ ] Phase 4 - Portfolio Project Design
 

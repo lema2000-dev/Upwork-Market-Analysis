@@ -30,7 +30,43 @@ Python
 Data Science
 Machine Learning
 Data Scraping
-Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,10 to 15, https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fbest-matches%2Fdetails%2F~022082191299466664105,2026-07-29 17:06:54
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,10 to 15, https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fbest-matches%2Fdetails%2F~022082191299466664105,2026-08-03 09:54:34
+10,Data Analysis & Testing,python data analyst,Product Categorization/Taxonomy tagging - Data Analysis & Testing,"We have a large catalog of about 100k products across many categories.
+
+We have several large product lists that need to be cleaned, organized, and classified within our provided taxonomy.
+
+This work can not be done by hand, and needs to be automated with a combination of scripts and Ai. We need a repeatable rules based process.
+
+What you'll do:
+
+- Build an automated classification pipeline that maps products to the correct categories from our controlled vocabulary (we provide the list — no free-typing).
+- Assign product attributes/specs programmatically from a defined set of valid values.
+Clean and normalize messy titles and field values, deduplicate, and fix systematic mis-tags across the whole list.
+- Automatically flag the rows the rules can't confidently resolve, so only a small share needs human review instead of all 100k.
+- Build QA checks and sampling so we can measure accuracy and catch errors.
+- Deliver clean output in CSV, formatted for a standard eCommerce product import.
+
+Required skills:
+
+- Python (pandas) or equivalent scripting for data work — this is the core requirement.
+- Experience with rule-based classification, text normalization, fuzzy/string matching, and deduplication on large datasets.
+- Strong with CSV/spreadsheet data and working to a defined schema or controlled vocabulary.
+- A QA mindset — building validation, sampling, and accuracy metrics.
+
+Please have previous project experience using scripts/llms to classify large sets of data.
+
+To apply, please answer:
+
+At ~100,000 rows, how would you approach automating classification against a fixed category list — what's your general method, and how do you handle the rows your rules can't confidently resolve?
+
+How do you measure and keep accuracy high on a job this size (validation, sampling, error checks)?
+What tools/libraries would you use, and roughly how large a dataset have you cleaned or categorized before?
+
+Thank you","Python
+data classification
+Accuracy Verification
+Automation
+Preferred qualifications",,Expert,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,,,,last month,50+, https://www.upwork.com/jobs/~022069530757074201964?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022069530757074201964,2026-08-03 09:54:34
 2,Data Science & Analytics,,Data Extraction and Analysis Specialist,"We’re looking for a Data Scientist to help us organize and make better use of historical data across approx thousands of deals.
 
 The data currently sits across different sources and documents, with several missing or inconsistent mappings. We need someone who can help us:
@@ -48,7 +84,7 @@ Please share any similar projects you’ve worked on and a brief note on how you
 Data Science
 Nice-to-have skills
 IBM SPSS
-Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,8.0,25.0,yesterday,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-07-29 17:06:54
+Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,8.0,25.0,yesterday,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-08-03 09:54:34
 3,Data Science & Analytics,,Looking for a Data Scientist For Upcoming Projects,"We're looking for an experienced Data Scientist to join a fast-paced, results-oriented team working on real client projects. This is a long-term freelance opportunity (6+ months) with a steady stream of fixed-fee work for someone available 10–20 hours per week.
 
 Requirements
@@ -81,7 +117,7 @@ Python
 Data Science
 Machine Learning
 Data Scraping
-Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,15 to 20,https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082191299466664105,2026-07-29 17:06:54
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,single,50.0,50.0,yesterday,15 to 20,https://www.upwork.com/jobs/~022082191299466664105?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082191299466664105,2026-08-03 09:54:34
 4,Data Science & Analytics,physics,Data Analyst for Multi‑Sensor Building Thermal Dynamics,"We are conducting a long‑term scientific measurement project to analyze the real thermal behavior of a residential building. The goal is to evaluate how the building reacts to heating, cooling, and environmental conditions using multi‑sensor time‑series data (temperature, humidity, heating system behavior, and external climate data).
 
 We are looking for a skilled Time‑Series Data Analyst who can clean, structure, and analyze sensor data collected over several months. The work includes identifying patterns, detecting anomalies, calculating thermal response characteristics, and generating clear visualizations and reports.
@@ -126,7 +162,7 @@ Experience with long‑term sensor data
 
 Understanding of thermal inertia and building envelope behavior
 
-This is a focused, technical project with high scientific relevance. We value clear communication, clean code, and precise analytical thinking.",Python,,Expert,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,35.0,75.0,2 months ago,50+, https://www.upwork.com/jobs/~022056741959072715778?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022056741959072715778,2026-07-29 17:06:54
+This is a focused, technical project with high scientific relevance. We value clear communication, clean code, and precise analytical thinking.",Python,,Expert,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,35.0,75.0,2 months ago,50+, https://www.upwork.com/jobs/~022056741959072715778?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022056741959072715778,2026-08-03 09:54:34
 5,Data Science & Analytics,python,Python script to clean messy sales CSV and generate a summary report - Data Extraction/ETL,"Hi there,
 
 I run a small online store and every month I export our sales transactions from our point-of-sale system as a CSV file. The export is messy — inconsistent date formats, prices with dollar signs and commas, extra whitespace, some duplicate rows, and the occasional blank/invalid row. Right now I clean it by hand in Excel and it takes me an hour or two every month. I'd like to stop doing that.
@@ -185,7 +221,7 @@ Please confirm you've read the requirements, mention any clarifying questions, a
 pandas
 CSV
 Data Cleaning
-Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,30.0,50.0,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-07-29 22:56:31
+Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,30.0,50.0,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-08-03 09:54:34
 6,Data Science & Analytics,python,"Dataset Collection (Images, Text) - with Python experience - Data Extraction/ETL","Looking for a person who generates datasets (human + AI), can handle API's (OpenAI etc.) to generate AI generated images.
 
 Dataset's are mostly images + text.
@@ -200,7 +236,7 @@ Data Mining
 Data Scraping
 Data Science
 pandas
-Data Entry",,Entry level,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,range,6.0,10.0,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077074558785228111?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077074558785228111,2026-07-29 23:06:11
+Data Entry",,Entry level,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,range,6.0,10.0,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077074558785228111?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077074558785228111,2026-08-03 09:54:34
 7,Data Science & Analytics,python data analyst,Re-extraction of data for a meta-analysis - Data Extraction/ETL,"Hello,
 
 I need your help re-extracting data (mostly means+SD) for a meta-analysis. I already extract the data but I need someone else to do it to avoid any bias. The extractions from tables or figures, nothing complicated really.
@@ -215,13 +251,13 @@ I will send 3 papers at a time.
 
 I can pay up to $20/paper, in total i have ~20ish papers or so.","meta-analysis
 Data Extraction
-Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,13 hours ago,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-07-29 23:20:56
-8,Data Analysis & Testing,python data analyst,Data Analyst with Power BI and Excel,"We are seeking a skilled data analyst to join our team full-time. The ideal candidate will have experience in data analysis and visualization using Power BI and Excel. Responsibilities include analyzing data sets, creating reports, and developing dashboards to present findings. The role requires strong analytical skills and the ability to interpret complex data into actionable insights.","Data Analysis
+Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,13 hours ago,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-08-03 09:54:34
+8,Data Analysis & Testing,python data analyst,Data Analyst with Power BI and Excel - Data Analysis & Testing,"We are seeking a skilled data analyst to join our team full-time. The ideal candidate will have experience in data analysis and visualization using Power BI and Excel. Responsibilities include analyzing data sets, creating reports, and developing dashboards to present findings. The role requires strong analytical skills and the ability to interpret complex data into actionable insights.","Data Analysis
 IBM SPSS
 Nice-to-have skills
 Tableau
-Statistics",,Intermediate,Hourly,Complex project,More than 6 months,More than 30 hrs/week,,,,yesterday,50+, https://www.upwork.com/jobs/~022082058846381994477?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082058846381994477,2026-07-29 23:29:27
-9,Data Analysis & Testing,python data analyst,"Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)","Content Rewards is a fast-growing marketplace in the creator economy, and we're hiring a full-time Data Analyst to turn our data into decisions. You'll own reporting and analysis across the business (payouts, campaign performance, creator activity, funnel and retention) and help leadership see what's working and what to fix.
+Statistics",,Intermediate,Hourly,Complex project,More than 6 months,More than 30 hrs/week,range,20.0,50.0,yesterday,50+, https://www.upwork.com/jobs/~022082058846381994477?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082058846381994477,2026-08-03 09:54:34
+9,Data Analysis & Testing,python data analyst,"Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing","Content Rewards is a fast-growing marketplace in the creator economy, and we're hiring a full-time Data Analyst to turn our data into decisions. You'll own reporting and analysis across the business (payouts, campaign performance, creator activity, funnel and retention) and help leadership see what's working and what to fix.
 
 What you'll do:
 - Build and maintain dashboards and reports leadership actually uses
@@ -241,43 +277,7 @@ This starts as a contract with the intent to go full-time for the right person. 
 Data Analysis
 Python
 Data Visualization
-Preferred qualifications",,Expert,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022074271542203452125?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074271542203452125,2026-07-29 23:40:28
-10,Data Analysis & Testing,python data analyst,Product Categorization/Taxonomy tagging,"We have a large catalog of about 100k products across many categories.
-
-We have several large product lists that need to be cleaned, organized, and classified within our provided taxonomy.
-
-This work can not be done by hand, and needs to be automated with a combination of scripts and Ai. We need a repeatable rules based process.
-
-What you'll do:
-
-- Build an automated classification pipeline that maps products to the correct categories from our controlled vocabulary (we provide the list — no free-typing).
-- Assign product attributes/specs programmatically from a defined set of valid values.
-Clean and normalize messy titles and field values, deduplicate, and fix systematic mis-tags across the whole list.
-- Automatically flag the rows the rules can't confidently resolve, so only a small share needs human review instead of all 100k.
-- Build QA checks and sampling so we can measure accuracy and catch errors.
-- Deliver clean output in CSV, formatted for a standard eCommerce product import.
-
-Required skills:
-
-- Python (pandas) or equivalent scripting for data work — this is the core requirement.
-- Experience with rule-based classification, text normalization, fuzzy/string matching, and deduplication on large datasets.
-- Strong with CSV/spreadsheet data and working to a defined schema or controlled vocabulary.
-- A QA mindset — building validation, sampling, and accuracy metrics.
-
-Please have previous project experience using scripts/llms to classify large sets of data.
-
-To apply, please answer:
-
-At ~100,000 rows, how would you approach automating classification against a fixed category list — what's your general method, and how do you handle the rows your rules can't confidently resolve?
-
-How do you measure and keep accuracy high on a job this size (validation, sampling, error checks)?
-What tools/libraries would you use, and roughly how large a dataset have you cleaned or categorized before?
-
-Thank you","Python
-data classification
-Accuracy Verification
-Automation
-Preferred qualifications",,Expert,Hourly,Ongoing project,3 to 6 months,More than 30 hrs/week,,,,last month,50+, https://www.upwork.com/jobs/~022069530757074201964?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022069530757074201964,2026-07-29 23:49:33
+Preferred qualifications",,Expert,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,range,20.0,50.0,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022074271542203452125?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074271542203452125,2026-08-03 09:54:34
 11,Data Extraction/ETL,data analyst python,Data Extraction and Analysis Specialist,"We’re looking for a Data Scientist to help us organize and make better use of historical data across approx thousands of deals.
 
 The data currently sits across different sources and documents, with several missing or inconsistent mappings. We need someone who can help us:
@@ -295,12 +295,12 @@ Please share any similar projects you’ve worked on and a brief note on how you
 Data Science
 Nice-to-have skills
 IBM SPSS
-Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-07-30 10:46:54
+Statistics",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,8.0,25.0,2 days ago,20 to 50,https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510,2026-08-03 09:54:34
 12,Data Extraction/ETL,data analyst python,Python Developer for Data Processing,"We are seeking a skilled Python developer to enhance our data processing capabilities. The ideal candidate will have experience with data structures and algorithms, and be able to optimize code for performance. Responsibilities include developing efficient data processing scripts, integrating with existing systems, and ensuring data accuracy. Familiarity with machine learning and data visualization is a plus.","Python
 PostgreSQL Programming
 Nice-to-have skills
 Machine Learning
-Django",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,50+, https://www.upwork.com/jobs/~022082026640515389431?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082026640515389431,2026-07-30 10:57:21
+Django",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,9.0,30.0,2 days ago,50+, https://www.upwork.com/jobs/~022082026640515389431?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082026640515389431,2026-08-03 09:54:34
 13,Data Entry & Transcription Services,data analyst python,Excel/CSV Data Cleaner & Report Generator,"We are seeking a detail-oriented freelancer to clean and organize data in Excel and CSV files. The ideal candidate will ensure data accuracy, handle missing values, and generate reports. Familiarity with data analysis and visualization tools is a plus. This is a part-time role with a short-term engagement.","Microsoft Excel
 Data Cleaning
 Python
@@ -314,7 +314,7 @@ Tools
 Microsoft Excel
 Microsoft Excel PowerPivot
 Visual Basic for Applications
-Data Analysis",,Intermediate,Fixed-price,One-time project,,,,,,4 weeks ago,50+, upwork.com/jobs/~022073098155838746520?referrer_url_path=/nx/search/jobs/details/~022073098155838746520,2026-07-30 11:03:19
+Data Analysis",,Intermediate,Fixed-price,One-time project,,,single,50.0,50.0,4 weeks ago,50+, upwork.com/jobs/~022073098155838746520?referrer_url_path=/nx/search/jobs/details/~022073098155838746520,2026-08-03 09:54:34
 14,Scripts & Utilities,data analyst python,Python File & Excel Automation Tool,"I need a simple Python automation tool to help organize files and spreadsheet data.
 
 The tool should:
@@ -331,7 +331,7 @@ Automation
 Microsoft Excel
 Data Processing
 Python Script
-CSV",,Intermediate,Fixed-price,One-time project,,,,,,4 weeks ago,50+, https://www.upwork.com/jobs/~022072348650823802727?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022072348650823802727,2026-07-30 11:16:56
+CSV",,Intermediate,Fixed-price,One-time project,,,single,50.0,50.0,4 weeks ago,50+, https://www.upwork.com/jobs/~022072348650823802727?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022072348650823802727,2026-08-03 09:54:34
 15,Scripts & Utilities,data analyst python,Python Developer for Monte Carlo Simulator,"Seeking a Python developer/statistician to build a Monte Carlo simulator for a proprietary poker-style card game. The rules and strategy decisions are already defined. The ideal candidate will have experience in statistical analysis and Python development, with a focus on creating efficient and accurate simulations. This is a part-time project with a short-term engagement. This project is for analysis of a proprietary poker-style table game. A signed NDA may be required before full game rules are shared.
 
 Deliverables include a Python application capable of running millions of simulated hands, allowing payout tables to be easily modified, and generating statistics such as expected return, hand frequencies, and house edge.All source code and work product will become my property upon project completion.
@@ -345,7 +345,7 @@ Statistics
 monte carlo simulation
 Algorithm Development
 Data Analysis
-Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,2 weeks ago,50+, https://www.upwork.com/jobs/~022076627179491473274?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076627179491473274,2026-07-30 11:31:47
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,single,500.0,500.0,2 weeks ago,50+, https://www.upwork.com/jobs/~022076627179491473274?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076627179491473274,2026-08-03 09:54:34
 16,Data Analyst & Testing,data analyst python,Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python,"Project Title: Staggered Difference-in-Differences Model (Callaway & Sant'Anna) in R/Python
 Description: I need an econometrician to run a staggered Difference-in-Differences model on an M&A dataset. You must use modern estimators for staggered treatment timing (e.g., the Callaway & Sant'Anna estimator).
 If you are using R, you must be proficient with the did, staggered, or fastdid packages. If you are using Python, you must use the equivalent causal inference libraries.
@@ -366,7 +366,7 @@ Microsoft Excel PowerPivot
 Data Analytics & Visualization Software
 pandas
 Predictive Modeling
-Predictive Analytics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,15 to 20, https://www.upwork.com/jobs/~022067489709072780967?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022067489709072780967,2026-07-30 11:31:47
+Predictive Analytics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,15 to 20, https://www.upwork.com/jobs/~022067489709072780967?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022067489709072780967,2026-08-03 09:54:34
 17,Data Analyst & Testing,data analyst python,Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted) - Data Analysis & Testing,"WHAT WE NEED
 
 We are a US-based fintech (LootRush.com) processing high monthly volume across multiple
@@ -443,7 +443,7 @@ Preferred qualifications
 English level:
 Conversational
 Location:
-Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-07-30 11:57:46
+Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,35.0,50.0,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-08-03 09:54:34
 18,Data Analysis & Testing,data analyst python,Data Scientist Needed for Sales Forecasting & Dashboard Development,"We are looking for an experienced Data Scientist to analyze our business data and build predictive models for sales forecasting.
 
 Responsibilities:
@@ -479,7 +479,7 @@ Deep Learning
 Marketing Analytics
 Machine Learning
 Data Science
-Statistics",,Expert,Hourly,Ongoing project,3 to 6 months,Less than 30 hrs/week,,,,last month,5 to 10, https://www.upwork.com/jobs/~022065068503463604886?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022065068503463604886,2026-07-30 11:57:46
+Statistics",,Expert,Hourly,Ongoing project,3 to 6 months,Less than 30 hrs/week,range,35.0,75.0,last month,5 to 10, https://www.upwork.com/jobs/~022065068503463604886?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022065068503463604886,2026-08-03 09:54:34
 19,Data Analysis & Testing,data analyst python,Data Analyst - WooCommerce - Product Compliance Review (AI / Excel / Data Analysis),"We're looking for someone to help us review product data from a WooCommerce store and identify compliance-related information.
 
 For each product, we need to determine:
@@ -506,7 +506,7 @@ We're looking for someone who can recommend the fastest and most accurate way to
 
 **Please only apply if you have relevant experience. Applications without examples and a fixed price will not be considered.**","Microsoft Excel
 Data Analysis
-Statistics",,Entry level,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022076605694608480704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076605694608480704,2026-07-30 12:04:30
+Statistics",,Entry level,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022076605694608480704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076605694608480704,2026-08-03 09:54:34
 20,Data Analysis & Testing,data analyst python,Facebook Data report excel and analysis,"i have data but i dont kno who bought what, which video worked, who purchased genders wise. i want a nice excel spreadsheet with data report broken down then i want analysis of nswering my questions mothly","ETL
 Artificial Intelligence
 Data Extraction
@@ -522,7 +522,7 @@ Data Analytics & Visualization Software
 Data Modeling
 Agile Project Management
 Data Cleaning
-Preferred qualifications",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,6 hours ago,20 to 50, https://www.upwork.com/jobs/~022082716718469394515?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082716718469394515,2026-07-30 14:42:05
+Preferred qualifications",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,6 hours ago,20 to 50, https://www.upwork.com/jobs/~022082716718469394515?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082716718469394515,2026-08-03 09:54:34
 21,Data Extraction/ETL,scientific computing,Re-extraction of data for a meta-analysis,"Hello,
 
 I need your help re-extracting data (mostly means+SD) for a meta-analysis. I already extract the data but I need someone else to do it to avoid any bias. The extractions from tables or figures, nothing complicated really.
@@ -537,7 +537,7 @@ I will send 3 papers at a time.
 
 I can pay up to $20/paper, in total i have ~20ish papers or so.","meta-analysis
 Data Extraction
-Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-07-30 15:24:49
+Statistics",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082369884227735061?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082369884227735061,2026-08-03 09:54:34
 22,AI & Machine Learning,scientific computing python,AI Developer (Python + Claude API) – Lab Report Automation & AI-Generated Medical Longevity Program,"We're a longevity and hormone optimization medical practice looking for an experienced AI developer to build a document-automation and AI-reasoning tool.
 
 **What this tool needs to do:**
@@ -569,7 +569,7 @@ Algorithm Development
 Natural Language Processing
 API
 Data Science
-Preferred qualifications",,Expert,Fixed-price,Ongoing project,,,,,,last week,50+, https://www.upwork.com/jobs/~022079188236528106235?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079188236528106235,2026-07-30 15:24:49
+Preferred qualifications",,Expert,Fixed-price,Ongoing project,,,single,16000.0,16000.0,last week,50+, https://www.upwork.com/jobs/~022079188236528106235?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079188236528106235,2026-08-03 09:54:34
 23,Scripts & Utilities,scientific computing python,Python path generation,"I have an existing Python program that generates robot application trajectories from contours detected by a camera.
 
 The program receives recipe parameters from a PLC, including:
@@ -612,7 +612,7 @@ The program uses Python, Shapely, NumPy, scikit-image skeletonization and Matplo
 Python Script
 NumPy
 scikit-image
-Automation",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last week,20 to 50, https://www.upwork.com/jobs/~022079950883582279100?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079950883582279100,2026-07-30 15:24:49
+Automation",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,20.0,40.0,last week,20 to 50, https://www.upwork.com/jobs/~022079950883582279100?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022079950883582279100,2026-08-03 09:54:34
 24,Data mining & Management,scientific computing,Data Engineer for Text Transformation - Data Mining & Management,"Overview
 We require a Python Data Engineer to complete a technical data transformation and enrichment pipeline. Phase 1 (Raw Data Extraction) is already complete. The raw asset pool is hosted in a Google Drive directory and consists of:
 
@@ -647,19 +647,19 @@ SAS
 Nice-to-have skills
 LaTeX
 Algorithm Development
-Preferred qualifications",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022075068308054832936?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022075068308054832936,2026-07-30 15:24:49
+Preferred qualifications",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,3 weeks ago,20 to 50, https://www.upwork.com/jobs/~022075068308054832936?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022075068308054832936,2026-08-03 09:54:34
 25,Data Extraction/ETL,Physical Sciences,DFT Physics Simulations,"The project involves DFT simulations of low-temperature superconducting devices.  There are two projects in the pipeline, and I would like an expert to work on them. It doesn't matter if you have no prior experience but a grasp of the knowlegde and know-how required to execute this job cleanly.","Python
 Physics
 Molecular Physics
 Research Papers
 WordPress
 DFT
-Quantum Espresso",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,10 to 15, https://www.upwork.com/jobs/~022071668808174778548?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071668808174778548,2026-07-30 15:24:49
+Quantum Espresso",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,last month,10 to 15, https://www.upwork.com/jobs/~022071668808174778548?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071668808174778548,2026-08-03 09:54:34
 26,Data Analysis & Testing,statistical python,Statistical Analysis in Stata,"Hello! I need a dataset analyzed using Stata to test multiple hypotheses. The analysis includes interaction for the moderator, sobel test for the mediator, and regular regression for the rest, along with control variables. The task must be completed by Monday and requires deliverables in Excel, showing model creation with averages and mean centred values.","Statistics
 IBM SPSS
 Nice-to-have skills
 SAS
-Quantitative Analysis",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,,,,11 hours ago,20 to 50, https://www.upwork.com/jobs/~022082643249114488759?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082643249114488759,2026-07-30 16:03:58
+Quantitative Analysis",,Intermediate,Hourly,One-time project,Less than 1 month,Less than 30 hrs/week,range,15.0,50.0,11 hours ago,20 to 50, https://www.upwork.com/jobs/~022082643249114488759?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082643249114488759,2026-08-03 09:54:34
 27,Data Extraction/ETL,statistical python,Research Data Scientist (Wearable Accelerometry & Step Detection),"We are looking for a research-oriented data scientist to benchmark algorithms that convert raw 1-, 2-, and 3-axis accelerometer data into step counts. The project includes:
 
 (1) a literature review of industrial and scientific approaches and open datasets,
@@ -680,7 +680,7 @@ Preferred qualifications
 English level:
 Conversational
 Location:
-Americas, Africa, Europe",,Intermediate,Fixed-price,Ongoing project,,,,,,last month,20 to 50, https://www.upwork.com/jobs/~022071631064185540559?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071631064185540559,2026-07-30 16:03:58
+Americas, Africa, Europe",,Intermediate,Fixed-price,Ongoing project,,,single,300.0,300.0,last month,20 to 50, https://www.upwork.com/jobs/~022071631064185540559?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022071631064185540559,2026-08-03 09:54:34
 28,Data Analysis & Testing,statistical python,Product & E‑Commerce Performance Analytics,"About the role:
 
 We’re looking for a Data Analyst to join FactFinder and help drive product decisions with rigorous measurement and clear insights.
@@ -744,7 +744,7 @@ Statistical Analysis
 Data Visualization
 Product Analytics
 BigQuery
-Ecommerce",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077345239066706397?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077345239066706397,2026-07-30 16:03:58
+Ecommerce",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,2 weeks ago,20 to 50, https://www.upwork.com/jobs/~022077345239066706397?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022077345239066706397,2026-08-03 09:54:34
 29,AI & Machine Learning,statistical python,Data Scientist (ML / Data Analytics / Database / Azure),"We are looking for a highly experienced Data Scientist to become a long-term member of our team. This is not a standalone research role. You will work closely with Product, Engineering, Data Engineering, Marketing, and Business teams to continuously improve the quality, accuracy, and business value of our data products.
 
 Please do NOT apply if you are looking for:
@@ -819,7 +819,7 @@ Preferred qualifications
 Talent Type:
 Independent
 English level:
-Conversational",,Expert,Fixed-price,Ongoing project,,,,,,last week,20 to 50, https://www.upwork.com/jobs/~022078886338411477755?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022078886338411477755,2026-07-30 16:03:58
+Conversational",,Expert,Fixed-price,Ongoing project,,,single,3500.0,3500.0,last week,20 to 50, https://www.upwork.com/jobs/~022078886338411477755?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022078886338411477755,2026-08-03 09:54:34
 30,Market Researcg & Product Reviews,statistical python,Build Scheduled AI Market Intelligence Report Generator,"We're looking for an automation developer to create a scheduled AI reporting workflow.
 
 Every morning, the automation should:
@@ -868,7 +868,7 @@ Documentation","Python
 Artificial Intelligence
 Data Science
 Machine Learning
-Data Analysis",,Intermediate,Fixed-price,Ongoing project,,,,,,6 days ago,10 to 15, https://www.upwork.com/jobs/~022080512322732388939?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022080512322732388939,2026-07-30 16:03:58
+Data Analysis",,Intermediate,Fixed-price,Ongoing project,,,single,30.0,30.0,6 days ago,10 to 15, https://www.upwork.com/jobs/~022080512322732388939?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022080512322732388939,2026-08-03 09:54:34
 31,Data AI & Machine Learning,numpy,AI home recognition using photo with address and metadata,"Project Overview
 I'm a real estate investor. My team takes exterior photos of homes in the field. I need a tool that turns a Google Drive folder of those photos into a clean address list I can export as CSV.
 
@@ -891,7 +891,7 @@ CSV export I can open in Excel/Sheets","Python
 Machine Learning
 Image Processing
 Computer Vision
-Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,yesterday,50+, https://www.upwork.com/jobs/~022082329019283686871?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082329019283686871,2026-07-30 17:59:07
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,single,100.0,100.0,yesterday,50+, https://www.upwork.com/jobs/~022082329019283686871?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082329019283686871,2026-08-03 09:54:34
 32,Web Development,numpy,"$5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)","We need a system that reads photographed (not scanned) handwritten betting tickets from a numbers-lottery business and outputs a fully computed, structured version of each ticket.
 
 The tickets: handwritten 3- and 4-digit numbers on small paper slips, with checkboxes for which lottery/draw was selected (NY, NJ, Brooklyn, etc. — midday/night). Templates vary, and some batches show multiple tickets photographed together rather than one ticket per photo — see attached samples for both styles.
@@ -911,8 +911,8 @@ Sample data: 2 example finished/result tickets attached here (shows the target o
 Budget: $5,000, paid on verified delivery. Timeline: ASAP.","OCR Algorithm
 Machine Learning
 Python
-Accuracy Verification",,Expert,Fixed-price,Ongoing project,,,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082464010099319380?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082464010099319380,2026-07-30 17:59:07
-33,Data Analyst & Testing,numpy,"Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow","We are a new UK consultancy advising engineering organisations on how delivery performs. Part of the method reads a client's delivery metadata (Git, tickets, CI, incidents, never source code) as the evidence behind team assessments sold to CTOs and COOs at banks, fintechs and scale-ups, at five and six-figure ticket sizes. The demand driver is AI: organisations are adopting it faster than their delivery and governance can absorb, and they need evidence of what it is actually doing to them.
+Accuracy Verification",,Expert,Fixed-price,Ongoing project,,,single,5000.0,5000.0,yesterday,20 to 50, https://www.upwork.com/jobs/~022082464010099319380?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082464010099319380,2026-08-03 09:54:34
+33,Data Analyst & Testing,numpy,"Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing","We are a new UK consultancy advising engineering organisations on how delivery performs. Part of the method reads a client's delivery metadata (Git, tickets, CI, incidents, never source code) as the evidence behind team assessments sold to CTOs and COOs at banks, fintechs and scale-ups, at five and six-figure ticket sizes. The demand driver is AI: organisations are adopting it faster than their delivery and governance can absorb, and they need evidence of what it is actually doing to them.
 
 We are recruiting a founding bench of three senior associates. This is the data seat, and it has the clearest work pipeline of the three.
 
@@ -932,7 +932,7 @@ To apply, answer these two questions in your proposal:
 2. A client's Jira hygiene is poor: tickets closed in bulk, no consistent workflow. What can you still credibly compute from Git alone?","Data Analysis
 Python
 Data Engineering
-Preferred qualifications",,Expert,Fixed-price,One-time project,,,,,,5 hours ago,10 to 15, https://www.upwork.com/jobs/~022082756186303086131?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082756186303086131,2026-07-30 17:59:07
+Preferred qualifications",,Expert,Fixed-price,One-time project,,,single,100.0,100.0,5 hours ago,10 to 15, https://www.upwork.com/jobs/~022082756186303086131?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082756186303086131,2026-08-03 09:54:34
 34,Data Analysis & Testing,numpy,EEG Feature Extraction and Statistical Analysis for Neuroscience Research,"EEG Feature Extraction and Statistical Analysis for Neuroscience Research
 
 Project Overview
@@ -1262,7 +1262,7 @@ Data Analysis
 Quantitative Analysis
 Statistical Analysis
 Biostatistics
-Bayesian Analysis",,Expert,Fixed-price,Ongoing project,,,,,,11 hours ago,20 to 50, upwork.com/jobs/~022082671746191811156?referrer_url_path=/nx/search/jobs/details/~022082671746191811156,2026-07-30 17:59:07
+Bayesian Analysis",,Expert,Fixed-price,Ongoing project,,,single,700.0,700.0,11 hours ago,20 to 50, upwork.com/jobs/~022082671746191811156?referrer_url_path=/nx/search/jobs/details/~022082671746191811156,2026-08-03 09:54:34
 35,Data AI & Machine Learning,numpy,Computer Vision Developer - Object Detection & Tracking on Video (Python),"I'm building a small sports analytics tool and need help with the video processing part.
 
 What I need:
@@ -1281,12 +1281,12 @@ Deep Learning
 OpenCV
 Python
 Computer Vision
-Video Processing",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,,,,yesterday,20 to 50, upwork.com/jobs/~022082463515175641684?referrer_url_path=/nx/search/jobs/details/~022082463515175641684,2026-07-30 17:59:07
+Video Processing",,Intermediate,Hourly,Ongoing project,More than 6 months,More than 30 hrs/week,range,4.0,6.0,yesterday,20 to 50, upwork.com/jobs/~022082463515175641684?referrer_url_path=/nx/search/jobs/details/~022082463515175641684,2026-08-03 09:54:34
 36,Data Extraction/ETL,numpy,Automate Shopee Malaysia Data Scraping,"We are seeking a skilled freelancer to automate the scraping of listings data from Shopee Malaysia. The ideal candidate will have experience in web scraping and data extraction, with the ability to handle large volumes of data efficiently. The task involves developing a reliable system to collect and organize data from the platform, ensuring accuracy and consistency. If you have a strong background in data mining and web crawling, we would love to hear from you.","Data Scraping
 Web Crawling
 Nice-to-have skills
 Python
-Data Mining",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,2 days ago,50+, https://www.upwork.com/jobs/~022082144410936289704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082144410936289704,2026-07-30 17:59:07
+Data Mining",,Intermediate,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,8.0,25.0,2 days ago,50+, https://www.upwork.com/jobs/~022082144410936289704?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082144410936289704,2026-08-03 09:54:34
 37,Scripts & Utilities,numpy,Python Desktop App for AdsPower Local API & Playwright Automation,"Overview:
 
 Looking for a Senior Python Developer to build a custom desktop GUI tool that interacts with AdsPower Local API.
@@ -1305,7 +1305,7 @@ Please highlight your previous experience with AdsPower API and Playwright in Py
 Automation
 API
 Data Scraping
-API Integration",,Intermediate,Fixed-price,Ongoing project,,,,,,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082074352873641372?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082074352873641372,2026-07-30 17:59:07
+API Integration",,Intermediate,Fixed-price,Ongoing project,,,single,600.0,600.0,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082074352873641372?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082074352873641372,2026-08-03 09:54:34
 38,Web & Mobile Design,numpy,Real-time Audio Reactive Prototype Developer (v0.0 Proof of Concept),"Job Posting: Real-Time Audio-Reactive Prototype Developer (v0.0 Proof of Concept)
 
 Title
@@ -1349,7 +1349,7 @@ PyAudio
 web audio API
 Python
 smart home API integration
-Preferred qualifications",,Entry level,Fixed-price,One-time project,,,,,,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082165685734731522?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082165685734731522,2026-07-30 17:59:07
+Preferred qualifications",,Entry level,Fixed-price,One-time project,,,single,500.0,500.0,2 days ago,20 to 50, https://www.upwork.com/jobs/~022082165685734731522?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082165685734731522,2026-08-03 09:54:34
 39,Data Extraction/ETL,numpy,Python script to clean messy sales CSV and generate a summary report,"Hi there,
 
 I run a small online store and every month I export our sales transactions from our point-of-sale system as a CSV file. The export is messy — inconsistent date formats, prices with dollar signs and commas, extra whitespace, some duplicate rows, and the occasional blank/invalid row. Right now I clean it by hand in Excel and it takes me an hour or two every month. I'd like to stop doing that.
@@ -1408,7 +1408,7 @@ Please confirm you've read the requirements, mention any clarifying questions, a
 pandas
 CSV
 Data Cleaning
-Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-07-30 17:59:07
+Preferred qualifications",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,30.0,50.0,3 weeks ago,50+, https://www.upwork.com/jobs/~022074802176750133453?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074802176750133453,2026-08-03 09:54:34
 40,Data Analysis & Testing,matplotlib,Data analyst to build multi-source transaction reconciliation pipeline (Python/AI-assisted),"WHAT WE NEED
 
 We are a US-based fintech (LootRush.com) processing high monthly volume across multiple
@@ -1485,7 +1485,7 @@ Preferred qualifications
 English level:
 Conversational
 Location:
-Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,,,,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-07-30 17:59:07
+Brazil, Mexico, Argentina, United States",,Expert,Hourly,Ongoing project,1 to 3 months,Less than 30 hrs/week,range,35.0,50.0,5 days ago,20 to 50, https://www.upwork.com/jobs/~022081025566471412668?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081025566471412668,2026-08-03 09:54:34
 41,Physical Sciences,stochastic,SW Development & Advanced MATH for Strategic Planning,"We need mathematically talented individuals to help us create business planning models at the STRATEGIC, TACTICAL, and OPERATIONAL level.
 We anticipate our approach will be heavily dependent on theory of Manifolds, Topological Perspectives, and supporting probability frameworks (Markov models, Stochastic Calculus).
 If you don't know this math, but are willing to learn, we will create paid training tasks for you.
@@ -1500,7 +1500,7 @@ SW Development
 C#
 ASP.NET
 Microsoft SQL Server
-Preferred qualifications",,Entry level,Fixed-price,One-time project,,,,,,3 weeks ago,15 to 20, https://www.upwork.com/jobs/~022074209608520281119?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074209608520281119,2026-07-30 19:01:53
+Preferred qualifications",,Entry level,Fixed-price,One-time project,,,single,100.0,100.0,3 weeks ago,15 to 20, https://www.upwork.com/jobs/~022074209608520281119?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022074209608520281119,2026-08-03 09:54:34
 42,Data Analysis & Testing,hypothesis testing,OR Tools expert to work for a sales person algorithm to optimize sales route,"Project Overview
 We are looking for an experienced Operations Research (OR) Developer / Constraint Programming expert to build a mathematical optimization model for our business.
 
@@ -1509,7 +1509,7 @@ We manage a network of merchants who require physical visits from our agents to 
 The Technical Challenge
 This is a classic Inventory Routing / Field Service Scheduling problem. We need a developer who can translate our business rules into constraints using Google OR-Tools (specifically the CP-SAT solver) in Python.","Data Analysis
 Data Science
-or tools",,Expert,Fixed-price,Ongoing project,,,,,,4 days ago,20 to 50, https://www.upwork.com/jobs/~022081338819257923474?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081338819257923474,2026-07-30 19:01:53
+or tools",,Expert,Fixed-price,Ongoing project,,,single,1000.0,1000.0,4 days ago,20 to 50, https://www.upwork.com/jobs/~022081338819257923474?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022081338819257923474,2026-08-03 09:54:34
 43,Financial Planning,hypothesis testing,Pairs Trading quantitative analysis,"Hi, looking for someone with some experience in pairs trading to help research techniques, analyze data and create trading strategies - I don't really need help with implementation at this point.
 
 Specifically, I'm looking for someone curious and creative to experiment with various non-ML and ML ideas. I've been spending a ton of time with claude code with this so there's no shortage of concepts, but it takes quite awhile for my puny brain to internalize a lot of it so having someone with big quant brain would help a ton.
@@ -1533,7 +1533,7 @@ Python
 Claude
 Cryptocurrency
 Data Science
-Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,,,,2 months ago,20 to 50, https://www.upwork.com/jobs/~022053243377183889774?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022053243377183889774,2026-07-30 19:01:53
+Preferred qualifications",,Intermediate,Fixed-price,One-time project,,,single,1000.0,1000.0,2 months ago,20 to 50, https://www.upwork.com/jobs/~022053243377183889774?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022053243377183889774,2026-08-03 09:54:34
 44,Data Mining & Management,,Building Databases Synchronization Pipeline,"I have a SQL Server database and a vector database (Qdrant), and I’m working on building a synchronization pipeline between the two. The goal is to ensure that any batch inserts or updates performed in the SQL database are automatically reflected in the vector database.
 
 I’m looking for a Data Engineer who can help me design and implement an efficient approach for handling this synchronization process.","ETL Pipeline
@@ -1543,4 +1543,4 @@ Microsoft SQL Server
 Qdrant
 Microsoft Azure
 Database
-SQL",,Intermediate,Fixed-price,One-time project,,,,,,yesterday,20 to 50, https://www.upwork.com/jobs/~022082379103287434205?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082379103287434205,2026-07-30 19:01:53
+SQL",,Intermediate,Fixed-price,One-time project,,,single,40.0,40.0,yesterday,20 to 50, https://www.upwork.com/jobs/~022082379103287434205?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082379103287434205,2026-08-03 09:54:34

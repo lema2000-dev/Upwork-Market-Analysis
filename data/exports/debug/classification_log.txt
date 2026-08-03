@@ -10,6 +10,18 @@ Machine Learning: ['machine learning', 'llm'] (Score: 3)
 Looking for a Data Scientist For Upcoming Projects
 Python Automation: No matches found (Score: 0)
 --------------------------------------------------
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Data Engineer: No matches found (Score: 1)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Data Analyst: ['data analysis', 'spreadsheet'] (Score: 3)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Machine Learning: ['classification', 'llm'] (Score: 2)
+--------------------------------------------------
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Python Automation: ['automate', 'script', 'scripting'] (Score: 3)
+--------------------------------------------------
 Data Extraction and Analysis Specialist
 Data Engineer: ['data extraction', 'sql'] (Score: 2)
 --------------------------------------------------
@@ -82,41 +94,29 @@ Machine Learning: No matches found (Score: 0)
 Re-extraction of data for a meta-analysis - Data Extraction/ETL
 Python Automation: No matches found (Score: 0)
 --------------------------------------------------
-Data Analyst with Power BI and Excel
+Data Analyst with Power BI and Excel - Data Analysis & Testing
 Data Engineer: No matches found (Score: 0)
 --------------------------------------------------
-Data Analyst with Power BI and Excel
+Data Analyst with Power BI and Excel - Data Analysis & Testing
 Data Analyst: ['analyst', 'data analysis', 'data analyst', 'visualization', 'dashboard', 'power bi'] (Score: 9)
 --------------------------------------------------
-Data Analyst with Power BI and Excel
+Data Analyst with Power BI and Excel - Data Analysis & Testing
 Machine Learning: No matches found (Score: 0)
 --------------------------------------------------
-Data Analyst with Power BI and Excel
+Data Analyst with Power BI and Excel - Data Analysis & Testing
 Python Automation: No matches found (Score: 0)
 --------------------------------------------------
-Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing
 Data Engineer: No matches found (Score: 1)
 --------------------------------------------------
-Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing
 Data Analyst: ['analytics', 'analyst', 'data analysis', 'data analyst', 'dashboard', 'reporting'] (Score: 8)
 --------------------------------------------------
-Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing
 Machine Learning: No matches found (Score: 0)
 --------------------------------------------------
-Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing
 Python Automation: No matches found (Score: 0)
---------------------------------------------------
-Product Categorization/Taxonomy tagging
-Data Engineer: No matches found (Score: 1)
---------------------------------------------------
-Product Categorization/Taxonomy tagging
-Data Analyst: ['data analysis', 'spreadsheet'] (Score: 3)
---------------------------------------------------
-Product Categorization/Taxonomy tagging
-Machine Learning: ['classification', 'llm'] (Score: 2)
---------------------------------------------------
-Product Categorization/Taxonomy tagging
-Python Automation: ['automate', 'script', 'scripting'] (Score: 3)
 --------------------------------------------------
 Data Extraction and Analysis Specialist
 Data Engineer: ['etl', 'data extraction', 'sql'] (Score: 4)
@@ -382,16 +382,16 @@ Machine Learning: ['ocr', 'handwritten'] (Score: 2)
 $5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
 Python Automation: No matches found (Score: 0)
 --------------------------------------------------
-Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
 Data Engineer: ['data extraction', 'pipeline', 'api'] (Score: 3)
 --------------------------------------------------
-Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
-Data Analyst: ['analyst', 'data analyst'] (Score: 3)
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
+Data Analyst: ['analyst', 'data analysis', 'data analyst'] (Score: 5)
 --------------------------------------------------
-Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
 Machine Learning: No matches found (Score: 0)
 --------------------------------------------------
-Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
 Python Automation: No matches found (Score: 0)
 --------------------------------------------------
 EEG Feature Extraction and Statistical Analysis for Neuroscience Research

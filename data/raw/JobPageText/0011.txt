@@ -1,8 +1,7 @@
 URL:https://www.upwork.com/jobs/~022082094300318745510?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082094300318745510
-category: -
+category: Data Extraction/ETL
 search_keyword: data analyst python
 ___
-Data Extraction and Analysis Specialist - Data Extraction/ETL
 Data Extraction and Analysis Specialist
 Posted 2 days ago
 Worldwide

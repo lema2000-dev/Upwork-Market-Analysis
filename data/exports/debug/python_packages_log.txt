@@ -1,6 +1,9 @@
 Looking for a Data Scientist For Upcoming Projects
 Found packages: ['Pandas', 'NumPy', 'Matplotlib']
 --------------------------------------------------
+Product Categorization/Taxonomy tagging - Data Analysis & Testing
+Found packages: ['Pandas']
+--------------------------------------------------
 Data Extraction and Analysis Specialist
 No packages found
 --------------------------------------------------
@@ -19,14 +22,11 @@ Found packages: ['Pandas']
 Re-extraction of data for a meta-analysis - Data Extraction/ETL
 No packages found
 --------------------------------------------------
-Data Analyst with Power BI and Excel
+Data Analyst with Power BI and Excel - Data Analysis & Testing
 No packages found
 --------------------------------------------------
-Full-time Data Analyst for fast-growing creator platform (SQL, dashboards)
+Full-time Data Analyst for fast-growing creator platform (SQL, dashboards) - Data Analysis & Testing
 No packages found
---------------------------------------------------
-Product Categorization/Taxonomy tagging
-Found packages: ['Pandas']
 --------------------------------------------------
 Data Extraction and Analysis Specialist
 No packages found
@@ -94,7 +94,7 @@ No packages found
 $5,000: Read handwritten lottery tickets & compute payout totals (OCR+logic)
 No packages found
 --------------------------------------------------
-Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow
+Founding data seat at a new UK consultancy: paid task now, kit build and analysis work to follow - Data Analysis & Testing
 No packages found
 --------------------------------------------------
 EEG Feature Extraction and Statistical Analysis for Neuroscience Research

@@ -1,8 +1,7 @@
 URL: https://www.upwork.com/jobs/~022072348650823802727?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022072348650823802727
-category: -
+category: Scripts & Utilities
 search_keyword: data analyst python
 ___
-Python File & Excel Automation Tool - Scripts & Utilities
 Python File & Excel Automation Tool
 Posted 4 weeks ago
 Worldwide

@@ -1,8 +1,7 @@
 URL: https://www.upwork.com/jobs/~022082026640515389431?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022082026640515389431
-category: -
+category: Data Extraction/ETL
 search_keyword: data analyst python
 ___
-Python Developer for Data Processing - Data Extraction/ETL
 Python Developer for Data Processing
 Posted 2 days ago
 Worldwide

@@ -1,0 +1,10 @@
+job_classes,experience_level,count,min,median,mean,max,std
+Data Analyst,Expert,5,35.0,42.5,46.0,55.0,8.77
+Data Analyst,Intermediate,3,19.5,32.5,29.0,35.0,8.32
+Data Engineer,Entry level,1,8.0,8.0,8.0,8.0,
+Data Engineer,Expert,4,40.0,41.25,41.25,42.5,1.44
+Data Engineer,Intermediate,4,16.5,16.5,17.25,19.5,1.5
+Machine Learning,Expert,1,55.0,55.0,55.0,55.0,
+Machine Learning,Intermediate,6,5.0,18.0,26.25,50.0,19.05
+Other,Intermediate,1,30.0,30.0,30.0,30.0,
+Python Automation,Expert,2,40.0,40.0,40.0,40.0,0.0

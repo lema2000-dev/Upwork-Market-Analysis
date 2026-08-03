@@ -1,5 +1,5 @@
 URL: https://www.upwork.com/jobs/~022076627179491473274?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~022076627179491473274
-category: -
+category: Scripts & Utilities
 search_keyword: data analyst python
 ___
 Python Developer for Monte Carlo Simulator
