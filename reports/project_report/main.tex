@@ -1,0 +1,27 @@
+\documentclass[
+    12pt,
+    a4paper,
+    oneside
+]{scrreprt}
+
+    \input{config/packages.tex}
+    \input{config/settings.tex}
+    \input{config/commands.tex}
+
+    \begin{document}
+    
+    \input{titlepage/titlepage.tex}
+
+    \pagenumbering{roman}
+
+    \tableofcontents
+
+    \clearpage
+
+    \pagenumbering{arabic}
+
+    \input{chapters/introduction.tex}
+    
+    \printbibliography
+
+\end{document}
