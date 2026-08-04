@@ -44,3 +44,27 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+*.lof
+*.lot
+*.lol
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.pdfsync
+*.synctex(busy)
