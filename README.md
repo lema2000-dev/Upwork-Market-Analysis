@@ -25,7 +25,7 @@ aspiring data analysts and data engineers.
 The analysis is based on 44 manually collected Upwork job postings related to
 Python, Data Analytics, Data Engineering, Machine Learning, and Automation.
 
-The dataset was collected during July 2025 and contains structured information
+The dataset was collected during July 2026 and contains structured information
 about project requirements, technologies, skills, budgets, and client demands.
 
 ---
@@ -48,7 +48,7 @@ market for Python-related data jobs:
 
 - [x] Phase 1 - Market Data Collection
 - [x] Phase 2 - Exploratory Data Analysis (EDA)
-- [ ] Phase 3 - Market Insights & Visualization
+- [x] Phase 3 - Market Insights & Visualization
 - [ ] Phase 4 - Portfolio Project Design
 
 ---

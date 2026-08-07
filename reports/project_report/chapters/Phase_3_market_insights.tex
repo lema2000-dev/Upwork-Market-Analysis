@@ -1,0 +1,314 @@
+% !TEX root = ../main.tex
+
+\chapter{Phase 3 - Market Insights}
+
+\section{Objectives}
+
+Phase 2 focused on collecting and analysing empirical data from Python-related freelance job postings. While the previous phase answered the individual
+research questions separately, the objective of Phase 3 is to transform those findings into a coherent set of market insights that can support decision making.
+
+Rather than introducing new analyses, this phase synthesises the results of the previous chapter to identify recurring market patterns, determine the most
+valuable technical skills, compare different Python career paths, and highlight the technologies that appear most relevant for entry-level freelancers.
+
+The resulting market insights provide the foundation for Phase 4, where they will be used to define the requirements of a market-oriented
+portfolio project roadmap.
+
+\section{Synthesis of the Market Analysis}
+
+The previous phase investigated the analysed freelance market from five complementary perspectives. Each research question focused on a different
+aspect of the collected job postings, ranging from the overall distribution of Python-related job categories to technology requirements and job compensation.
+
+Individually, these analyses provide valuable information about specific market characteristics. However, considered together, they reveal a coherent
+picture of the technical skills, technologies and market trends that are most relevant for Python freelancers. Table~\ref{tab:market_synthesis} summarises
+the principal findings of each research question together with their practical interpretation.
+
+\begin{table}[H]
+    \centering
+    \small
+    \caption{Summary of the principal findings obtained during the market analysis.}
+    \label{tab:market_synthesis}
+
+    \begin{tabularx}{\textwidth}{
+        c
+        p{3.6cm}
+        X
+    }
+        \toprule
+        \textbf{RQ} &
+        \textbf{Main Finding} &
+        \textbf{Implication} \\
+        \midrule
+
+        RQ1 &
+        Data Analysis is the largest job category. &
+        Entry-level opportunities are concentrated primarily in Data Analysis. \\
+
+        RQ2 &
+        Pandas and NumPy dominate package requirements. &
+        These libraries represent essential Python skills across multiple domains. \\
+
+        RQ3 &
+        Python, SQL and Excel appear most frequently. &
+        A competitive freelancer should master the core technology stack rather than Python alone. \\
+
+        RQ4 &
+        Python is commonly requested together with SQL and Excel. &
+        Portfolio projects should demonstrate the integration of complementary technologies. \\
+
+        RQ5 &
+        Machine Learning and Data Engineering generally offer higher compensation. &
+        Specialisation may provide greater long-term earning potential. \\
+
+        \bottomrule
+    \end{tabularx}
+\end{table}
+
+The synthesis presented in Table~\ref{tab:market_synthesis} demonstrates that the five research questions complement one another rather than providing
+independent observations. The analyses collectively indicate that successful Python freelancers require a combination of widely applicable programming
+skills and domain-specific expertise.
+
+The findings also reveal that market demand cannot be characterised by a single technology or programming library. Instead, employers consistently
+expect practical combinations of technologies, particularly Python together with SQL, spreadsheet software, and widely adopted data-analysis libraries.
+Furthermore, although Data Analysis represents the largest proportion of the analysed market, the pricing analysis suggests that more specialised fields,
+such as Machine Learning and Data Engineering, may offer greater long-term earning potential.
+
+These observations provide the basis for identifying the core technical skills required by the market, which are examined in the following section.
+
+\section{Core Skills Required by the Market} 
+
+The previous sections identified the technologies, programming languages, software tools, and libraries most frequently requested in the analysed
+Upwork job postings. Rather than presenting additional statistics, this section synthesizes these findings into a practical hierarchy of technical skills.
+The objective is to distinguish between universally required competencies and technologies that are valuable only for specific job types.
+This hierarchy provides the foundation for the portfolio project design presented in the next phase.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Skill hierarchy derived from the market analysis.}
+\label{tab:skill_hierarchy}
+
+\begin{tabularx}{\textwidth}{l X}
+\toprule
+\textbf{Skill Level} & \textbf{Technologies} \\
+\midrule
+
+Essential &
+Python, Pandas, NumPy, SQL, Excel \\
+
+Important &
+Power BI, Tableau, Git, Docker, Azure, REST API \\
+
+Specialized &
+Machine Learning libraries (Scikit-learn, XGBoost, LightGBM, OpenCV), Selenium, Playwright, OCR frameworks, IBM SPSS, SAS, JavaScript, PostgreSQL,
+Microsoft SQL Server, Kubernetes, CI/CD, OpenAI APIs, Claude APIs, Gemini APIs and other domain-specific technologies. \\
+
+\bottomrule
+\end{tabularx}
+\end{table} 
+
+The market analysis suggests that a relatively small set of technologies forms the foundation of most freelance data-related jobs. Python clearly represents
+the central programming language, while Pandas and NumPy constitute the most consistently requested Python libraries. SQL and Excel also appear across
+nearly every analysed job category, indicating that database querying and spreadsheet-based data manipulation remain essential practical skills.
+
+A second tier of technologies consists of tools that substantially increase employability but are not required for every job. These include
+business intelligence platforms such as Power BI and Tableau, collaborative development tools such as Git, deployment technologies such as Docker,
+cloud platforms including Azure, and REST APIs for interacting with external services.
+
+Finally, a number of specialised technologies appear only within particular domains. Machine Learning jobs frequently require dedicated frameworks such as
+Scikit-learn, XGBoost or LightGBM, while automation jobs introduce tools such as Selenium and Playwright. Similarly, cloud infrastructure, OCR libraries,
+large language model APIs, and orchestration technologies occur only in subsets of the analysed jobs.
+
+This hierarchy indicates that portfolio development should prioritise mastery of the essential technologies before expanding toward specialised domains.
+A strong foundation built on Python, SQL, Pandas, NumPy and Excel is therefore expected to maximise applicability across the largest proportion of freelance
+opportunities.
+
+\section{Comparison of Python Career Paths} 
+
+The previous sections identified the most common job categories, technologies, required skills, and compensation patterns within the analysed Upwork dataset.
+This section combines these findings to provide a qualitative comparison of the four primary Python-related career paths represented in the collected
+job postings. Rather than focusing on individual statistics, the objective is to characterise each market segment from the perspective of a
+prospective freelance developer.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Comparison of the major Python-related freelance career paths.}
+\label{tab:career_comparison}
+
+\begin{tabularx}{\textwidth}{l c c c X}
+\toprule
+\textbf{Category} &
+\textbf{Demand} &
+\textbf{Complexity} &
+\textbf{Compensation} &
+\textbf{Typical Technologies} \\
+\midrule
+
+Data Analysis &
+High &
+Medium &
+Medium &
+Python, Pandas, NumPy, SQL, Excel, Power BI \\
+
+Data Engineering &
+Medium &
+High &
+High &
+Python, SQL, Docker, Azure, REST APIs \\
+
+Machine Learning &
+Medium &
+Very High &
+High &
+Python, Scikit-learn, XGBoost, LightGBM, OpenCV \\
+
+Python Automation &
+Low &
+Medium &
+Medium &
+Python, Selenium, Playwright, JavaScript \\
+
+\bottomrule
+\end{tabularx}
+
+\end{table}
+
+The market analysis reveals that the analysed Python freelance market is composed of several distinct career paths with different characteristics.
+
+Data Analysis represents the largest and most accessible segment of the market. It contains the highest number of job postings and relies primarily on a
+relatively stable collection of widely adopted tools, including Python, Pandas, NumPy, SQL, and Excel. Although compensation is generally moderate compared with
+more specialised domains, the high demand makes this category particularly attractive for beginners seeking to build practical experience.
+
+Data Engineering occupies a smaller but more technically demanding segment. jobs frequently involve database management, cloud platforms, APIs, and
+deployment technologies. While the required technical complexity is noticeably higher, the analysed jobs also indicate a tendency toward larger budgets and
+higher hourly rates.
+
+Machine Learning forms the most specialised category within the analysed dataset. In addition to the common Python ecosystem, these jobs require dedicated
+machine learning libraries and domain-specific knowledge. Although the number of available jobs is lower than for Data Analysis, the observed budgets suggest
+that advanced expertise is generally rewarded with higher compensation.
+
+Python Automation appears as the smallest of the four primary categories. Most jobs focus on browser automation, scripting, or workflow automation using
+tools such as Selenium and Playwright. While the technical barrier to entry is lower than for Machine Learning or Data Engineering, the overall number of
+opportunities identified in the analysed sample is also considerably smaller.
+
+Overall, the comparison suggests that the different career paths represent different trade-offs between market size, technical complexity, and earning potential.
+Data Analysis offers the broadest entry point into the freelance market, whereas Data Engineering and Machine Learning provide opportunities for higher long-term
+compensation at the cost of greater technical specialisation. Python Automation occupies a niche position, serving clients with specific automation requirements
+rather than general data-related tasks.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Key market insights derived from the analysis.}
+\label{tab:key_market_insights}
+
+\begin{tabularx}{\textwidth}{l X}
+\toprule
+\textbf{Market Insight} & \textbf{Practical Meaning} \\
+\midrule
+
+Python is the universal programming language &
+Every portfolio project should be implemented primarily in Python. \\
+
+SQL is a core complementary skill &
+Database querying is expected across nearly every data-related role. \\
+
+Python alone is rarely sufficient &
+Clients typically require combinations of programming, databases and business tools. \\
+
+Specialisation increases earning potential &
+Data Engineering and Machine Learning projects generally offer higher compensation. \\
+
+Technology integration is highly valued &
+Successful projects combine multiple complementary technologies rather than demonstrating isolated skills. \\
+
+\bottomrule
+\end{tabularx}
+\end{table}
+
+The findings summarised in Table \ref{tab:key_market_insights} represent the principal conclusions of the market analysis. Rather than describing individual
+technologies or job categories, these insights identify the characteristics that consistently distinguish successful freelance projects. Consequently,
+these observations provide the design principles for the portfolio roadmap developed in the following phase.
+
+\section{Implications for Portfolio Development}
+
+The analyses presented in the previous sections not only describe the current Python freelance market but also provide clear guidance for
+portfolio design. Each freelance category is characterised by a distinct combination of technologies, technical complexity and client expectations.
+Consequently, portfolio projects should be designed to reflect the requirements of their target market rather than demonstrating isolated
+programming techniques.
+
+\medskip
+
+\textbf{Data Analysis}
+
+A competitive Data Analysis portfolio should demonstrate the ability to analyse real-world datasets and communicate meaningful insights.
+
+\begin{itemize}
+    \item use Pyhton as the primary programming language;
+    \item demonstrate practical use of Pandas and NumPy for data manipulation;
+    \item integrate SQL for data extraction and querying;
+    \item include data cleaning and preprocessing;
+    \item perfom exploratory data analysis;
+    \item produce informative visualisations using libraries such as Matplotlib or Seaborn;
+    \item present interpretable conclisons and recommendations based on the analysis;
+    \item optionally integrate business intelligence tools such as Power BI or Tableau for interactive dashboards.
+\end{itemize}
+
+\medskip
+
+\textbf{Data Engineering}
+
+A competitive Data Engineering portfolio should demonstrate the ability to build reliable and scalable data-processing workflows.
+
+\begin{itemize}
+    \item integrate Python with SQL database;
+    \item demonstrate automated ETL or ELT piplene;
+    \item include data validation and transformation;
+    \item interact with external APIs;
+    \item demonstrate version control using Git;
+    \item include containerisation with Docker where appropriate;
+    \item show reprosucible and moudlar project organisation.
+\end{itemize}
+
+\medskip
+\textbf{Machine Learning}
+
+A competitive Machine Learning portfolio should demonstrate the complete lifecycle of a predictive modelling project.
+
+\begin{itemize}
+    \item perfom data preprocessing and feature engineering;
+    \item implement machine learning models using Scikit-learn or similar libraries;
+    \item compare miltiple modelling approaches;
+    \item evaluate model performance using appropriate metrics;
+    \item present clear interpretations of the model results;
+    \item demonstrate reproducible experimentation and well-structured code.
+\end{itemize}
+
+\medskip
+\textbf{Python Automation}
+
+A competitive Python Automation portfolio should demonstrate the ability to automate realistic business processes and repetitive tasks.
+
+\begin{itemize}
+    \item automate data collection or processing workflows using Python scripts;
+    \item interact with web pages or external APIs;
+    \item demonstrate browser automation where appropriate;
+    \item integrate spreadsheet processing where relevant;
+    \item emphasise robutness through logging and error handling;
+    \item produce reusable and well-documneted automation scripts.
+\end{itemize}
+
+\section[Phase 3 Summary]{Phase Summary}
+
+Phase 3 transformed the quantitative results obtained during the exploratory market analysis into a coherent set of practical market insights.
+Rather than examining individual statistics in isolation, the analyses were synthesised to identify the core technical skills required by the market,
+compare the major Python-related freelance career paths, and establish category-specific requirements for competitive portfolio projects.
+
+Although the four freelance categories differ considerably in their technical focus, several common characteristics emerged from the market analysis.
+Successful portfolio projects should demonstrate practical problem solving, clean software engineering practices, realistic datasets, and the integration
+of multiple complementary technologies. At the same time, each career path requires its own combination of domain-specific tools and workflows, which
+should be reflected in the portfolio.
+
+Consequently, the market insights developed throughout this phase establish a set of design requirements rather than specific project ideas. These
+requirements provide the foundation for the next phase, in which a portfolio roadmap will be constructed by selecting projects that satisfy the
+identified market needs while covering the most relevant technologies and skills.
